@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_Interaction_InsulinHexamer_Formation
+  m_EditorClassIdentifier: 
+  nodeName: Hexamer Formation
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 8
+  nodeConstituents: 160000001700000018000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: How is an Insulin Hexamer formed?
+    basic: 
+    intermediate: 'In the vesicle, insulin interacts with other monomeric insulins
+      to form assemblies.
+
+      Two insulin monomers form a dimer.
+
+      Three
+      insulin dimers assemble to form a hexamer.
+
+      The vesicle contains Zn ions
+      that stabilize the hexamers.'
+    advanced: 'Two zinc ions stabilize the hexamer via interactions with histidine
+      amino acid residues '
+  nodeSpriteLayer: []

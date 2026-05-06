@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{2ab382d2-da59-4053-b6ea-4c11fc7fb442}">
+		<property name="name">
+			<value>to_insulin</value>
+		</property>
+		<relationship name="folder">
+			<destination>{94ca635c-f0d2-4da8-aa74-68ac4030af26}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ef932112-e47e-41b3-a20b-af52edd124f1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ef932112-e47e-41b3-a20b-af52edd124f1}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4501359918318463151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8985435909442364348}
+  m_Layer: 0
+  m_Name: rawPivot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8985435909442364348
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4501359918318463151}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.033, y: 0.033, z: 0.033}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5504774524754169061}
+  m_Father: {fileID: 8494359662483919739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5011351287873742712
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8494359662483919739}
+  m_Layer: 0
+  m_Name: Tetrascape_phosGlucIsomerase_1HOX
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8494359662483919739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5011351287873742712}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8985435909442364348}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &5471409822759578382
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8985435909442364348}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.373142
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -25.836523
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9332928
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.35911638
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 42.092
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_Name
+      value: tetrascape_phosphoglucoseIsomerase_1HOX
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664321717176204285, guid: a8a615e087ceffd4b85d890838cb8a5a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19b7f8b06200b8248a4458af01b4f4c8, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a8a615e087ceffd4b85d890838cb8a5a, type: 3}
+--- !u!4 &5504774524754169061 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a8a615e087ceffd4b85d890838cb8a5a,
+    type: 3}
+  m_PrefabInstance: {fileID: 5471409822759578382}
+  m_PrefabAsset: {fileID: 0}

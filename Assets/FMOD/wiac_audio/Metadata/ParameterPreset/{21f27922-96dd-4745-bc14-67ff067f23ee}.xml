@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{21f27922-96dd-4745-bc14-67ff067f23ee}">
+		<property name="name">
+			<value>Region</value>
+		</property>
+		<relationship name="folder">
+			<destination>{94ca635c-f0d2-4da8-aa74-68ac4030af26}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{6b7c67e7-be72-4c96-a136-bb8f344c7996}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{6b7c67e7-be72-4c96-a136-bb8f344c7996}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>9</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>extracellular</value>
+			<value>glp1r</value>
+			<value>insulin</value>
+			<value>lobby</value>
+			<value>snare</value>
+			<value>deep_cell</value>
+			<value>scene0</value>
+			<value>scene1</value>
+			<value>scene3</value>
+		</property>
+		<property name="initialValue">
+			<value>3</value>
+		</property>
+	</object>
+</objects>

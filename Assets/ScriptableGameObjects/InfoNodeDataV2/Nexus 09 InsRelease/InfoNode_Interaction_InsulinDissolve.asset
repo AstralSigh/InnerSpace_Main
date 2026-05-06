@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_Interaction_InsulinDissolve
+  m_EditorClassIdentifier: 
+  nodeName: The Insulin Crystal Dissolves
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 9
+  nodeType: 1
+  nodeConstituents: 18000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: What is happening to the insulin crystal?
+    basic: "Once the vesicle and cell membranes fuse, a channel opens up, letting
+      water into the vesicle environment. \nThe insulin in the vesicle environment
+      becomes less concentrated and the insulin crystal starts dissolving. "
+    intermediate: 
+    advanced: "The exocytosis exposes the insulin crystal to interstitial fluid which
+      has low insulin concentration, thus causing the crystal to dissolve. \nThe
+      hydrophilic nature of insulin hexamers combined with the neutral pH and water
+      in the interstitial fluid help facilitate the dissolving process."
+  - title: Why is it important that the insulin crystal is dissolving?
+    basic: "Insulin regulates processes all over the body. \nDissolved insulin can
+      traverse quickly through the bloodstream to reach target organs. \nInsulin
+      crystals densely house many insulin molecules. \nReleasing insulin from a dense
+      deposit supplies insulin to the whole body quickly.\r"
+    intermediate: 
+    advanced: 
+  nodeSpriteLayer: []

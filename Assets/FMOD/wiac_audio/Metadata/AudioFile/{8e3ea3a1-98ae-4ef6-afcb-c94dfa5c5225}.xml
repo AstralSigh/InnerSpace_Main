@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8e3ea3a1-98ae-4ef6-afcb-c94dfa5c5225}">
+		<property name="assetPath">
+			<value>wiac_phase4_assets/VO_Rafi/Rafi_17_WhenGProteinsAreBound.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>16.593741496598639</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1a0c9296-7d80-480f-bd9d-e0433d8a2436}</destination>
+		</relationship>
+	</object>
+</objects>

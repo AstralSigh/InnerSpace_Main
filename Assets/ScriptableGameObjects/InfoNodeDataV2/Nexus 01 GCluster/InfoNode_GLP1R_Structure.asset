@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_GLP1R_Structure
+  m_EditorClassIdentifier: 
+  nodeName: GLP-1R's Structure
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 1
+  nodeType: 0
+  nodeConstituents: 06000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: What is GLP-1R's structure?
+    basic: 'GLP-1R has three parts: the extracellular domain, transmembrane domain
+      and intracellular domain.'
+    intermediate: 
+    advanced: "GLP-1R is a class B secretin GPCR that conserves many characteristics
+      in the family. \nIt spans the plasma membrane via a 7-helix transmembrane bundle.
+      \nA large N-terminal extracellular domain is critical for ligand recognition
+      and binding. \nIt also has an intracellular helix at the C terminus."
+  - title: What is GLP-1R's extracellular domain?
+    basic: "The extracellular domain is outside the cell and is connected to the
+      transmembrane domain. \nIt moves and tilts and can affect how and if certain
+      molecular structures bind to GLP-1R"
+    intermediate: 
+    advanced: 
+  - title: What is GLP-1R's transmembrane domain?
+    basic: "The transmembrane domain is a bundle of 7 helices that are embedded in
+      the membrane. \nThey ensure GLP-1R stays on the membrane and receives signals
+      from outside of the cell"
+    intermediate: 
+    advanced: 
+  - title: What is GLP-1R's intracellular domain?
+    basic: 'The intracellular domain is the part of GLP-1R that faces the cell interior.
+
+      Under
+      certain conditions it provides a binding pocket for nearby G proteins'
+    intermediate: 
+    advanced: 
+  nodeSpriteLayer: []

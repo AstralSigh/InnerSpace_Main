@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{3a70e504-526c-4160-b805-f532f6802b29}">
+		<property name="name">
+			<value>GProtein_bank</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b31aa2cb-c9f6-42dd-9db3-3e716c23c5a2}</destination>
+		</relationship>
+	</object>
+</objects>

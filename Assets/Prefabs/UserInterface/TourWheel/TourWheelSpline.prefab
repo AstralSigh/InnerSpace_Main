@@ -1,0 +1,466 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4889491062344484832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4889491062344484834}
+  - component: {fileID: 4889491062344484835}
+  - component: {fileID: 4889491062344484846}
+  - component: {fileID: 4889491062344484841}
+  m_Layer: 0
+  m_Name: TourWheelSpline
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4889491062344484834
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4889491062344484832}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4889491062344484835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4889491062344484832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dab5c7d4c32e743048dfca98e2d5914f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Spline:
+    m_EditModeType: 1
+    m_Knots: []
+    m_Length: -1
+    m_MetaData: []
+    m_Closed: 0
+  m_Splines:
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: 0
+        y: 3.94
+        z: -13.07
+      TangentIn:
+        x: -0
+        y: -0
+        z: -3.8560343
+      TangentOut:
+        x: 0
+        y: 0
+        z: 3.8560343
+      Rotation:
+        value:
+          x: 0
+          y: -0.35024184
+          z: 0
+          w: 0.9366593
+    - Position:
+        x: -3.46
+        y: 4.01
+        z: -6.23
+      TangentIn:
+        x: 0
+        y: 0
+        z: -2.662586
+      TangentOut:
+        x: 0
+        y: 0
+        z: 1.3312929
+      Rotation:
+        value:
+          x: 0.024832333
+          y: -0.08256553
+          z: 0.27366534
+          w: 0.9579528
+    - Position:
+        x: -0.54
+        y: 3.57
+        z: -2.98
+      TangentIn:
+        x: -0.53116894
+        y: -0.6514467
+        z: -0.937819
+      TangentOut:
+        x: 0.42553854
+        y: 0.35138312
+        z: 0.53874826
+      Rotation:
+        value:
+          x: 0.3376563
+          y: 0.414061
+          z: 0.08411319
+          w: 0.8411104
+    - Position:
+        x: 1.42
+        y: 4.196
+        z: -3.02
+      TangentIn:
+        x: -0.28197432
+        y: -0.42601907
+        z: -0.4346075
+      TangentOut:
+        x: 0.2963972
+        y: 0.42351985
+        z: 0.3574407
+      Rotation:
+        value:
+          x: 0.36585402
+          y: 0.5315863
+          z: -0.16464071
+          w: 0.7459626
+    - Position:
+        x: 4.3
+        y: -2.07
+        z: -2.63
+      TangentIn:
+        x: 0
+        y: 0
+        z: -0.5882426
+      TangentOut:
+        x: 0
+        y: 0
+        z: 1.6468782
+      Rotation:
+        value:
+          x: 0.44501594
+          y: 0.65452254
+          z: -0.07706119
+          w: 0.60631895
+    - Position:
+        x: 9.09
+        y: -1.66
+        z: -6.7400002
+      TangentIn:
+        x: -0
+        y: -0
+        z: -2.704555
+      TangentOut:
+        x: 0
+        y: 0
+        z: 2.704555
+      Rotation:
+        value:
+          x: 0.14523906
+          y: 0.9557046
+          z: -0.227074
+          w: 0.11820206
+    - Position:
+        x: 3.41
+        y: -2.25
+        z: -23.24
+      TangentIn:
+        x: -0
+        y: -0
+        z: -3.504733
+      TangentOut:
+        x: 0
+        y: 0
+        z: 3.504733
+      Rotation:
+        value:
+          x: -0.078956425
+          y: 0.92681515
+          z: -0.16480035
+          w: -0.32805574
+    - Position:
+        x: 0.44
+        y: 4.51
+        z: -8.61
+      TangentIn:
+        x: -0
+        y: -0
+        z: -11.187668
+      TangentOut:
+        x: 0
+        y: 0
+        z: 11.187668
+      Rotation:
+        value:
+          x: -0.496128
+          y: -0.0027402474
+          z: -0.13004552
+          w: 0.85845083
+    m_Length: -1
+    m_MetaData:
+    - Mode: 2
+      Tension: 0.33333334
+    - Mode: 3
+      Tension: 0.33333334
+    - Mode: 4
+      Tension: 0.33333334
+    - Mode: 4
+      Tension: 0.33333334
+    - Mode: 3
+      Tension: 0.33333334
+    - Mode: 2
+      Tension: 0.33333334
+    - Mode: 2
+      Tension: 0.33333334
+    - Mode: 2
+      Tension: 0.33333334
+    m_Closed: 0
+  m_Knots:
+    m_KnotsLink: []
+--- !u!114 &4889491062344484846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4889491062344484832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c63b78caf1e619144bf18b88688e4a91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spline: {fileID: 4889491062344484835}
+  tourStops:
+  - animationEndTime: 0
+    splineEndTime: 0
+    text: 
+    selectableConstituentTypes: 
+    annotation: []
+    highlight: []
+    voiceOverEvent:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    animationPlaySpeed: 1
+    visualFocus: {fileID: 0}
+  - animationEndTime: 7.87
+    splineEndTime: 0.1
+    text: GLP-1 is a hormone that is released by the small intestine after eating.
+      It travels through the bloodstream until it reaches its target, the GLP-1 receptor,
+      GLP-1R, located on the membrane that surrounds the pancreatic beta cell.
+    selectableConstituentTypes: 0500000006000000
+    annotation:
+    - {fileID: 0}
+    - {fileID: 0}
+    highlight:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    voiceOverEvent:
+      Guid:
+        Data1: 838400649
+        Data2: 1152791153
+        Data3: -1877677392
+        Data4: -939821874
+      Path: event:/Vo/stop_01
+    animationPlaySpeed: 1
+    visualFocus: {fileID: 0}
+  - animationEndTime: 10.3
+    splineEndTime: 0.2
+    text: 'GLP-1 fits into a binding pocket on GLP-1R. The binding pocket is composed
+      of several amino acids whose overall shape accommodates the GLP-1. Drugs designed
+      to treat diabetes mimic this interaction between GLP-1 and the binding pocket. '
+    selectableConstituentTypes: 0500000006000000
+    annotation:
+    - {fileID: 0}
+    highlight: []
+    voiceOverEvent:
+      Guid:
+        Data1: -1267966398
+        Data2: 1311053540
+        Data3: -51899732
+        Data4: -929943352
+      Path: event:/Vo/stop_02
+    animationPlaySpeed: 1
+    visualFocus: {fileID: 0}
+  - animationEndTime: 10.3
+    splineEndTime: 0.21400058
+    text: 'Proteins are composed of Amino Acids Amino acids on both the GLP-1 and
+      the GLP-1R interact to keep the two proteins bound. Here you can see these
+      amino acids highlighted. '
+    selectableConstituentTypes: 0500000006000000
+    annotation:
+    - {fileID: 0}
+    highlight: []
+    voiceOverEvent:
+      Guid:
+        Data1: 1863275755
+        Data2: 1083338497
+        Data3: 262192548
+        Data4: 1070353208
+      Path: event:/Vo/stop_03
+    animationPlaySpeed: 1
+    visualFocus: {fileID: 0}
+  - animationEndTime: 12
+    splineEndTime: 0.33700082
+    text: "When GLP-1 and GLP-1R bind, there are two conformational changes in the
+      GLP-1R. The first is a tilt of the extracellular domain, the second conformational
+      change is a kink or bend in one of GLP-1R\u2019s helices."
+    selectableConstituentTypes: 0500000006000000
+    annotation:
+    - {fileID: 0}
+    highlight:
+    - {fileID: 0}
+    voiceOverEvent:
+      Guid:
+        Data1: -610750386
+        Data2: 1217847133
+        Data3: -1244307272
+        Data4: -366966044
+      Path: event:/Vo/stop_04
+    animationPlaySpeed: 1
+    visualFocus: {fileID: 0}
+  - animationEndTime: 17.66
+    splineEndTime: 0.41200113
+    text: 'This change is important because it creates a second binding pocket.  '
+    selectableConstituentTypes: 050000000600000007000000
+    annotation:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    highlight:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    voiceOverEvent:
+      Guid:
+        Data1: 248746673
+        Data2: 1214468763
+        Data3: -433062246
+        Data4: -551528891
+      Path: event:/Vo/stop_05
+    animationPlaySpeed: 1
+    visualFocus: {fileID: 0}
+  - animationEndTime: 23.72
+    splineEndTime: 0.4340022
+    text: 'When G Proteins are bound to guanosine diphosphate (GDP) they are inactive.
+      When the G Protein complex interacts with GLP-1R, the GDP is swapped for guanosine
+      triphosphate (GTP). This activates the G Protein complex.  '
+    selectableConstituentTypes: 07000000090000000a00000006000000
+    annotation:
+    - {fileID: 0}
+    - {fileID: 0}
+    highlight:
+    - {fileID: 0}
+    - {fileID: 0}
+    voiceOverEvent:
+      Guid:
+        Data1: -1449878367
+        Data2: 1215923543
+        Data3: -1923195249
+        Data4: 1386147889
+      Path: event:/Vo/stop_06
+    animationPlaySpeed: 1
+    visualFocus: {fileID: 0}
+  - animationEndTime: 26
+    splineEndTime: 0.71999973
+    text: "The activation of the G Protein complex allows it to split into two subunits,
+      G\u03B2\u0263 and G\u03B1. "
+    selectableConstituentTypes: 0700000008000000090000000a00000006000000
+    annotation:
+    - {fileID: 0}
+    - {fileID: 0}
+    highlight:
+    - {fileID: 0}
+    - {fileID: 0}
+    voiceOverEvent:
+      Guid:
+        Data1: 1053011344
+        Data2: 1145622830
+        Data3: -558992764
+        Data4: 243921714
+      Path: event:/Vo/stop_07
+    animationPlaySpeed: 1
+    visualFocus: {fileID: 0}
+  - animationEndTime: 28.65
+    splineEndTime: 0.78300023
+    text: "The G\u03B1 subunit holds the GTP molecule and will take it to proteins
+      in the next step in the insulin secretion pathway."
+    selectableConstituentTypes: 07000000080000000a0000000900000006000000
+    annotation:
+    - {fileID: 0}
+    - {fileID: 0}
+    highlight:
+    - {fileID: 0}
+    - {fileID: 0}
+    voiceOverEvent:
+      Guid:
+        Data1: 899957917
+        Data2: 1333683579
+        Data3: 267300274
+        Data4: 975490870
+      Path: event:/Vo/stop_08
+    animationPlaySpeed: 1
+    visualFocus: {fileID: 0}
+  - animationEndTime: 69.9
+    splineEndTime: 0.81800103
+    text: 'As long as GLP-1 remains bound to GLP-1R, it provides a window of opportunity
+      for other G Proteins to be activated. The process will repeat 3-5 times depending
+      on availability of G Proteins.  '
+    selectableConstituentTypes: 060000000700000008000000090000000a000000
+    annotation: []
+    highlight: []
+    voiceOverEvent:
+      Guid:
+        Data1: -1391094672
+        Data2: 1125006923
+        Data3: -42665324
+        Data4: 1448916459
+      Path: event:/Vo/stop_09
+    animationPlaySpeed: 3
+    visualFocus: {fileID: 0}
+  - animationEndTime: 83.85
+    splineEndTime: 1
+    text: 'GLP-1 eventually leaves GLP-1R. The whole cycle can start again, with
+      another GLP-1 binding to the receptor.  '
+    selectableConstituentTypes: 0500000006000000
+    annotation:
+    - {fileID: 0}
+    - {fileID: 0}
+    highlight:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    voiceOverEvent:
+      Guid:
+        Data1: 1137259874
+        Data2: 1329413444
+        Data3: 935066496
+        Data4: 883785598
+      Path: event:/Vo/stop_10
+    animationPlaySpeed: 2
+    visualFocus: {fileID: 0}
+--- !u!114 &4889491062344484841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4889491062344484832}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2e91b784ae5c594784fe9f5c4b33151, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spline: {fileID: 4889491062344484835}
+  splineData: {fileID: 4889491062344484846}
+  prefabMesh: {fileID: 2903245073582283854, guid: 246a01e0e0f91d2408c0958145ab58fd,
+    type: 3}
+  useStuff: 0

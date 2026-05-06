@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f6edfb9e-9a05-4468-b015-3f9c288e0809}">
+		<property name="assetPath">
+			<value>wiac_phase4_assets/ui_transition_v2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.1250113378684805</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1a0c9296-7d80-480f-bd9d-e0433d8a2436}</destination>
+		</relationship>
+	</object>
+</objects>

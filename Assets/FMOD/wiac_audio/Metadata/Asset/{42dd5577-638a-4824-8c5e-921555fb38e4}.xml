@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{42dd5577-638a-4824-8c5e-921555fb38e4}">
+		<property name="assetPath">
+			<value>wiac_phase4_assets/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1a0c9296-7d80-480f-bd9d-e0433d8a2436}</destination>
+		</relationship>
+	</object>
+</objects>

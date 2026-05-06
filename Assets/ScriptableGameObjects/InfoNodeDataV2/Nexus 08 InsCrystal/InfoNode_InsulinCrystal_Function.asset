@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_InsulinCrystal_Function
+  m_EditorClassIdentifier: 
+  nodeName: The Insulin Crystal
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 8
+  nodeType: 0
+  nodeConstituents: 18000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: 'What is an Insulin crystal?
+
+
+
+'
+    basic: "Highly concentrated insulin solidifies into a crystal. \r\nThis crystal
+      can reach a diameter of 150nm and contains ~100000 insulin monomers. Scientists
+      don't yet know what the exact crystal structure is, or why it happens."
+    intermediate: 
+    advanced: "Insulin crystallization is possibly a result of insulin enrichment,
+      zinc enrichment and acidification of the insulin vesicle. \nThis phenomenon
+      is widely acknowledged, yet the definitive in cellulo crystal structure and
+      its evolutionary advantage remain elusive."
+  nodeSpriteLayer: []

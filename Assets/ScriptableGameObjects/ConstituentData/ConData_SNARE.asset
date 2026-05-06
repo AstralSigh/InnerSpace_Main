@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98a8cc874a0ba546a0f446bce49bcba, type: 3}
+  m_Name: ConData_SNARE
+  m_EditorClassIdentifier: 
+  eConType: 26
+  conPortrait: {fileID: 0}
+  conMetroCardBG: {fileID: 0}
+  conName: SNARE Complex
+  pathwayNarrative: 
+  npcDialogs: []
+  conHeader: SNARE Complex
+  conSubHeader: SNAP REceptor
+  conInfoPoints: []
+  conInfoSources: "Sutton, R., et. al. Nature 395, 347\u2013353 (1998)"
+  conPathway: Insulin Secretion
+  conPDBNums: 1SFC (synaptic fusion complex)
+  conFunction: Mediates vesicle fusion by forming a SNARE complex
+  conDescription: 'SNARE proteins on vesicle and plasma membrane interact and create
+    a SNARE complex that brings two membranes into close proximity, facilitating
+    the fusion of the two membranes and the release of the vesicle contents into
+    a target compartment.
+
+'
+  conOrigin: 
+  conDimensions: 'Volume: 36000 cubic angstrom
+
+    Radius: 26 angstroms
+
+    Height:
+    114 angstroms'
+  conOpaqueMaterial: {fileID: 0}
+  conClearMaterial: {fileID: 0}

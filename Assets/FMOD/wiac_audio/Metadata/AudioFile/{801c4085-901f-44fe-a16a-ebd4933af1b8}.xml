@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{801c4085-901f-44fe-a16a-ebd4933af1b8}">
+		<property name="assetPath">
+			<value>wiac_phase4_assets/oneshot_snare_complex_membrane_open_v6.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>15.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1a0c9296-7d80-480f-bd9d-e0433d8a2436}</destination>
+		</relationship>
+	</object>
+</objects>

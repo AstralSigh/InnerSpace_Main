@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fc1d9057-96c3-4c7c-9daf-cfd07fd27719}">
+		<property name="assetPath">
+			<value>wiac_phase4_assets/VO_Rafi/Rafi_09_WeAreTravellingNow.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>4.6249886621315195</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1a0c9296-7d80-480f-bd9d-e0433d8a2436}</destination>
+		</relationship>
+	</object>
+</objects>

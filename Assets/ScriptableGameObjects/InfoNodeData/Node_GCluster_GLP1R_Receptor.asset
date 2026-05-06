@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bcbe66e6165a37409b24f90989a5847, type: 3}
+  m_Name: Node_GCluster_GLP1R_Receptor
+  m_EditorClassIdentifier: 
+  nodeName: 
+  nodeNumber: 0
+  nodeNexus: 1
+  nodeConstituents: 06000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - GLP1-R is a receptor. A receptor protein sits in the cell's membrane or inside
+    of the cell.
+  - When bound by other molecules, it changes shape (Conformational Change) and transmits
+    (Signal Transduction) information to the cell.
+  - (Conformational Change) A change in a macromolecule's shape, frequently caused
+    by something in its environment. This change often affects the molecule's function.
+  - (Signal Transduction) The process by which a cell receives information from outside
+    and transmits that information through a series of molecules inside.
+  - GLP1 is the endogenous ligand for GLP1R, while other molecules can activate GLP1-R
+    too, resulting in similar or different effects.
+  nodeSpriteLayer: []

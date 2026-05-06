@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b577725b729a8844cada69445e0fdade, type: 3}
+  m_Name: NexusData_GCluster
+  m_EditorClassIdentifier: 
+  nexusName: G Protein Coupled Receptor (GPCR)
+  nexusFullName: GLP1 Receptor Complex
+  nexusType: 1
+  nexusDescription: 'After a meal, intestines send a message to the pancreas.
+
+    This
+    group of molecules is where the pancreatic beta cell is listening for that message.'
+  constituentDatas:
+  - {fileID: 11400000, guid: 8c0271f531b343b42838aa1e98b034d5, type: 2}
+  - {fileID: 11400000, guid: 722394daafb2b294fb1c1323040de08c, type: 2}
+  - {fileID: 11400000, guid: d64aee5b3cfe509448fa23174abe7f58, type: 2}
+  - {fileID: 11400000, guid: 0549de30252ea8a4d8a552166f774cb3, type: 2}
+  - {fileID: 11400000, guid: 8957df78fb3e10c48bf3899c4ba18e10, type: 2}
+  - {fileID: 11400000, guid: 38599283c7ff3194aa818a4aad660e47, type: 2}
+  - {fileID: 11400000, guid: bcecd94fb24ae01439e3c8fa5cb9b483, type: 2}

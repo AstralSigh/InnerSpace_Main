@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94e8900bdbef942ad19f626cdac685, type: 3}
+  m_Name: Horizontal_Scene4
+  m_EditorClassIdentifier: 
+  sceneHeader: Scene 4
+  sceneSubHeader: Packaging and Shipping
+  NarrationBeats:
+  - narrationText: "As more and more strands of preproinsulin accumulate within the
+      Endoplasmic reticulum, they get bundled together inside budding transport vesicles
+      forming across the surface of the ER. \r"
+    narrationTrack:
+      Guid:
+        Data1: -669289433
+        Data2: 1250567003
+        Data3: -1141371997
+        Data4: -280400298
+      Path: event:/VO/scene_04_01
+  - narrationText: "Intricate molecular processes help scaffold and shape the budding
+      vesicles into spherical membrane bubbles.\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 94152385
+        Data2: 1141051679
+        Data3: 826572961
+        Data4: 1181848632
+      Path: event:/VO/scene_04_02
+  - narrationText: "When ready, the transport vesicles detach from the ER. \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 2009608668
+        Data2: 1118084383
+        Data3: 257157510
+        Data4: 1046173779
+      Path: event:/VO/scene_04_03
+  - narrationText: "Once in the cytoplasm, the vesicles are towed through the currents
+      of the cell\u2019s cytoplasm until they reach their intended port, the Golgi
+      Apparatus.\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -748022855
+        Data2: 1146067358
+        Data3: -1013074282
+        Data4: -397164746
+      Path: event:/VO/scene_04_04
+  - narrationText: "SNARE proteins on the vesicles\u2019 and Golgi\u2019s membranes
+      bind together when close enough, helping bring the transports smoothly into
+      dock. .\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -1373046708
+        Data2: 1181592832
+        Data3: -1809125226
+        Data4: -820858571
+      Path: event:/VO/scene_04_05
+  - narrationText: "The vesicles\u2019 membranes will fuse and melt into that of
+      the Golgi Apparatus, successfully depositing their cargo of preproinsulin inside
+      the organelle.\r\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 15803538
+        Data2: 1132934048
+        Data3: -1086106692
+        Data4: -530776114
+      Path: event:/VO/scene_04_06
+  - narrationText: "Further processing and packaging of the preproinsulin will happen
+      inside the Golgi, converting it into proinsulin. \r\r\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 128561974
+        Data2: 1255286099
+        Data3: -742477891
+        Data4: -1768533319
+      Path: event:/VO/scene_04_07
+  - narrationText: "Eventually, new, larger insulin secretory vesicles will begin
+      budding off the Golgi\u2019s membrane - grand containers ready to ship the
+      proinsulin through the last leg of its journey.\r\r\r\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -1102953392
+        Data2: 1157727265
+        Data3: -804930150
+        Data4: -201882998
+      Path: event:/VO/scene_04_08

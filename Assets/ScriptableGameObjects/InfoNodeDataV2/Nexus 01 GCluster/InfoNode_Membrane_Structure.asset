@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_Membrane_Structure
+  m_EditorClassIdentifier: 
+  nodeName: The Cell Membrane
+  nodePreview: {fileID: 0}
+  nodeNumber: 11
+  nodeNexus: 1
+  nodeType: 0
+  nodeConstituents: 1b000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: 'What is the membrane and what is it made of?
+
+
+
+'
+    basic: "Every cell is enclosed by a membrane that contains large biomolecules.
+      \nThe membrane is primarily made up of two layers of phospholipid (fat) called
+      the phospholipid bilayer."
+    intermediate: 
+    advanced: "The current model of the plasma membrane is a fluid lipid surface
+      integrated with carbohydrates, proteins and glycoproteins. \nThese integrated
+      biomolecules are functional components of the cell and can move freely along
+      the membrane."
+  - title: 'What is the lipid bilayer and why is it important?
+
+
+
+'
+    basic: "The phospholipid bilayer is two layers of phospholipid molecules arranged
+      with opposing ends facing each other. \nThe lipid bilayer separates the inside
+      from the outside of the cell, allowing the cell to carry out necessary functions."
+    intermediate: 
+    advanced: "The hydrophobic lipid bilayer forms a selective barrier preventing
+      diffusion of polar and charged molecules. \nTransporters, receptors and enzymes
+      residing on the membrane carry out cellular functions such as communication,
+      material exchange and recognition."
+  nodeSpriteLayer: []

@@ -1,0 +1,1966 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 884e232af1c06fb46b86a4953ca164d3, type: 3}
+  m_Name: InsulinSavedEventTimes_120Hexamers_06012022_v2
+  m_EditorClassIdentifier: 
+  bindingEventTimes:
+  - _time: 0.02
+    _bindingType: 2
+    _locationName: 129_05_hexamer(Clone)
+  - _time: 0.68666667
+    _bindingType: 2
+    _locationName: 128_05_hexamer(Clone)
+  - _time: 0.9294436
+    _bindingType: 2
+    _locationName: 127_05_hexamer(Clone)
+  - _time: 1.3667103
+    _bindingType: 2
+    _locationName: 126_05_hexamer(Clone)
+  - _time: 1.7670407
+    _bindingType: 2
+    _locationName: 125_05_hexamer(Clone)
+  - _time: 2.2226634
+    _bindingType: 2
+    _locationName: 124_05_hexamer(Clone)
+  - _time: 2.613775
+    _bindingType: 2
+    _locationName: 123_05_hexamer(Clone)
+  - _time: 3.0098777
+    _bindingType: 2
+    _locationName: 122_05_hexamer(Clone)
+  - _time: 3.4032977
+    _bindingType: 2
+    _locationName: 121_05_hexamer(Clone)
+  - _time: 3.8308513
+    _bindingType: 2
+    _locationName: 120_05_hexamer(Clone)
+  - _time: 4.239487
+    _bindingType: 2
+    _locationName: 119_05_hexamer(Clone)
+  - _time: 4.6315084
+    _bindingType: 2
+    _locationName: 118_05_hexamer(Clone)
+  - _time: 5.0288243
+    _bindingType: 1
+    _locationName: 129_05_hexamer(Clone)
+  - _time: 5.0288243
+    _bindingType: 2
+    _locationName: 117_05_hexamer(Clone)
+  - _time: 5.426649
+    _bindingType: 2
+    _locationName: 116_05_hexamer(Clone)
+  - _time: 5.823777
+    _bindingType: 1
+    _locationName: 126_05_hexamer(Clone)
+  - _time: 5.823777
+    _bindingType: 2
+    _locationName: 115_05_hexamer(Clone)
+  - _time: 6.0235076
+    _bindingType: 1
+    _locationName: 128_05_hexamer(Clone)
+  - _time: 6.2375093
+    _bindingType: 1
+    _locationName: 127_05_hexamer(Clone)
+  - _time: 6.2375093
+    _bindingType: 2
+    _locationName: 114_05_hexamer(Clone)
+  - _time: 6.4473543
+    _bindingType: 1
+    _locationName: 123_05_hexamer(Clone)
+  - _time: 6.6460547
+    _bindingType: 2
+    _locationName: 113_05_hexamer(Clone)
+  - _time: 7.0587187
+    _bindingType: 1
+    _locationName: 125_05_hexamer(Clone)
+  - _time: 7.0587187
+    _bindingType: 1
+    _locationName: 124_05_hexamer(Clone)
+  - _time: 7.0587187
+    _bindingType: 2
+    _locationName: 112_05_hexamer(Clone)
+  - _time: 7.456032
+    _bindingType: 2
+    _locationName: 111_05_hexamer(Clone)
+  - _time: 7.850268
+    _bindingType: 2
+    _locationName: 110_05_hexamer(Clone)
+  - _time: 8.248528
+    _bindingType: 2
+    _locationName: 109_05_hexamer(Clone)
+  - _time: 8.449166
+    _bindingType: 1
+    _locationName: 119_05_hexamer(Clone)
+  - _time: 8.671041
+    _bindingType: 1
+    _locationName: 122_05_hexamer(Clone)
+  - _time: 8.671041
+    _bindingType: 1
+    _locationName: 121_05_hexamer(Clone)
+  - _time: 8.671041
+    _bindingType: 2
+    _locationName: 108_05_hexamer(Clone)
+  - _time: 9.112433
+    _bindingType: 2
+    _locationName: 107_05_hexamer(Clone)
+  - _time: 9.320216
+    _bindingType: 1
+    _locationName: 117_05_hexamer(Clone)
+  - _time: 9.521745
+    _bindingType: 1
+    _locationName: 120_05_hexamer(Clone)
+  - _time: 9.521745
+    _bindingType: 2
+    _locationName: 106_05_hexamer(Clone)
+  - _time: 9.92951
+    _bindingType: 2
+    _locationName: 105_05_hexamer(Clone)
+  - _time: 10.3393755
+    _bindingType: 2
+    _locationName: 104_05_hexamer(Clone)
+  - _time: 10.541588
+    _bindingType: 1
+    _locationName: 113_05_hexamer(Clone)
+  - _time: 10.743473
+    _bindingType: 1
+    _locationName: 118_05_hexamer(Clone)
+  - _time: 10.743473
+    _bindingType: 2
+    _locationName: 103_05_hexamer(Clone)
+  - _time: 11.151296
+    _bindingType: 2
+    _locationName: 102_05_hexamer(Clone)
+  - _time: 11.375676
+    _bindingType: 1
+    _locationName: 115_05_hexamer(Clone)
+  - _time: 11.597333
+    _bindingType: 1
+    _locationName: 116_05_hexamer(Clone)
+  - _time: 11.597333
+    _bindingType: 2
+    _locationName: 101_05_hexamer(Clone)
+  - _time: 11.805416
+    _bindingType: 0
+    _locationName: 129_05_hexamer(Clone)
+  - _time: 11.805416
+    _bindingType: 0
+    _locationName: 129_00_invertedMonomer01(Clone)
+  - _time: 11.805416
+    _bindingType: 0
+    _locationName: 129_02_invertedMonomer02(Clone)
+  - _time: 12.011697
+    _bindingType: 1
+    _locationName: 114_05_hexamer(Clone)
+  - _time: 12.011697
+    _bindingType: 1
+    _locationName: 110_05_hexamer(Clone)
+  - _time: 12.011697
+    _bindingType: 2
+    _locationName: 100_05_hexamer(Clone)
+  - _time: 12.436877
+    _bindingType: 2
+    _locationName: 99_05_hexamer(Clone)
+  - _time: 12.645599
+    _bindingType: 0
+    _locationName: 126_05_hexamer(Clone)
+  - _time: 12.645599
+    _bindingType: 0
+    _locationName: 126_00_invertedMonomer01(Clone)
+  - _time: 12.645599
+    _bindingType: 0
+    _locationName: 126_02_invertedMonomer02(Clone)
+  - _time: 12.85324
+    _bindingType: 2
+    _locationName: 98_05_hexamer(Clone)
+  - _time: 13.280435
+    _bindingType: 1
+    _locationName: 112_05_hexamer(Clone)
+  - _time: 13.280435
+    _bindingType: 2
+    _locationName: 97_05_hexamer(Clone)
+  - _time: 13.513707
+    _bindingType: 0
+    _locationName: 127_05_hexamer(Clone)
+  - _time: 13.513707
+    _bindingType: 0
+    _locationName: 127_00_invertedMonomer01(Clone)
+  - _time: 13.513707
+    _bindingType: 0
+    _locationName: 127_02_invertedMonomer02(Clone)
+  - _time: 13.513707
+    _bindingType: 1
+    _locationName: 111_05_hexamer(Clone)
+  - _time: 13.513707
+    _bindingType: 1
+    _locationName: 108_05_hexamer(Clone)
+  - _time: 13.729828
+    _bindingType: 1
+    _locationName: 109_05_hexamer(Clone)
+  - _time: 13.729828
+    _bindingType: 1
+    _locationName: 106_05_hexamer(Clone)
+  - _time: 13.729828
+    _bindingType: 2
+    _locationName: 96_05_hexamer(Clone)
+  - _time: 13.947088
+    _bindingType: 1
+    _locationName: 104_05_hexamer(Clone)
+  - _time: 14.163047
+    _bindingType: 2
+    _locationName: 95_05_hexamer(Clone)
+  - _time: 14.586838
+    _bindingType: 1
+    _locationName: 107_05_hexamer(Clone)
+  - _time: 14.586838
+    _bindingType: 2
+    _locationName: 94_05_hexamer(Clone)
+  - _time: 15.006105
+    _bindingType: 2
+    _locationName: 93_05_hexamer(Clone)
+  - _time: 15.218508
+    _bindingType: 0
+    _locationName: 123_05_hexamer(Clone)
+  - _time: 15.218508
+    _bindingType: 0
+    _locationName: 123_00_invertedMonomer01(Clone)
+  - _time: 15.218508
+    _bindingType: 0
+    _locationName: 123_02_invertedMonomer02(Clone)
+  - _time: 15.218508
+    _bindingType: 1
+    _locationName: 103_05_hexamer(Clone)
+  - _time: 15.437057
+    _bindingType: 0
+    _locationName: 124_05_hexamer(Clone)
+  - _time: 15.437057
+    _bindingType: 0
+    _locationName: 124_00_invertedMonomer01(Clone)
+  - _time: 15.437057
+    _bindingType: 0
+    _locationName: 124_02_invertedMonomer02(Clone)
+  - _time: 15.437057
+    _bindingType: 1
+    _locationName: 105_05_hexamer(Clone)
+  - _time: 15.437057
+    _bindingType: 1
+    _locationName: 101_05_hexamer(Clone)
+  - _time: 15.437057
+    _bindingType: 2
+    _locationName: 92_05_hexamer(Clone)
+  - _time: 15.860904
+    _bindingType: 2
+    _locationName: 91_05_hexamer(Clone)
+  - _time: 16.318893
+    _bindingType: 0
+    _locationName: 128_05_hexamer(Clone)
+  - _time: 16.318893
+    _bindingType: 0
+    _locationName: 128_00_invertedMonomer01(Clone)
+  - _time: 16.318893
+    _bindingType: 0
+    _locationName: 128_02_invertedMonomer02(Clone)
+  - _time: 16.318893
+    _bindingType: 2
+    _locationName: 90_05_hexamer(Clone)
+  - _time: 16.557241
+    _bindingType: 0
+    _locationName: 122_05_hexamer(Clone)
+  - _time: 16.557241
+    _bindingType: 0
+    _locationName: 122_00_invertedMonomer01(Clone)
+  - _time: 16.557241
+    _bindingType: 0
+    _locationName: 122_02_invertedMonomer02(Clone)
+  - _time: 16.79306
+    _bindingType: 2
+    _locationName: 89_05_hexamer(Clone)
+  - _time: 17.010159
+    _bindingType: 0
+    _locationName: 125_05_hexamer(Clone)
+  - _time: 17.010159
+    _bindingType: 0
+    _locationName: 125_00_invertedMonomer01(Clone)
+  - _time: 17.010159
+    _bindingType: 0
+    _locationName: 125_02_invertedMonomer02(Clone)
+  - _time: 17.010159
+    _bindingType: 1
+    _locationName: 99_05_hexamer(Clone)
+  - _time: 17.225739
+    _bindingType: 1
+    _locationName: 102_05_hexamer(Clone)
+  - _time: 17.225739
+    _bindingType: 1
+    _locationName: 98_05_hexamer(Clone)
+  - _time: 17.225739
+    _bindingType: 2
+    _locationName: 88_05_hexamer(Clone)
+  - _time: 17.65574
+    _bindingType: 1
+    _locationName: 100_05_hexamer(Clone)
+  - _time: 17.65574
+    _bindingType: 2
+    _locationName: 87_05_hexamer(Clone)
+  - _time: 17.870293
+    _bindingType: 0
+    _locationName: 119_05_hexamer(Clone)
+  - _time: 17.870293
+    _bindingType: 0
+    _locationName: 119_00_invertedMonomer01(Clone)
+  - _time: 17.870293
+    _bindingType: 0
+    _locationName: 119_02_invertedMonomer02(Clone)
+  - _time: 18.091604
+    _bindingType: 1
+    _locationName: 96_05_hexamer(Clone)
+  - _time: 18.091604
+    _bindingType: 2
+    _locationName: 86_05_hexamer(Clone)
+  - _time: 18.5324
+    _bindingType: 2
+    _locationName: 85_05_hexamer(Clone)
+  - _time: 18.972681
+    _bindingType: 0
+    _locationName: 115_05_hexamer(Clone)
+  - _time: 18.972681
+    _bindingType: 0
+    _locationName: 115_00_invertedMonomer01(Clone)
+  - _time: 18.972681
+    _bindingType: 0
+    _locationName: 115_02_invertedMonomer02(Clone)
+  - _time: 18.972681
+    _bindingType: 1
+    _locationName: 97_05_hexamer(Clone)
+  - _time: 18.972681
+    _bindingType: 2
+    _locationName: 84_05_hexamer(Clone)
+  - _time: 19.204361
+    _bindingType: 0
+    _locationName: 116_05_hexamer(Clone)
+  - _time: 19.204361
+    _bindingType: 0
+    _locationName: 116_00_invertedMonomer01(Clone)
+  - _time: 19.204361
+    _bindingType: 0
+    _locationName: 116_02_invertedMonomer02(Clone)
+  - _time: 19.425827
+    _bindingType: 2
+    _locationName: 83_05_hexamer(Clone)
+  - _time: 19.64606
+    _bindingType: 1
+    _locationName: 94_05_hexamer(Clone)
+  - _time: 19.864546
+    _bindingType: 2
+    _locationName: 82_05_hexamer(Clone)
+  - _time: 20.082548
+    _bindingType: 0
+    _locationName: 121_05_hexamer(Clone)
+  - _time: 20.082548
+    _bindingType: 0
+    _locationName: 121_00_invertedMonomer01(Clone)
+  - _time: 20.082548
+    _bindingType: 0
+    _locationName: 121_02_invertedMonomer02(Clone)
+  - _time: 20.082548
+    _bindingType: 1
+    _locationName: 95_05_hexamer(Clone)
+  - _time: 20.082548
+    _bindingType: 1
+    _locationName: 93_05_hexamer(Clone)
+  - _time: 20.306202
+    _bindingType: 0
+    _locationName: 117_05_hexamer(Clone)
+  - _time: 20.306202
+    _bindingType: 0
+    _locationName: 117_00_invertedMonomer01(Clone)
+  - _time: 20.306202
+    _bindingType: 0
+    _locationName: 117_02_invertedMonomer02(Clone)
+  - _time: 20.306202
+    _bindingType: 2
+    _locationName: 81_05_hexamer(Clone)
+  - _time: 20.529137
+    _bindingType: 0
+    _locationName: 120_05_hexamer(Clone)
+  - _time: 20.529137
+    _bindingType: 0
+    _locationName: 120_00_invertedMonomer01(Clone)
+  - _time: 20.529137
+    _bindingType: 0
+    _locationName: 120_02_invertedMonomer02(Clone)
+  - _time: 20.529137
+    _bindingType: 0
+    _locationName: 118_05_hexamer(Clone)
+  - _time: 20.529137
+    _bindingType: 0
+    _locationName: 118_00_invertedMonomer01(Clone)
+  - _time: 20.529137
+    _bindingType: 0
+    _locationName: 118_02_invertedMonomer02(Clone)
+  - _time: 20.756296
+    _bindingType: 0
+    _locationName: 104_05_hexamer(Clone)
+  - _time: 20.756296
+    _bindingType: 0
+    _locationName: 104_00_invertedMonomer01(Clone)
+  - _time: 20.756296
+    _bindingType: 0
+    _locationName: 104_02_invertedMonomer02(Clone)
+  - _time: 20.756296
+    _bindingType: 2
+    _locationName: 80_05_hexamer(Clone)
+  - _time: 20.980394
+    _bindingType: 1
+    _locationName: 92_05_hexamer(Clone)
+  - _time: 21.20563
+    _bindingType: 2
+    _locationName: 79_05_hexamer(Clone)
+  - _time: 21.446003
+    _bindingType: 0
+    _locationName: 110_05_hexamer(Clone)
+  - _time: 21.446003
+    _bindingType: 0
+    _locationName: 110_00_invertedMonomer01(Clone)
+  - _time: 21.446003
+    _bindingType: 0
+    _locationName: 110_02_invertedMonomer02(Clone)
+  - _time: 21.689697
+    _bindingType: 0
+    _locationName: 114_05_hexamer(Clone)
+  - _time: 21.689697
+    _bindingType: 0
+    _locationName: 114_00_invertedMonomer01(Clone)
+  - _time: 21.689697
+    _bindingType: 0
+    _locationName: 114_02_invertedMonomer02(Clone)
+  - _time: 21.689697
+    _bindingType: 0
+    _locationName: 113_05_hexamer(Clone)
+  - _time: 21.689697
+    _bindingType: 0
+    _locationName: 113_00_invertedMonomer01(Clone)
+  - _time: 21.689697
+    _bindingType: 0
+    _locationName: 113_02_invertedMonomer02(Clone)
+  - _time: 21.689697
+    _bindingType: 0
+    _locationName: 111_05_hexamer(Clone)
+  - _time: 21.689697
+    _bindingType: 0
+    _locationName: 111_00_invertedMonomer01(Clone)
+  - _time: 21.689697
+    _bindingType: 0
+    _locationName: 111_02_invertedMonomer02(Clone)
+  - _time: 21.689697
+    _bindingType: 2
+    _locationName: 78_05_hexamer(Clone)
+  - _time: 21.91614
+    _bindingType: 1
+    _locationName: 91_05_hexamer(Clone)
+  - _time: 21.91614
+    _bindingType: 1
+    _locationName: 90_05_hexamer(Clone)
+  - _time: 22.14276
+    _bindingType: 0
+    _locationName: 108_05_hexamer(Clone)
+  - _time: 22.14276
+    _bindingType: 0
+    _locationName: 108_00_invertedMonomer01(Clone)
+  - _time: 22.14276
+    _bindingType: 0
+    _locationName: 108_02_invertedMonomer02(Clone)
+  - _time: 22.14276
+    _bindingType: 0
+    _locationName: 106_05_hexamer(Clone)
+  - _time: 22.14276
+    _bindingType: 0
+    _locationName: 106_00_invertedMonomer01(Clone)
+  - _time: 22.14276
+    _bindingType: 0
+    _locationName: 106_02_invertedMonomer02(Clone)
+  - _time: 22.14276
+    _bindingType: 2
+    _locationName: 77_05_hexamer(Clone)
+  - _time: 22.370102
+    _bindingType: 1
+    _locationName: 86_05_hexamer(Clone)
+  - _time: 22.599054
+    _bindingType: 1
+    _locationName: 89_05_hexamer(Clone)
+  - _time: 22.599054
+    _bindingType: 1
+    _locationName: 88_05_hexamer(Clone)
+  - _time: 22.599054
+    _bindingType: 2
+    _locationName: 76_05_hexamer(Clone)
+  - _time: 23.0585
+    _bindingType: 2
+    _locationName: 75_05_hexamer(Clone)
+  - _time: 23.527857
+    _bindingType: 2
+    _locationName: 74_05_hexamer(Clone)
+  - _time: 23.76035
+    _bindingType: 1
+    _locationName: 87_05_hexamer(Clone)
+  - _time: 23.76035
+    _bindingType: 1
+    _locationName: 83_05_hexamer(Clone)
+  - _time: 24.019564
+    _bindingType: 0
+    _locationName: 107_05_hexamer(Clone)
+  - _time: 24.019564
+    _bindingType: 0
+    _locationName: 107_00_invertedMonomer01(Clone)
+  - _time: 24.019564
+    _bindingType: 0
+    _locationName: 107_02_invertedMonomer02(Clone)
+  - _time: 24.019564
+    _bindingType: 1
+    _locationName: 84_05_hexamer(Clone)
+  - _time: 24.019564
+    _bindingType: 2
+    _locationName: 73_05_hexamer(Clone)
+  - _time: 24.304197
+    _bindingType: 0
+    _locationName: 99_05_hexamer(Clone)
+  - _time: 24.304197
+    _bindingType: 0
+    _locationName: 99_00_invertedMonomer01(Clone)
+  - _time: 24.304197
+    _bindingType: 0
+    _locationName: 99_02_invertedMonomer02(Clone)
+  - _time: 24.304197
+    _bindingType: 1
+    _locationName: 85_05_hexamer(Clone)
+  - _time: 24.55952
+    _bindingType: 2
+    _locationName: 72_05_hexamer(Clone)
+  - _time: 24.791319
+    _bindingType: 0
+    _locationName: 109_05_hexamer(Clone)
+  - _time: 24.791319
+    _bindingType: 0
+    _locationName: 109_00_invertedMonomer01(Clone)
+  - _time: 24.791319
+    _bindingType: 0
+    _locationName: 109_02_invertedMonomer02(Clone)
+  - _time: 25.029942
+    _bindingType: 1
+    _locationName: 82_05_hexamer(Clone)
+  - _time: 25.029942
+    _bindingType: 1
+    _locationName: 80_05_hexamer(Clone)
+  - _time: 25.029942
+    _bindingType: 2
+    _locationName: 71_05_hexamer(Clone)
+  - _time: 25.2634
+    _bindingType: 0
+    _locationName: 103_05_hexamer(Clone)
+  - _time: 25.2634
+    _bindingType: 0
+    _locationName: 103_00_invertedMonomer01(Clone)
+  - _time: 25.2634
+    _bindingType: 0
+    _locationName: 103_02_invertedMonomer02(Clone)
+  - _time: 25.498953
+    _bindingType: 0
+    _locationName: 112_05_hexamer(Clone)
+  - _time: 25.498953
+    _bindingType: 0
+    _locationName: 112_00_invertedMonomer01(Clone)
+  - _time: 25.498953
+    _bindingType: 0
+    _locationName: 112_02_invertedMonomer02(Clone)
+  - _time: 25.498953
+    _bindingType: 2
+    _locationName: 70_05_hexamer(Clone)
+  - _time: 25.978823
+    _bindingType: 0
+    _locationName: 105_05_hexamer(Clone)
+  - _time: 25.978823
+    _bindingType: 0
+    _locationName: 105_00_invertedMonomer01(Clone)
+  - _time: 25.978823
+    _bindingType: 0
+    _locationName: 105_02_invertedMonomer02(Clone)
+  - _time: 25.978823
+    _bindingType: 1
+    _locationName: 81_05_hexamer(Clone)
+  - _time: 25.978823
+    _bindingType: 2
+    _locationName: 69_05_hexamer(Clone)
+  - _time: 26.454836
+    _bindingType: 2
+    _locationName: 68_05_hexamer(Clone)
+  - _time: 26.708092
+    _bindingType: 0
+    _locationName: 98_05_hexamer(Clone)
+  - _time: 26.708092
+    _bindingType: 0
+    _locationName: 98_00_invertedMonomer01(Clone)
+  - _time: 26.708092
+    _bindingType: 0
+    _locationName: 98_02_invertedMonomer02(Clone)
+  - _time: 26.708092
+    _bindingType: 0
+    _locationName: 94_05_hexamer(Clone)
+  - _time: 26.708092
+    _bindingType: 0
+    _locationName: 94_00_invertedMonomer01(Clone)
+  - _time: 26.708092
+    _bindingType: 0
+    _locationName: 94_02_invertedMonomer02(Clone)
+  - _time: 26.708092
+    _bindingType: 1
+    _locationName: 78_05_hexamer(Clone)
+  - _time: 26.962246
+    _bindingType: 0
+    _locationName: 101_05_hexamer(Clone)
+  - _time: 26.962246
+    _bindingType: 0
+    _locationName: 101_00_invertedMonomer01(Clone)
+  - _time: 26.962246
+    _bindingType: 0
+    _locationName: 101_02_invertedMonomer02(Clone)
+  - _time: 26.962246
+    _bindingType: 1
+    _locationName: 75_05_hexamer(Clone)
+  - _time: 26.962246
+    _bindingType: 2
+    _locationName: 67_05_hexamer(Clone)
+  - _time: 27.447002
+    _bindingType: 2
+    _locationName: 66_05_hexamer(Clone)
+  - _time: 27.69217
+    _bindingType: 1
+    _locationName: 79_05_hexamer(Clone)
+  - _time: 27.69217
+    _bindingType: 1
+    _locationName: 77_05_hexamer(Clone)
+  - _time: 27.930965
+    _bindingType: 0
+    _locationName: 92_05_hexamer(Clone)
+  - _time: 27.930965
+    _bindingType: 0
+    _locationName: 92_00_invertedMonomer01(Clone)
+  - _time: 27.930965
+    _bindingType: 0
+    _locationName: 92_02_invertedMonomer02(Clone)
+  - _time: 27.930965
+    _bindingType: 2
+    _locationName: 65_05_hexamer(Clone)
+  - _time: 28.441122
+    _bindingType: 1
+    _locationName: 76_05_hexamer(Clone)
+  - _time: 28.441122
+    _bindingType: 2
+    _locationName: 64_05_hexamer(Clone)
+  - _time: 28.927313
+    _bindingType: 0
+    _locationName: 95_05_hexamer(Clone)
+  - _time: 28.927313
+    _bindingType: 0
+    _locationName: 95_00_invertedMonomer01(Clone)
+  - _time: 28.927313
+    _bindingType: 0
+    _locationName: 95_02_invertedMonomer02(Clone)
+  - _time: 28.927313
+    _bindingType: 2
+    _locationName: 63_05_hexamer(Clone)
+  - _time: 29.179302
+    _bindingType: 0
+    _locationName: 97_05_hexamer(Clone)
+  - _time: 29.179302
+    _bindingType: 0
+    _locationName: 97_00_invertedMonomer01(Clone)
+  - _time: 29.179302
+    _bindingType: 0
+    _locationName: 97_02_invertedMonomer02(Clone)
+  - _time: 29.179302
+    _bindingType: 1
+    _locationName: 71_05_hexamer(Clone)
+  - _time: 29.43072
+    _bindingType: 0
+    _locationName: 100_05_hexamer(Clone)
+  - _time: 29.43072
+    _bindingType: 0
+    _locationName: 100_00_invertedMonomer01(Clone)
+  - _time: 29.43072
+    _bindingType: 0
+    _locationName: 100_02_invertedMonomer02(Clone)
+  - _time: 29.43072
+    _bindingType: 1
+    _locationName: 74_05_hexamer(Clone)
+  - _time: 29.43072
+    _bindingType: 1
+    _locationName: 72_05_hexamer(Clone)
+  - _time: 29.43072
+    _bindingType: 2
+    _locationName: 62_05_hexamer(Clone)
+  - _time: 29.677774
+    _bindingType: 0
+    _locationName: 102_05_hexamer(Clone)
+  - _time: 29.677774
+    _bindingType: 0
+    _locationName: 102_00_invertedMonomer01(Clone)
+  - _time: 29.677774
+    _bindingType: 0
+    _locationName: 102_02_invertedMonomer02(Clone)
+  - _time: 29.677774
+    _bindingType: 1
+    _locationName: 69_05_hexamer(Clone)
+  - _time: 29.926725
+    _bindingType: 0
+    _locationName: 86_05_hexamer(Clone)
+  - _time: 29.926725
+    _bindingType: 0
+    _locationName: 86_00_invertedMonomer01(Clone)
+  - _time: 29.926725
+    _bindingType: 0
+    _locationName: 86_02_invertedMonomer02(Clone)
+  - _time: 29.926725
+    _bindingType: 1
+    _locationName: 73_05_hexamer(Clone)
+  - _time: 29.926725
+    _bindingType: 2
+    _locationName: 61_05_hexamer(Clone)
+  - _time: 30.172258
+    _bindingType: 0
+    _locationName: 88_05_hexamer(Clone)
+  - _time: 30.172258
+    _bindingType: 0
+    _locationName: 88_00_invertedMonomer01(Clone)
+  - _time: 30.172258
+    _bindingType: 0
+    _locationName: 88_02_invertedMonomer02(Clone)
+  - _time: 30.418756
+    _bindingType: 0
+    _locationName: 96_05_hexamer(Clone)
+  - _time: 30.418756
+    _bindingType: 0
+    _locationName: 96_00_invertedMonomer01(Clone)
+  - _time: 30.418756
+    _bindingType: 0
+    _locationName: 96_02_invertedMonomer02(Clone)
+  - _time: 30.418756
+    _bindingType: 2
+    _locationName: 60_05_hexamer(Clone)
+  - _time: 30.675566
+    _bindingType: 1
+    _locationName: 67_05_hexamer(Clone)
+  - _time: 30.923819
+    _bindingType: 2
+    _locationName: 59_05_hexamer(Clone)
+  - _time: 31.169891
+    _bindingType: 0
+    _locationName: 93_05_hexamer(Clone)
+  - _time: 31.169891
+    _bindingType: 0
+    _locationName: 93_00_invertedMonomer01(Clone)
+  - _time: 31.169891
+    _bindingType: 0
+    _locationName: 93_02_invertedMonomer02(Clone)
+  - _time: 31.169891
+    _bindingType: 1
+    _locationName: 70_05_hexamer(Clone)
+  - _time: 31.423386
+    _bindingType: 0
+    _locationName: 83_05_hexamer(Clone)
+  - _time: 31.423386
+    _bindingType: 0
+    _locationName: 83_00_invertedMonomer01(Clone)
+  - _time: 31.423386
+    _bindingType: 0
+    _locationName: 83_02_invertedMonomer02(Clone)
+  - _time: 31.423386
+    _bindingType: 2
+    _locationName: 58_05_hexamer(Clone)
+  - _time: 31.69806
+    _bindingType: 1
+    _locationName: 68_05_hexamer(Clone)
+  - _time: 31.99082
+    _bindingType: 0
+    _locationName: 87_05_hexamer(Clone)
+  - _time: 31.99082
+    _bindingType: 0
+    _locationName: 87_00_invertedMonomer01(Clone)
+  - _time: 31.99082
+    _bindingType: 0
+    _locationName: 87_02_invertedMonomer02(Clone)
+  - _time: 31.99082
+    _bindingType: 0
+    _locationName: 85_05_hexamer(Clone)
+  - _time: 31.99082
+    _bindingType: 0
+    _locationName: 85_00_invertedMonomer01(Clone)
+  - _time: 31.99082
+    _bindingType: 0
+    _locationName: 85_02_invertedMonomer02(Clone)
+  - _time: 31.99082
+    _bindingType: 2
+    _locationName: 57_05_hexamer(Clone)
+  - _time: 32.52481
+    _bindingType: 1
+    _locationName: 64_05_hexamer(Clone)
+  - _time: 32.52481
+    _bindingType: 2
+    _locationName: 56_05_hexamer(Clone)
+  - _time: 33.026806
+    _bindingType: 0
+    _locationName: 90_05_hexamer(Clone)
+  - _time: 33.026806
+    _bindingType: 0
+    _locationName: 90_00_invertedMonomer01(Clone)
+  - _time: 33.026806
+    _bindingType: 0
+    _locationName: 90_02_invertedMonomer02(Clone)
+  - _time: 33.026806
+    _bindingType: 0
+    _locationName: 84_05_hexamer(Clone)
+  - _time: 33.026806
+    _bindingType: 0
+    _locationName: 84_00_invertedMonomer01(Clone)
+  - _time: 33.026806
+    _bindingType: 0
+    _locationName: 84_02_invertedMonomer02(Clone)
+  - _time: 33.026806
+    _bindingType: 2
+    _locationName: 55_05_hexamer(Clone)
+  - _time: 33.285187
+    _bindingType: 0
+    _locationName: 91_05_hexamer(Clone)
+  - _time: 33.285187
+    _bindingType: 0
+    _locationName: 91_00_invertedMonomer01(Clone)
+  - _time: 33.285187
+    _bindingType: 0
+    _locationName: 91_02_invertedMonomer02(Clone)
+  - _time: 33.285187
+    _bindingType: 1
+    _locationName: 66_05_hexamer(Clone)
+  - _time: 33.53679
+    _bindingType: 2
+    _locationName: 54_05_hexamer(Clone)
+  - _time: 33.793083
+    _bindingType: 1
+    _locationName: 65_05_hexamer(Clone)
+  - _time: 33.793083
+    _bindingType: 1
+    _locationName: 63_05_hexamer(Clone)
+  - _time: 34.044914
+    _bindingType: 2
+    _locationName: 53_05_hexamer(Clone)
+  - _time: 34.586384
+    _bindingType: 0
+    _locationName: 79_05_hexamer(Clone)
+  - _time: 34.586384
+    _bindingType: 0
+    _locationName: 79_00_invertedMonomer01(Clone)
+  - _time: 34.586384
+    _bindingType: 0
+    _locationName: 79_02_invertedMonomer02(Clone)
+  - _time: 34.586384
+    _bindingType: 1
+    _locationName: 59_05_hexamer(Clone)
+  - _time: 34.586384
+    _bindingType: 2
+    _locationName: 52_05_hexamer(Clone)
+  - _time: 34.840054
+    _bindingType: 0
+    _locationName: 89_05_hexamer(Clone)
+  - _time: 34.840054
+    _bindingType: 0
+    _locationName: 89_00_invertedMonomer01(Clone)
+  - _time: 34.840054
+    _bindingType: 0
+    _locationName: 89_02_invertedMonomer02(Clone)
+  - _time: 34.840054
+    _bindingType: 0
+    _locationName: 77_05_hexamer(Clone)
+  - _time: 34.840054
+    _bindingType: 0
+    _locationName: 77_00_invertedMonomer01(Clone)
+  - _time: 34.840054
+    _bindingType: 0
+    _locationName: 77_02_invertedMonomer02(Clone)
+  - _time: 34.840054
+    _bindingType: 1
+    _locationName: 62_05_hexamer(Clone)
+  - _time: 34.840054
+    _bindingType: 1
+    _locationName: 61_05_hexamer(Clone)
+  - _time: 35.094776
+    _bindingType: 2
+    _locationName: 51_05_hexamer(Clone)
+  - _time: 35.35606
+    _bindingType: 1
+    _locationName: 60_05_hexamer(Clone)
+  - _time: 35.6134
+    _bindingType: 0
+    _locationName: 75_05_hexamer(Clone)
+  - _time: 35.6134
+    _bindingType: 0
+    _locationName: 75_00_invertedMonomer01(Clone)
+  - _time: 35.6134
+    _bindingType: 0
+    _locationName: 75_02_invertedMonomer02(Clone)
+  - _time: 35.6134
+    _bindingType: 1
+    _locationName: 57_05_hexamer(Clone)
+  - _time: 35.6134
+    _bindingType: 2
+    _locationName: 50_05_hexamer(Clone)
+  - _time: 36.126095
+    _bindingType: 2
+    _locationName: 49_05_hexamer(Clone)
+  - _time: 36.638645
+    _bindingType: 0
+    _locationName: 80_05_hexamer(Clone)
+  - _time: 36.638645
+    _bindingType: 0
+    _locationName: 80_00_invertedMonomer01(Clone)
+  - _time: 36.638645
+    _bindingType: 0
+    _locationName: 80_02_invertedMonomer02(Clone)
+  - _time: 36.638645
+    _bindingType: 2
+    _locationName: 48_05_hexamer(Clone)
+  - _time: 36.918644
+    _bindingType: 0
+    _locationName: 81_05_hexamer(Clone)
+  - _time: 36.918644
+    _bindingType: 0
+    _locationName: 81_00_invertedMonomer01(Clone)
+  - _time: 36.918644
+    _bindingType: 0
+    _locationName: 81_02_invertedMonomer02(Clone)
+  - _time: 36.918644
+    _bindingType: 0
+    _locationName: 72_05_hexamer(Clone)
+  - _time: 36.918644
+    _bindingType: 0
+    _locationName: 72_00_invertedMonomer01(Clone)
+  - _time: 36.918644
+    _bindingType: 0
+    _locationName: 72_02_invertedMonomer02(Clone)
+  - _time: 36.918644
+    _bindingType: 1
+    _locationName: 58_05_hexamer(Clone)
+  - _time: 36.918644
+    _bindingType: 1
+    _locationName: 55_05_hexamer(Clone)
+  - _time: 37.189754
+    _bindingType: 0
+    _locationName: 73_05_hexamer(Clone)
+  - _time: 37.189754
+    _bindingType: 0
+    _locationName: 73_00_invertedMonomer01(Clone)
+  - _time: 37.189754
+    _bindingType: 0
+    _locationName: 73_02_invertedMonomer02(Clone)
+  - _time: 37.189754
+    _bindingType: 2
+    _locationName: 47_05_hexamer(Clone)
+  - _time: 37.46684
+    _bindingType: 0
+    _locationName: 78_05_hexamer(Clone)
+  - _time: 37.46684
+    _bindingType: 0
+    _locationName: 78_00_invertedMonomer01(Clone)
+  - _time: 37.46684
+    _bindingType: 0
+    _locationName: 78_02_invertedMonomer02(Clone)
+  - _time: 37.727047
+    _bindingType: 0
+    _locationName: 82_05_hexamer(Clone)
+  - _time: 37.727047
+    _bindingType: 0
+    _locationName: 82_00_invertedMonomer01(Clone)
+  - _time: 37.727047
+    _bindingType: 0
+    _locationName: 82_02_invertedMonomer02(Clone)
+  - _time: 37.727047
+    _bindingType: 2
+    _locationName: 46_05_hexamer(Clone)
+  - _time: 37.980865
+    _bindingType: 1
+    _locationName: 54_05_hexamer(Clone)
+  - _time: 38.24804
+    _bindingType: 1
+    _locationName: 56_05_hexamer(Clone)
+  - _time: 38.24804
+    _bindingType: 2
+    _locationName: 45_05_hexamer(Clone)
+  - _time: 38.50495
+    _bindingType: 1
+    _locationName: 53_05_hexamer(Clone)
+  - _time: 38.762737
+    _bindingType: 2
+    _locationName: 44_05_hexamer(Clone)
+  - _time: 39.305614
+    _bindingType: 2
+    _locationName: 43_05_hexamer(Clone)
+  - _time: 39.57581
+    _bindingType: 0
+    _locationName: 71_05_hexamer(Clone)
+  - _time: 39.57581
+    _bindingType: 0
+    _locationName: 71_00_invertedMonomer01(Clone)
+  - _time: 39.57581
+    _bindingType: 0
+    _locationName: 71_02_invertedMonomer02(Clone)
+  - _time: 39.57581
+    _bindingType: 1
+    _locationName: 52_05_hexamer(Clone)
+  - _time: 39.57581
+    _bindingType: 1
+    _locationName: 51_05_hexamer(Clone)
+  - _time: 39.866756
+    _bindingType: 2
+    _locationName: 42_05_hexamer(Clone)
+  - _time: 40.12712
+    _bindingType: 0
+    _locationName: 67_05_hexamer(Clone)
+  - _time: 40.12712
+    _bindingType: 0
+    _locationName: 67_00_invertedMonomer01(Clone)
+  - _time: 40.12712
+    _bindingType: 0
+    _locationName: 67_02_invertedMonomer02(Clone)
+  - _time: 40.39016
+    _bindingType: 2
+    _locationName: 41_05_hexamer(Clone)
+  - _time: 40.650146
+    _bindingType: 0
+    _locationName: 74_05_hexamer(Clone)
+  - _time: 40.650146
+    _bindingType: 0
+    _locationName: 74_00_invertedMonomer01(Clone)
+  - _time: 40.650146
+    _bindingType: 0
+    _locationName: 74_02_invertedMonomer02(Clone)
+  - _time: 40.650146
+    _bindingType: 1
+    _locationName: 49_05_hexamer(Clone)
+  - _time: 40.9094
+    _bindingType: 0
+    _locationName: 76_05_hexamer(Clone)
+  - _time: 40.9094
+    _bindingType: 0
+    _locationName: 76_00_invertedMonomer01(Clone)
+  - _time: 40.9094
+    _bindingType: 0
+    _locationName: 76_02_invertedMonomer02(Clone)
+  - _time: 40.9094
+    _bindingType: 2
+    _locationName: 40_05_hexamer(Clone)
+  - _time: 41.426678
+    _bindingType: 2
+    _locationName: 39_05_hexamer(Clone)
+  - _time: 41.958317
+    _bindingType: 0
+    _locationName: 69_05_hexamer(Clone)
+  - _time: 41.958317
+    _bindingType: 0
+    _locationName: 69_00_invertedMonomer01(Clone)
+  - _time: 41.958317
+    _bindingType: 0
+    _locationName: 69_02_invertedMonomer02(Clone)
+  - _time: 41.958317
+    _bindingType: 1
+    _locationName: 50_05_hexamer(Clone)
+  - _time: 41.958317
+    _bindingType: 1
+    _locationName: 47_05_hexamer(Clone)
+  - _time: 41.958317
+    _bindingType: 2
+    _locationName: 38_05_hexamer(Clone)
+  - _time: 42.24005
+    _bindingType: 0
+    _locationName: 70_05_hexamer(Clone)
+  - _time: 42.24005
+    _bindingType: 0
+    _locationName: 70_00_invertedMonomer01(Clone)
+  - _time: 42.24005
+    _bindingType: 0
+    _locationName: 70_02_invertedMonomer02(Clone)
+  - _time: 42.24005
+    _bindingType: 0
+    _locationName: 68_05_hexamer(Clone)
+  - _time: 42.24005
+    _bindingType: 0
+    _locationName: 68_00_invertedMonomer01(Clone)
+  - _time: 42.24005
+    _bindingType: 0
+    _locationName: 68_02_invertedMonomer02(Clone)
+  - _time: 42.24005
+    _bindingType: 0
+    _locationName: 61_05_hexamer(Clone)
+  - _time: 42.24005
+    _bindingType: 0
+    _locationName: 61_00_invertedMonomer01(Clone)
+  - _time: 42.24005
+    _bindingType: 0
+    _locationName: 61_02_invertedMonomer02(Clone)
+  - _time: 42.503765
+    _bindingType: 0
+    _locationName: 65_05_hexamer(Clone)
+  - _time: 42.503765
+    _bindingType: 0
+    _locationName: 65_00_invertedMonomer01(Clone)
+  - _time: 42.503765
+    _bindingType: 0
+    _locationName: 65_02_invertedMonomer02(Clone)
+  - _time: 42.503765
+    _bindingType: 0
+    _locationName: 62_05_hexamer(Clone)
+  - _time: 42.503765
+    _bindingType: 0
+    _locationName: 62_00_invertedMonomer01(Clone)
+  - _time: 42.503765
+    _bindingType: 0
+    _locationName: 62_02_invertedMonomer02(Clone)
+  - _time: 42.503765
+    _bindingType: 2
+    _locationName: 37_05_hexamer(Clone)
+  - _time: 42.77209
+    _bindingType: 0
+    _locationName: 60_05_hexamer(Clone)
+  - _time: 42.77209
+    _bindingType: 0
+    _locationName: 60_00_invertedMonomer01(Clone)
+  - _time: 42.77209
+    _bindingType: 0
+    _locationName: 60_02_invertedMonomer02(Clone)
+  - _time: 43.03931
+    _bindingType: 0
+    _locationName: 59_05_hexamer(Clone)
+  - _time: 43.03931
+    _bindingType: 0
+    _locationName: 59_00_invertedMonomer01(Clone)
+  - _time: 43.03931
+    _bindingType: 0
+    _locationName: 59_02_invertedMonomer02(Clone)
+  - _time: 43.03931
+    _bindingType: 1
+    _locationName: 48_05_hexamer(Clone)
+  - _time: 43.03931
+    _bindingType: 2
+    _locationName: 36_05_hexamer(Clone)
+  - _time: 43.5683
+    _bindingType: 1
+    _locationName: 45_05_hexamer(Clone)
+  - _time: 43.5683
+    _bindingType: 2
+    _locationName: 35_05_hexamer(Clone)
+  - _time: 43.830532
+    _bindingType: 1
+    _locationName: 46_05_hexamer(Clone)
+  - _time: 44.09681
+    _bindingType: 0
+    _locationName: 64_05_hexamer(Clone)
+  - _time: 44.09681
+    _bindingType: 0
+    _locationName: 64_00_invertedMonomer01(Clone)
+  - _time: 44.09681
+    _bindingType: 0
+    _locationName: 64_02_invertedMonomer02(Clone)
+  - _time: 44.09681
+    _bindingType: 1
+    _locationName: 44_05_hexamer(Clone)
+  - _time: 44.09681
+    _bindingType: 1
+    _locationName: 42_05_hexamer(Clone)
+  - _time: 44.09681
+    _bindingType: 2
+    _locationName: 34_05_hexamer(Clone)
+  - _time: 44.658775
+    _bindingType: 0
+    _locationName: 63_05_hexamer(Clone)
+  - _time: 44.658775
+    _bindingType: 0
+    _locationName: 63_00_invertedMonomer01(Clone)
+  - _time: 44.658775
+    _bindingType: 0
+    _locationName: 63_02_invertedMonomer02(Clone)
+  - _time: 44.658775
+    _bindingType: 1
+    _locationName: 43_05_hexamer(Clone)
+  - _time: 44.658775
+    _bindingType: 2
+    _locationName: 33_05_hexamer(Clone)
+  - _time: 45.219402
+    _bindingType: 2
+    _locationName: 32_05_hexamer(Clone)
+  - _time: 45.485554
+    _bindingType: 1
+    _locationName: 39_05_hexamer(Clone)
+  - _time: 45.75459
+    _bindingType: 2
+    _locationName: 31_05_hexamer(Clone)
+  - _time: 46.018745
+    _bindingType: 0
+    _locationName: 66_05_hexamer(Clone)
+  - _time: 46.018745
+    _bindingType: 0
+    _locationName: 66_00_invertedMonomer01(Clone)
+  - _time: 46.018745
+    _bindingType: 0
+    _locationName: 66_02_invertedMonomer02(Clone)
+  - _time: 46.28313
+    _bindingType: 2
+    _locationName: 30_05_hexamer(Clone)
+  - _time: 46.54723
+    _bindingType: 1
+    _locationName: 41_05_hexamer(Clone)
+  - _time: 46.54723
+    _bindingType: 1
+    _locationName: 40_05_hexamer(Clone)
+  - _time: 46.816586
+    _bindingType: 1
+    _locationName: 38_05_hexamer(Clone)
+  - _time: 46.816586
+    _bindingType: 2
+    _locationName: 29_05_hexamer(Clone)
+  - _time: 47.35918
+    _bindingType: 0
+    _locationName: 57_05_hexamer(Clone)
+  - _time: 47.35918
+    _bindingType: 0
+    _locationName: 57_00_invertedMonomer01(Clone)
+  - _time: 47.35918
+    _bindingType: 0
+    _locationName: 57_02_invertedMonomer02(Clone)
+  - _time: 47.35918
+    _bindingType: 2
+    _locationName: 28_05_hexamer(Clone)
+  - _time: 47.898705
+    _bindingType: 0
+    _locationName: 56_05_hexamer(Clone)
+  - _time: 47.898705
+    _bindingType: 0
+    _locationName: 56_00_invertedMonomer01(Clone)
+  - _time: 47.898705
+    _bindingType: 0
+    _locationName: 56_02_invertedMonomer02(Clone)
+  - _time: 47.898705
+    _bindingType: 2
+    _locationName: 27_05_hexamer(Clone)
+  - _time: 48.422356
+    _bindingType: 1
+    _locationName: 37_05_hexamer(Clone)
+  - _time: 48.422356
+    _bindingType: 2
+    _locationName: 26_05_hexamer(Clone)
+  - _time: 48.69012
+    _bindingType: 0
+    _locationName: 55_05_hexamer(Clone)
+  - _time: 48.69012
+    _bindingType: 0
+    _locationName: 55_00_invertedMonomer01(Clone)
+  - _time: 48.69012
+    _bindingType: 0
+    _locationName: 55_02_invertedMonomer02(Clone)
+  - _time: 48.69012
+    _bindingType: 0
+    _locationName: 54_05_hexamer(Clone)
+  - _time: 48.69012
+    _bindingType: 0
+    _locationName: 54_00_invertedMonomer01(Clone)
+  - _time: 48.69012
+    _bindingType: 0
+    _locationName: 54_02_invertedMonomer02(Clone)
+  - _time: 48.69012
+    _bindingType: 1
+    _locationName: 36_05_hexamer(Clone)
+  - _time: 48.956623
+    _bindingType: 2
+    _locationName: 25_05_hexamer(Clone)
+  - _time: 49.22435
+    _bindingType: 0
+    _locationName: 58_05_hexamer(Clone)
+  - _time: 49.22435
+    _bindingType: 0
+    _locationName: 58_00_invertedMonomer01(Clone)
+  - _time: 49.22435
+    _bindingType: 0
+    _locationName: 58_02_invertedMonomer02(Clone)
+  - _time: 49.22435
+    _bindingType: 1
+    _locationName: 34_05_hexamer(Clone)
+  - _time: 49.494144
+    _bindingType: 0
+    _locationName: 50_05_hexamer(Clone)
+  - _time: 49.494144
+    _bindingType: 0
+    _locationName: 50_00_invertedMonomer01(Clone)
+  - _time: 49.494144
+    _bindingType: 0
+    _locationName: 50_02_invertedMonomer02(Clone)
+  - _time: 49.494144
+    _bindingType: 2
+    _locationName: 24_05_hexamer(Clone)
+  - _time: 50.057304
+    _bindingType: 1
+    _locationName: 35_05_hexamer(Clone)
+  - _time: 50.057304
+    _bindingType: 1
+    _locationName: 32_05_hexamer(Clone)
+  - _time: 50.057304
+    _bindingType: 2
+    _locationName: 23_05_hexamer(Clone)
+  - _time: 50.58929
+    _bindingType: 0
+    _locationName: 52_05_hexamer(Clone)
+  - _time: 50.58929
+    _bindingType: 0
+    _locationName: 52_00_invertedMonomer01(Clone)
+  - _time: 50.58929
+    _bindingType: 0
+    _locationName: 52_02_invertedMonomer02(Clone)
+  - _time: 50.58929
+    _bindingType: 0
+    _locationName: 51_05_hexamer(Clone)
+  - _time: 50.58929
+    _bindingType: 0
+    _locationName: 51_00_invertedMonomer01(Clone)
+  - _time: 50.58929
+    _bindingType: 0
+    _locationName: 51_02_invertedMonomer02(Clone)
+  - _time: 50.58929
+    _bindingType: 0
+    _locationName: 48_05_hexamer(Clone)
+  - _time: 50.58929
+    _bindingType: 0
+    _locationName: 48_00_invertedMonomer01(Clone)
+  - _time: 50.58929
+    _bindingType: 0
+    _locationName: 48_02_invertedMonomer02(Clone)
+  - _time: 50.58929
+    _bindingType: 1
+    _locationName: 30_05_hexamer(Clone)
+  - _time: 50.58929
+    _bindingType: 2
+    _locationName: 22_05_hexamer(Clone)
+  - _time: 50.851315
+    _bindingType: 0
+    _locationName: 53_05_hexamer(Clone)
+  - _time: 50.851315
+    _bindingType: 0
+    _locationName: 53_00_invertedMonomer01(Clone)
+  - _time: 50.851315
+    _bindingType: 0
+    _locationName: 53_02_invertedMonomer02(Clone)
+  - _time: 50.851315
+    _bindingType: 1
+    _locationName: 29_05_hexamer(Clone)
+  - _time: 51.116558
+    _bindingType: 0
+    _locationName: 45_05_hexamer(Clone)
+  - _time: 51.116558
+    _bindingType: 0
+    _locationName: 45_00_invertedMonomer01(Clone)
+  - _time: 51.116558
+    _bindingType: 0
+    _locationName: 45_02_invertedMonomer02(Clone)
+  - _time: 51.116558
+    _bindingType: 0
+    _locationName: 44_05_hexamer(Clone)
+  - _time: 51.116558
+    _bindingType: 0
+    _locationName: 44_00_invertedMonomer01(Clone)
+  - _time: 51.116558
+    _bindingType: 0
+    _locationName: 44_02_invertedMonomer02(Clone)
+  - _time: 51.116558
+    _bindingType: 1
+    _locationName: 33_05_hexamer(Clone)
+  - _time: 51.116558
+    _bindingType: 2
+    _locationName: 21_05_hexamer(Clone)
+  - _time: 51.384357
+    _bindingType: 1
+    _locationName: 31_05_hexamer(Clone)
+  - _time: 51.65782
+    _bindingType: 0
+    _locationName: 49_05_hexamer(Clone)
+  - _time: 51.65782
+    _bindingType: 0
+    _locationName: 49_00_invertedMonomer01(Clone)
+  - _time: 51.65782
+    _bindingType: 0
+    _locationName: 49_02_invertedMonomer02(Clone)
+  - _time: 51.65782
+    _bindingType: 2
+    _locationName: 20_05_hexamer(Clone)
+  - _time: 52.21711
+    _bindingType: 2
+    _locationName: 19_05_hexamer(Clone)
+  - _time: 52.802666
+    _bindingType: 2
+    _locationName: 18_05_hexamer(Clone)
+  - _time: 53.07174
+    _bindingType: 1
+    _locationName: 28_05_hexamer(Clone)
+  - _time: 53.07174
+    _bindingType: 1
+    _locationName: 26_05_hexamer(Clone)
+  - _time: 53.339302
+    _bindingType: 2
+    _locationName: 17_05_hexamer(Clone)
+  - _time: 53.608234
+    _bindingType: 0
+    _locationName: 46_05_hexamer(Clone)
+  - _time: 53.608234
+    _bindingType: 0
+    _locationName: 46_00_invertedMonomer01(Clone)
+  - _time: 53.608234
+    _bindingType: 0
+    _locationName: 46_02_invertedMonomer02(Clone)
+  - _time: 53.872593
+    _bindingType: 0
+    _locationName: 47_05_hexamer(Clone)
+  - _time: 53.872593
+    _bindingType: 0
+    _locationName: 47_00_invertedMonomer01(Clone)
+  - _time: 53.872593
+    _bindingType: 0
+    _locationName: 47_02_invertedMonomer02(Clone)
+  - _time: 53.872593
+    _bindingType: 2
+    _locationName: 16_05_hexamer(Clone)
+  - _time: 54.414417
+    _bindingType: 1
+    _locationName: 27_05_hexamer(Clone)
+  - _time: 54.414417
+    _bindingType: 2
+    _locationName: 15_05_hexamer(Clone)
+  - _time: 54.68221
+    _bindingType: 1
+    _locationName: 24_05_hexamer(Clone)
+  - _time: 54.95795
+    _bindingType: 0
+    _locationName: 43_05_hexamer(Clone)
+  - _time: 54.95795
+    _bindingType: 0
+    _locationName: 43_00_invertedMonomer01(Clone)
+  - _time: 54.95795
+    _bindingType: 0
+    _locationName: 43_02_invertedMonomer02(Clone)
+  - _time: 54.95795
+    _bindingType: 2
+    _locationName: 14_05_hexamer(Clone)
+  - _time: 55.52497
+    _bindingType: 0
+    _locationName: 39_05_hexamer(Clone)
+  - _time: 55.52497
+    _bindingType: 0
+    _locationName: 39_00_invertedMonomer01(Clone)
+  - _time: 55.52497
+    _bindingType: 0
+    _locationName: 39_02_invertedMonomer02(Clone)
+  - _time: 55.52497
+    _bindingType: 1
+    _locationName: 25_05_hexamer(Clone)
+  - _time: 55.52497
+    _bindingType: 2
+    _locationName: 13_05_hexamer(Clone)
+  - _time: 55.79225
+    _bindingType: 0
+    _locationName: 36_05_hexamer(Clone)
+  - _time: 55.79225
+    _bindingType: 0
+    _locationName: 36_00_invertedMonomer01(Clone)
+  - _time: 55.79225
+    _bindingType: 0
+    _locationName: 36_02_invertedMonomer02(Clone)
+  - _time: 56.069736
+    _bindingType: 1
+    _locationName: 20_05_hexamer(Clone)
+  - _time: 56.069736
+    _bindingType: 2
+    _locationName: 12_05_hexamer(Clone)
+  - _time: 56.33684
+    _bindingType: 0
+    _locationName: 42_05_hexamer(Clone)
+  - _time: 56.33684
+    _bindingType: 0
+    _locationName: 42_00_invertedMonomer01(Clone)
+  - _time: 56.33684
+    _bindingType: 0
+    _locationName: 42_02_invertedMonomer02(Clone)
+  - _time: 56.33684
+    _bindingType: 0
+    _locationName: 34_05_hexamer(Clone)
+  - _time: 56.33684
+    _bindingType: 0
+    _locationName: 34_00_invertedMonomer01(Clone)
+  - _time: 56.33684
+    _bindingType: 0
+    _locationName: 34_02_invertedMonomer02(Clone)
+  - _time: 56.60823
+    _bindingType: 0
+    _locationName: 41_05_hexamer(Clone)
+  - _time: 56.60823
+    _bindingType: 0
+    _locationName: 41_00_invertedMonomer01(Clone)
+  - _time: 56.60823
+    _bindingType: 0
+    _locationName: 41_02_invertedMonomer02(Clone)
+  - _time: 56.60823
+    _bindingType: 1
+    _locationName: 23_05_hexamer(Clone)
+  - _time: 56.60823
+    _bindingType: 1
+    _locationName: 22_05_hexamer(Clone)
+  - _time: 56.60823
+    _bindingType: 2
+    _locationName: 11_05_hexamer(Clone)
+  - _time: 56.889885
+    _bindingType: 1
+    _locationName: 21_05_hexamer(Clone)
+  - _time: 57.165264
+    _bindingType: 0
+    _locationName: 38_05_hexamer(Clone)
+  - _time: 57.165264
+    _bindingType: 0
+    _locationName: 38_00_invertedMonomer01(Clone)
+  - _time: 57.165264
+    _bindingType: 0
+    _locationName: 38_02_invertedMonomer02(Clone)
+  - _time: 57.165264
+    _bindingType: 2
+    _locationName: 10_05_hexamer(Clone)
+  - _time: 57.45958
+    _bindingType: 1
+    _locationName: 17_05_hexamer(Clone)
+  - _time: 57.763298
+    _bindingType: 0
+    _locationName: 30_05_hexamer(Clone)
+  - _time: 57.763298
+    _bindingType: 0
+    _locationName: 30_00_invertedMonomer01(Clone)
+  - _time: 57.763298
+    _bindingType: 0
+    _locationName: 30_02_invertedMonomer02(Clone)
+  - _time: 57.763298
+    _bindingType: 2
+    _locationName: 9_05_hexamer(Clone)
+  - _time: 58.312305
+    _bindingType: 0
+    _locationName: 37_05_hexamer(Clone)
+  - _time: 58.312305
+    _bindingType: 0
+    _locationName: 37_00_invertedMonomer01(Clone)
+  - _time: 58.312305
+    _bindingType: 0
+    _locationName: 37_02_invertedMonomer02(Clone)
+  - _time: 58.312305
+    _bindingType: 0
+    _locationName: 33_05_hexamer(Clone)
+  - _time: 58.312305
+    _bindingType: 0
+    _locationName: 33_00_invertedMonomer01(Clone)
+  - _time: 58.312305
+    _bindingType: 0
+    _locationName: 33_02_invertedMonomer02(Clone)
+  - _time: 58.312305
+    _bindingType: 0
+    _locationName: 32_05_hexamer(Clone)
+  - _time: 58.312305
+    _bindingType: 0
+    _locationName: 32_00_invertedMonomer01(Clone)
+  - _time: 58.312305
+    _bindingType: 0
+    _locationName: 32_02_invertedMonomer02(Clone)
+  - _time: 58.312305
+    _bindingType: 2
+    _locationName: 8_05_hexamer(Clone)
+  - _time: 58.619938
+    _bindingType: 0
+    _locationName: 40_05_hexamer(Clone)
+  - _time: 58.619938
+    _bindingType: 0
+    _locationName: 40_00_invertedMonomer01(Clone)
+  - _time: 58.619938
+    _bindingType: 0
+    _locationName: 40_02_invertedMonomer02(Clone)
+  - _time: 58.619938
+    _bindingType: 0
+    _locationName: 35_05_hexamer(Clone)
+  - _time: 58.619938
+    _bindingType: 0
+    _locationName: 35_00_invertedMonomer01(Clone)
+  - _time: 58.619938
+    _bindingType: 0
+    _locationName: 35_02_invertedMonomer02(Clone)
+  - _time: 58.619938
+    _bindingType: 1
+    _locationName: 15_05_hexamer(Clone)
+  - _time: 58.892254
+    _bindingType: 1
+    _locationName: 19_05_hexamer(Clone)
+  - _time: 58.892254
+    _bindingType: 1
+    _locationName: 18_05_hexamer(Clone)
+  - _time: 58.892254
+    _bindingType: 1
+    _locationName: 16_05_hexamer(Clone)
+  - _time: 58.892254
+    _bindingType: 2
+    _locationName: 7_05_hexamer(Clone)
+  - _time: 59.45405
+    _bindingType: 2
+    _locationName: 6_05_hexamer(Clone)
+  - _time: 60.021343
+    _bindingType: 2
+    _locationName: 5_05_hexamer(Clone)
+  - _time: 60.607285
+    _bindingType: 1
+    _locationName: 14_05_hexamer(Clone)
+  - _time: 60.607285
+    _bindingType: 2
+    _locationName: 4_05_hexamer(Clone)
+  - _time: 61.15975
+    _bindingType: 0
+    _locationName: 27_05_hexamer(Clone)
+  - _time: 61.15975
+    _bindingType: 0
+    _locationName: 27_00_invertedMonomer01(Clone)
+  - _time: 61.15975
+    _bindingType: 0
+    _locationName: 27_02_invertedMonomer02(Clone)
+  - _time: 61.15975
+    _bindingType: 1
+    _locationName: 12_05_hexamer(Clone)
+  - _time: 61.15975
+    _bindingType: 2
+    _locationName: 3_05_hexamer(Clone)
+  - _time: 61.433502
+    _bindingType: 1
+    _locationName: 10_05_hexamer(Clone)
+  - _time: 61.710037
+    _bindingType: 2
+    _locationName: 2_05_hexamer(Clone)
+  - _time: 61.99458
+    _bindingType: 0
+    _locationName: 29_05_hexamer(Clone)
+  - _time: 61.99458
+    _bindingType: 0
+    _locationName: 29_00_invertedMonomer01(Clone)
+  - _time: 61.99458
+    _bindingType: 0
+    _locationName: 29_02_invertedMonomer02(Clone)
+  - _time: 61.99458
+    _bindingType: 1
+    _locationName: 13_05_hexamer(Clone)
+  - _time: 62.3148
+    _bindingType: 1
+    _locationName: 11_05_hexamer(Clone)
+  - _time: 62.3148
+    _bindingType: 2
+    _locationName: 1_05_hexamer(Clone)
+  - _time: 62.648132
+    _bindingType: 0
+    _locationName: 26_05_hexamer(Clone)
+  - _time: 62.648132
+    _bindingType: 0
+    _locationName: 26_00_invertedMonomer01(Clone)
+  - _time: 62.648132
+    _bindingType: 0
+    _locationName: 26_02_invertedMonomer02(Clone)
+  - _time: 62.939297
+    _bindingType: 2
+    _locationName: 0_05_hexamer(Clone)
+  - _time: 63.216145
+    _bindingType: 0
+    _locationName: 20_05_hexamer(Clone)
+  - _time: 63.216145
+    _bindingType: 0
+    _locationName: 20_00_invertedMonomer01(Clone)
+  - _time: 63.216145
+    _bindingType: 0
+    _locationName: 20_02_invertedMonomer02(Clone)
+  - _time: 63.216145
+    _bindingType: 1
+    _locationName: 8_05_hexamer(Clone)
+  - _time: 63.49786
+    _bindingType: 1
+    _locationName: 9_05_hexamer(Clone)
+  - _time: 63.49786
+    _bindingType: 1
+    _locationName: 7_05_hexamer(Clone)
+  - _time: 64.05231
+    _bindingType: 0
+    _locationName: 31_05_hexamer(Clone)
+  - _time: 64.05231
+    _bindingType: 0
+    _locationName: 31_00_invertedMonomer01(Clone)
+  - _time: 64.05231
+    _bindingType: 0
+    _locationName: 31_02_invertedMonomer02(Clone)
+  - _time: 64.33154
+    _bindingType: 1
+    _locationName: 5_05_hexamer(Clone)
+  - _time: 64.60865
+    _bindingType: 1
+    _locationName: 6_05_hexamer(Clone)
+  - _time: 64.883545
+    _bindingType: 0
+    _locationName: 25_05_hexamer(Clone)
+  - _time: 64.883545
+    _bindingType: 0
+    _locationName: 25_00_invertedMonomer01(Clone)
+  - _time: 64.883545
+    _bindingType: 0
+    _locationName: 25_02_invertedMonomer02(Clone)
+  - _time: 65.48219
+    _bindingType: 0
+    _locationName: 28_05_hexamer(Clone)
+  - _time: 65.48219
+    _bindingType: 0
+    _locationName: 28_00_invertedMonomer01(Clone)
+  - _time: 65.48219
+    _bindingType: 0
+    _locationName: 28_02_invertedMonomer02(Clone)
+  - _time: 65.76321
+    _bindingType: 0
+    _locationName: 24_05_hexamer(Clone)
+  - _time: 65.76321
+    _bindingType: 0
+    _locationName: 24_00_invertedMonomer01(Clone)
+  - _time: 65.76321
+    _bindingType: 0
+    _locationName: 24_02_invertedMonomer02(Clone)
+  - _time: 66.03796
+    _bindingType: 1
+    _locationName: 3_05_hexamer(Clone)
+  - _time: 66.316345
+    _bindingType: 0
+    _locationName: 22_05_hexamer(Clone)
+  - _time: 66.316345
+    _bindingType: 0
+    _locationName: 22_00_invertedMonomer01(Clone)
+  - _time: 66.316345
+    _bindingType: 0
+    _locationName: 22_02_invertedMonomer02(Clone)
+  - _time: 66.59427
+    _bindingType: 0
+    _locationName: 23_05_hexamer(Clone)
+  - _time: 66.59427
+    _bindingType: 0
+    _locationName: 23_00_invertedMonomer01(Clone)
+  - _time: 66.59427
+    _bindingType: 0
+    _locationName: 23_02_invertedMonomer02(Clone)
+  - _time: 66.878845
+    _bindingType: 0
+    _locationName: 17_05_hexamer(Clone)
+  - _time: 66.878845
+    _bindingType: 0
+    _locationName: 17_00_invertedMonomer01(Clone)
+  - _time: 66.878845
+    _bindingType: 0
+    _locationName: 17_02_invertedMonomer02(Clone)
+  - _time: 67.16034
+    _bindingType: 0
+    _locationName: 21_05_hexamer(Clone)
+  - _time: 67.16034
+    _bindingType: 0
+    _locationName: 21_00_invertedMonomer01(Clone)
+  - _time: 67.16034
+    _bindingType: 0
+    _locationName: 21_02_invertedMonomer02(Clone)
+  - _time: 67.16034
+    _bindingType: 1
+    _locationName: 4_05_hexamer(Clone)
+  - _time: 67.16034
+    _bindingType: 1
+    _locationName: 2_05_hexamer(Clone)
+  - _time: 67.44779
+    _bindingType: 1
+    _locationName: 1_05_hexamer(Clone)
+  - _time: 68.36244
+    _bindingType: 0
+    _locationName: 10_05_hexamer(Clone)
+  - _time: 68.36244
+    _bindingType: 0
+    _locationName: 10_00_invertedMonomer01(Clone)
+  - _time: 68.36244
+    _bindingType: 0
+    _locationName: 10_02_invertedMonomer02(Clone)
+  - _time: 68.644905
+    _bindingType: 0
+    _locationName: 14_05_hexamer(Clone)
+  - _time: 68.644905
+    _bindingType: 0
+    _locationName: 14_00_invertedMonomer01(Clone)
+  - _time: 68.644905
+    _bindingType: 0
+    _locationName: 14_02_invertedMonomer02(Clone)
+  - _time: 68.644905
+    _bindingType: 1
+    _locationName: 0_05_hexamer(Clone)
+  - _time: 68.93127
+    _bindingType: 0
+    _locationName: 19_05_hexamer(Clone)
+  - _time: 68.93127
+    _bindingType: 0
+    _locationName: 19_00_invertedMonomer01(Clone)
+  - _time: 68.93127
+    _bindingType: 0
+    _locationName: 19_02_invertedMonomer02(Clone)
+  - _time: 69.78192
+    _bindingType: 0
+    _locationName: 15_05_hexamer(Clone)
+  - _time: 69.78192
+    _bindingType: 0
+    _locationName: 15_00_invertedMonomer01(Clone)
+  - _time: 69.78192
+    _bindingType: 0
+    _locationName: 15_02_invertedMonomer02(Clone)
+  - _time: 70.06273
+    _bindingType: 0
+    _locationName: 16_05_hexamer(Clone)
+  - _time: 70.06273
+    _bindingType: 0
+    _locationName: 16_00_invertedMonomer01(Clone)
+  - _time: 70.06273
+    _bindingType: 0
+    _locationName: 16_02_invertedMonomer02(Clone)
+  - _time: 70.936035
+    _bindingType: 0
+    _locationName: 12_05_hexamer(Clone)
+  - _time: 70.936035
+    _bindingType: 0
+    _locationName: 12_00_invertedMonomer01(Clone)
+  - _time: 70.936035
+    _bindingType: 0
+    _locationName: 12_02_invertedMonomer02(Clone)
+  - _time: 71.21183
+    _bindingType: 0
+    _locationName: 18_05_hexamer(Clone)
+  - _time: 71.21183
+    _bindingType: 0
+    _locationName: 18_00_invertedMonomer01(Clone)
+  - _time: 71.21183
+    _bindingType: 0
+    _locationName: 18_02_invertedMonomer02(Clone)
+  - _time: 72.42868
+    _bindingType: 0
+    _locationName: 7_05_hexamer(Clone)
+  - _time: 72.42868
+    _bindingType: 0
+    _locationName: 7_00_invertedMonomer01(Clone)
+  - _time: 72.42868
+    _bindingType: 0
+    _locationName: 7_02_invertedMonomer02(Clone)
+  - _time: 73.353615
+    _bindingType: 0
+    _locationName: 13_05_hexamer(Clone)
+  - _time: 73.353615
+    _bindingType: 0
+    _locationName: 13_00_invertedMonomer01(Clone)
+  - _time: 73.353615
+    _bindingType: 0
+    _locationName: 13_02_invertedMonomer02(Clone)
+  - _time: 73.92142
+    _bindingType: 0
+    _locationName: 11_05_hexamer(Clone)
+  - _time: 73.92142
+    _bindingType: 0
+    _locationName: 11_00_invertedMonomer01(Clone)
+  - _time: 73.92142
+    _bindingType: 0
+    _locationName: 11_02_invertedMonomer02(Clone)
+  - _time: 74.77164
+    _bindingType: 0
+    _locationName: 8_05_hexamer(Clone)
+  - _time: 74.77164
+    _bindingType: 0
+    _locationName: 8_00_invertedMonomer01(Clone)
+  - _time: 74.77164
+    _bindingType: 0
+    _locationName: 8_02_invertedMonomer02(Clone)
+  - _time: 75.05252
+    _bindingType: 0
+    _locationName: 4_05_hexamer(Clone)
+  - _time: 75.05252
+    _bindingType: 0
+    _locationName: 4_00_invertedMonomer01(Clone)
+  - _time: 75.05252
+    _bindingType: 0
+    _locationName: 4_02_invertedMonomer02(Clone)
+  - _time: 75.05252
+    _bindingType: 0
+    _locationName: 3_05_hexamer(Clone)
+  - _time: 75.05252
+    _bindingType: 0
+    _locationName: 3_00_invertedMonomer01(Clone)
+  - _time: 75.05252
+    _bindingType: 0
+    _locationName: 3_02_invertedMonomer02(Clone)
+  - _time: 75.34053
+    _bindingType: 0
+    _locationName: 9_05_hexamer(Clone)
+  - _time: 75.34053
+    _bindingType: 0
+    _locationName: 9_00_invertedMonomer01(Clone)
+  - _time: 75.34053
+    _bindingType: 0
+    _locationName: 9_02_invertedMonomer02(Clone)
+  - _time: 75.63936
+    _bindingType: 0
+    _locationName: 2_05_hexamer(Clone)
+  - _time: 75.63936
+    _bindingType: 0
+    _locationName: 2_00_invertedMonomer01(Clone)
+  - _time: 75.63936
+    _bindingType: 0
+    _locationName: 2_02_invertedMonomer02(Clone)
+  - _time: 75.922005
+    _bindingType: 0
+    _locationName: 6_05_hexamer(Clone)
+  - _time: 75.922005
+    _bindingType: 0
+    _locationName: 6_00_invertedMonomer01(Clone)
+  - _time: 75.922005
+    _bindingType: 0
+    _locationName: 6_02_invertedMonomer02(Clone)
+  - _time: 75.922005
+    _bindingType: 0
+    _locationName: 5_05_hexamer(Clone)
+  - _time: 75.922005
+    _bindingType: 0
+    _locationName: 5_00_invertedMonomer01(Clone)
+  - _time: 75.922005
+    _bindingType: 0
+    _locationName: 5_02_invertedMonomer02(Clone)
+  - _time: 77.711586
+    _bindingType: 0
+    _locationName: 1_05_hexamer(Clone)
+  - _time: 77.711586
+    _bindingType: 0
+    _locationName: 1_00_invertedMonomer01(Clone)
+  - _time: 77.711586
+    _bindingType: 0
+    _locationName: 1_02_invertedMonomer02(Clone)
+  - _time: 77.98751
+    _bindingType: 0
+    _locationName: 0_05_hexamer(Clone)
+  - _time: 77.98751
+    _bindingType: 0
+    _locationName: 0_00_invertedMonomer01(Clone)
+  - _time: 77.98751
+    _bindingType: 0
+    _locationName: 0_02_invertedMonomer02(Clone)
+  _animationDuration: 77.05592

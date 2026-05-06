@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{cad190d1-1440-41c5-9857-f8afaaa3647d}">
+		<property name="name">
+			<value>Snare Bus</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{2483f9d5-3ae3-40db-bbf6-ee4ec7378c85}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{f42cbdd2-f133-455f-a412-5a43b22eba9a}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{753650f9-4c31-461e-aa20-f49066cf146d}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{2483f9d5-3ae3-40db-bbf6-ee4ec7378c85}">
+		<relationship name="effects">
+			<destination>{44ea6028-04c8-4300-a8be-b0c9d2a935dc}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{f42cbdd2-f133-455f-a412-5a43b22eba9a}" />
+	<object class="MixerBusFader" id="{44ea6028-04c8-4300-a8be-b0c9d2a935dc}" />
+</objects>

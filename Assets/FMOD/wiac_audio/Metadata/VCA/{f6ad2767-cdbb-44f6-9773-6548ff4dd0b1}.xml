@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerVCA" id="{f6ad2767-cdbb-44f6-9773-6548ff4dd0b1}">
+		<property name="name">
+			<value>dimer_binding</value>
+		</property>
+		<relationship name="mixer">
+			<destination>{65530fa3-fefc-40cd-ba0c-38af7195c51c}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7448561502302063280
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7448561502302063294}
+  - component: {fileID: 7448561502302063295}
+  - component: {fileID: 7448561502302063293}
+  m_Layer: 0
+  m_Name: InsulinCrystal_Instancer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7448561502302063294
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7448561502302063280}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -26.118998, y: -28.035948, z: 61.288162}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7448561502302063295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7448561502302063280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0fd7eef7483274f82bbd8de253ff01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AnimatedHexamerCount: 100
+  StaticHexamerCount: 0
+  LowPolyHexamerCount: 3000
+  AnimatedHexamerMesh: {fileID: 1305328960643658868, guid: f86bd70490d062b4a96dbfe627b17471,
+    type: 3}
+  LowPolyHexamerMesh: {fileID: 6122727022086508051, guid: 90f106235852ef7448d373b6798f0857,
+    type: 3}
+  HighPolyHexamerMesh: {fileID: -7153827829256379982, guid: 90f106235852ef7448d373b6798f0857,
+    type: 3}
+  HighPolyMaterial: {fileID: 2100000, guid: 263c57481a879c24094b431356cf7068, type: 2}
+  LowPolyMaterial: {fileID: 2100000, guid: 94297d9505b012546aedbb7081211baf, type: 2}
+  masterList: {fileID: 11400000, guid: 47ae986f4043b40b9abc608de68d1a7a, type: 2}
+  player: {fileID: 0}
+  _hexamerList: []
+  _hexamerPrefabs:
+  - {fileID: 5477126806287478261, guid: d591a7ad7b80d1343ab2a70cf37c9ccf, type: 3}
+  - {fileID: 9153730774829907677, guid: 0f4d9a96d58329749bec89be3c783924, type: 3}
+  - {fileID: 4223548693565836761, guid: ca4e52c7203c5c643b54b21c5a235e9b, type: 3}
+  createNewAnimatedHexamers: 1
+  runHexamerReleaseSimulation: 0
+  _durationBetweenDisolves: 5
+--- !u!114 &7448561502302063293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7448561502302063280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74a4dfcac2f930e47a648d614b81614d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MasterList: {fileID: 11400000, guid: 47ae986f4043b40b9abc608de68d1a7a, type: 2}
+  sortList: 0
+  insulinCrystalMinCount: 30913
+  insulinCrystalMaxCount: 41727
+  distanceToCameraForInnerHexamers: 70
+  playerLocation: {fileID: 0}

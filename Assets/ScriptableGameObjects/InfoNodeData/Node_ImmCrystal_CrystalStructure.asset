@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bcbe66e6165a37409b24f90989a5847, type: 3}
+  m_Name: Node_ImmCrystal_CrystalStructure
+  m_EditorClassIdentifier: 
+  nodeName: 
+  nodeNumber: 0
+  nodeNexus: 8
+  nodeConstituents: 18000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - "Each insulin hexamer is surrounded by water molecues forming the \u2018water
+    jacket\u2019"
+  - "The \u2018water jacket\u2019 creates hydrogen bond network between hexamers
+    that aids them to \u2018stack\u2019 in order"
+  nodeSpriteLayer: []

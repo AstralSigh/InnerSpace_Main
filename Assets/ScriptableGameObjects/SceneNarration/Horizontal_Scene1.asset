@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94e8900bdbef942ad19f626cdac685, type: 3}
+  m_Name: Horizontal_Scene1
+  m_EditorClassIdentifier: 
+  sceneHeader: Scene 1
+  sceneSubHeader: Messaging on the Membrane
+  NarrationBeats:
+  - narrationText: "After you eat a meal,  your intestines release a hormone, GLP-1,
+      into your bloodstream.\r"
+    narrationTrack:
+      Guid:
+        Data1: 326555515
+        Data2: 1236087443
+        Data3: 828369805
+        Data4: -206252294
+      Path: event:/VO/scene_01_01
+  - narrationText: "This peptide hormone streams through your body, eventually reaching
+      the Islets of Langerhans in your pancreas, where your pancreatic beta cells
+      live\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -827224350
+        Data2: 1290681316
+        Data3: 1498527625
+        Data4: 745873825
+      Path: event:/VO/scene_01_02
+  - narrationText: "Receptor proteins known as GLP1-R dot the membrane of the beta
+      cell, idly swaying back and forth, ready to receive a hormone signal.\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -32655517
+        Data2: 1127579538
+        Data3: -255988326
+        Data4: 898133604
+      Path: event:/VO/scene_01_03
+  - narrationText: "As the flood of GLP-1 swells near the beta cell surface, some
+      of the hormone proteins stray close enough to the receptors to bind to the
+      receptor\u2019s binding pockets.\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 2134581677
+        Data2: 1139548894
+        Data3: -69747547
+        Data4: 2092874070
+      Path: event:/VO/scene_01_04
+  - narrationText: "This binding moment changes the receptor\u2019s shape, allowing
+      it to interact with signaling proteins inside the cell. \r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 631176908
+        Data2: 1079216640
+        Data3: 1145474458
+        Data4: -527583183
+      Path: event:/VO/scene_01_05
+  - narrationText: "One of these signaling proteins, the G protein complex, becomes
+      activated when interacting with the receptor here.\r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1792358708
+        Data2: 1200576198
+        Data3: -622862440
+        Data4: -2085993692
+      Path: event:/VO/scene_01_06
+  - narrationText: "After activating, each G protein complex then splits into two.
+      \r\r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -758370899
+        Data2: 1166018978
+        Data3: -288975485
+        Data4: 520725131
+      Path: event:/VO/scene_01_07
+  - narrationText: "One of the two halves, called G alpha, binds to another protein
+      rooted on the membrane, AC.\r \r\r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -547006053
+        Data2: 1198535529
+        Data3: -661307741
+        Data4: 222133151
+      Path: event:/VO/scene_01_08
+  - narrationText: "While the G alpha and AC are bound together, they convert nearby
+      energy molecules (ATP) into cAMP signaling molecules that travel deeper in
+      the cell.\r\r \r\r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1422013404
+        Data2: 1109065407
+        Data3: 1778237318
+        Data4: 1163785049
+      Path: event:/VO/scene_01_09
+  - narrationText: "These cAMP molecules simultaneously trigger both the release
+      of stored insulin and the production of new insulin within the pancreatic beta
+      cell.\r.\r\r \r\r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 309815811
+        Data2: 1082383009
+        Data3: 907677856
+        Data4: 47234537
+      Path: event:/VO/scene_01_10

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_GLP1R_Function
+  m_EditorClassIdentifier: 
+  nodeName: GLP-1R's Function
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 1
+  nodeType: 0
+  nodeConstituents: 06000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: What is GLP-1R's primary function?
+    basic: "GLP-1R is a receptor that binds to GLP-1 and other similar molecules.
+      \nIt begins the process of enhanced insulin secretion inside the cell."
+    intermediate: 
+    advanced: "GLP-1R triggers the signaling cascade to enhance insulin secretion
+      when blood glucose is elevated. \nThis effect diminishes when blood glucose
+      level is normal or low, so it reduces the risk of hypoglycemia from excess
+      insulin"
+  - title: Why is it's function important?
+    basic: Many major Type 2 diabetes drugs are structurally designed to find and
+      latch onto GLP-1R in the body, which activates the insulin secretion process.
+    intermediate: 
+    advanced: "GLP-1R provides an alternative regulatory pathway to control blood
+      glucose levels. \nThe response to GLP-1, which is released from a meal, signals
+      the cell to secrete more insulin to handle the large sugar intake from the
+      meal."
+  nodeSpriteLayer: []

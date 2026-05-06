@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: Node_InsRelease_SNARE_V2
+  m_EditorClassIdentifier: 
+  nodeName: 
+  nodePreview: {fileID: 21300000, guid: 2ddffa93302055f4586869d867c2a3e1, type: 3}
+  nodeNumber: 0
+  nodeNexus: 9
+  nodeConstituents: 1a000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: 
+    basic: A SNARE complex consists of several membrane bound proteins that vesicle
+      membrane fusion depends on.
+    intermediate: 
+    advanced: 
+  - title: 
+    basic: SNARE complex is activated by calcium ions, also the product of the GLP1-R
+      signaling cascade.
+    intermediate: 
+    advanced: 
+  - title: 
+    basic: Calcium triggers plasma membrane-bound and vesicle-bound SNARE components
+      to interact and intertwine.
+    intermediate: 
+    advanced: 
+  - title: 
+    basic: The two phospholipid bilayers are pulled together, merging and forming
+      a hole to allow material exchange.
+    intermediate: 
+    advanced: 
+  nodeSpriteLayer: []

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98a8cc874a0ba546a0f446bce49bcba, type: 3}
+  m_Name: ConData_LipidBilayer
+  m_EditorClassIdentifier: 
+  eConType: 27
+  conPortrait: {fileID: 0}
+  conMetroCardBG: {fileID: 0}
+  conName: Plasma Membrane
+  pathwayNarrative: 
+  npcDialogs: []
+  conHeader: Cell Membrane
+  conSubHeader: Phospholipid Bilayer
+  conInfoPoints: []
+  conInfoSources: 'Manual Analysis of 5NX2 in Chimera
+
+    Wedegaertner, Sub-cellular
+    biochemistry, 63, 193, 2012.'
+  conPathway: 
+  conPDBNums: N/A
+  conFunction: 'Physical boundary: The plasma membrane separates the cell''s interior
+    from the environment. '
+  conDescription: The cell's outer boundary is called the plasma membrane. It's made
+    of a double layer of fatty molecules called lipids. Proteins that span the membrane
+    allow the cell to sense what's going on outside.
+  conOrigin: N/A
+  conDimensions: N/A
+  conOpaqueMaterial: {fileID: 0}
+  conClearMaterial: {fileID: 0}

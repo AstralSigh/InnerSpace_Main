@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 011a809ee18ce264080cbe96447bac32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: atp_spriteSheet_0
+  - first:
+      213: 21300002
+    second: atp_spriteSheet_1
+  - first:
+      213: 21300004
+    second: atp_spriteSheet_2
+  - first:
+      213: 21300006
+    second: atp_spriteSheet_3
+  - first:
+      213: 21300008
+    second: atp_spriteSheet_4
+  - first:
+      213: 21300010
+    second: atp_spriteSheet_5
+  - first:
+      213: 21300012
+    second: atp_spriteSheet_6
+  - first:
+      213: 21300014
+    second: atp_spriteSheet_7
+  - first:
+      213: 21300016
+    second: atp_spriteSheet_8
+  - first:
+      213: 21300018
+    second: atp_spriteSheet_9
+  - first:
+      213: 21300020
+    second: atp_spriteSheet_10
+  - first:
+      213: 21300022
+    second: atp_spriteSheet_11
+  - first:
+      213: 21300024
+    second: atp_spriteSheet_12
+  - first:
+      213: 21300026
+    second: atp_spriteSheet_13
+  - first:
+      213: 21300028
+    second: atp_spriteSheet_14
+  - first:
+      213: 21300030
+    second: atp_spriteSheet_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atp_spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1085
+        width: 217
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4757270315a918b4ba0e1702a5a74e72
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1076
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750bbe5e4345b7a4c911da3136089d9e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1077
+        width: 149
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb719b56f8a12f64782642c3622ec93c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1089
+        width: 230
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e44bfd6f456564e918b1a62cbacee8
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 288
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbd7318ab2248f4996040bc570c1fbd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 758
+        width: 308
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e164c4d4c64f82646b06495ad398b759
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 745
+        width: 290
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c4266dab3bcf43907c21dc7876419
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 735
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e9fd89a8759b84080afbb68a119896
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 405
+        width: 199
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07780e398862e6049af6064527e7b586
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 404
+        width: 138
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f7080c3b96285469a78ce0e8b50adf
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 404
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f24ba9cd7614ef489c07b11cad7c9e2
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 407
+        width: 226
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86920e85d6a19fc4bbb9ecd19f20bb5e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 92
+        width: 272
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553de23963cd1264ba274d7d6f0f37f3
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 104
+        width: 302
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67899de7abdb69347ae89b67a57cdd56
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 117
+        width: 303
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58e461604fd82940bfb70fe1d33c525
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atp_spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 125
+        width: 267
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8990a5dc531b44bfc2e0e8c2ffd72
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 20d4102e6bb8ec94d800599a7d2142e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      atp_spriteSheet_12: 21300024
+      atp_spriteSheet_0: 21300000
+      atp_spriteSheet_7: 21300014
+      atp_spriteSheet_2: 21300004
+      atp_spriteSheet_13: 21300026
+      atp_spriteSheet_4: 21300008
+      atp_spriteSheet_1: 21300002
+      atp_spriteSheet_15: 21300030
+      atp_spriteSheet_9: 21300018
+      atp_spriteSheet_5: 21300010
+      atp_spriteSheet_10: 21300020
+      atp_spriteSheet_11: 21300022
+      atp_spriteSheet_3: 21300006
+      atp_spriteSheet_6: 21300012
+      atp_spriteSheet_14: 21300028
+      atp_spriteSheet_8: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

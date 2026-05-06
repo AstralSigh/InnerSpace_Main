@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_Interaction_MembraneFusion
+  m_EditorClassIdentifier: 
+  nodeName: Membrane Fusion
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 9
+  nodeType: 1
+  nodeConstituents: 1a0000001b00000015000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: What is membrane fusion?
+    basic: "An example of membrane fusion can be seen here. \nIn general, membrane
+      fusion is an interaction where two lipid membranes merge together, either partially
+      or fully, into a single continuous membrane."
+    intermediate: 
+    advanced: 
+  - title: How do the membranes fuse?
+    basic: "The SNARE complex brings two lipid membranes into close proximity. \nThe
+      lipid molecules rearrange into one continuous membrane through hydrophobic
+      interactions."
+    intermediate: 
+    advanced: "SNARE proteins anchored on both the vesicle and cell membrane intertwine
+      into a tight bundle through a process known as zipping. \nThis interaction
+      overcomes the repulsive force between the membranes, causing them to fuse. "
+  - title: Why is membrane fusion important?
+    basic: Here, fusion of plasma and vesicle membranes creates a channel for insulin
+      to leave the cell and enter the bloodstream.
+    intermediate: 
+    advanced: 
+  nodeSpriteLayer: []

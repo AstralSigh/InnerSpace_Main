@@ -1,0 +1,353 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1070675079499104510
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8456467665930793034}
+  m_Layer: 0
+  m_Name: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GDP_rig:joint3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8456467665930793034
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1070675079499104510}
+  m_LocalRotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+  m_LocalPosition: {x: -0.005044514, y: 0, z: -2.6610436e-19}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8740762914327307219}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.3882176e-10, y: -180, z: -0.0000000018340165}
+--- !u!1 &3809147741511407862
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8867047892241276855}
+  m_Layer: 0
+  m_Name: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GDP_rig:GDP_Ctrl01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8867047892241276855
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3809147741511407862}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.000052269697, y: 0.003617912, z: -0.00000003185272}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2124645637297451660}
+  m_Father: {fileID: 4844374315987926407}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.8939715e-18, y: -1.0820497e-17, z: 2.7202721e-17}
+--- !u!1 &3933807538681969741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2685942550163657373}
+  - component: {fileID: 5622968891753945074}
+  m_Layer: 0
+  m_Name: CON_GDP_Main_BindsToGLP1RandSwap_Loop_111319_v1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2685942550163657373
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3933807538681969741}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.247, y: 2.611, z: -32.959}
+  m_LocalScale: {x: 20, y: 20, z: 20}
+  m_Children:
+  - {fileID: 8042949556975417668}
+  - {fileID: 4647290735627707373}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &5622968891753945074
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3933807538681969741}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 70f2f2a59c518594bbb0a32c000f87ad, type: 3}
+  m_Controller: {fileID: 9100000, guid: d72800de14bdb4249aa09ff3e6c37125, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &4673729172252997773
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4844374315987926407}
+  m_Layer: 0
+  m_Name: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GDP_rig:GDP_MoveCTRL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4844374315987926407
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4673729172252997773}
+  m_LocalRotation: {x: -0.005646443, y: 0.48635143, z: -0.0069062393, w: 0.8737178}
+  m_LocalPosition: {x: -0.005777773, y: 0, z: 0.012310131}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8867047892241276855}
+  - {fileID: 3746786104666791997}
+  m_Father: {fileID: 4647290735627707373}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.1804291, y: 58.20622, z: -1.0062003}
+--- !u!1 &5103929913421702923
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8042949556975417668}
+  - component: {fileID: 6429590176941821920}
+  m_Layer: 0
+  m_Name: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GDP_rig:GDP_geo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8042949556975417668
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5103929913421702923}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2685942550163657373}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6429590176941821920
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5103929913421702923}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: cfd83fc2b7f4d2646b5cbd9e9afd6d74, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 70f2f2a59c518594bbb0a32c000f87ad, type: 3}
+  m_Bones:
+  - {fileID: 3746786104666791997}
+  - {fileID: 8740762914327307219}
+  - {fileID: 8456467665930793034}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 3746786104666791997}
+  m_AABB:
+    m_Center: {x: -0.0057725776, y: 0.004118797, z: 0.000000030267984}
+    m_Extent: {x: 0.01014135, y: 0.0041188053, z: 0.0050445637}
+  m_DirtyAABB: 0
+--- !u!1 &5626939597511416543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4647290735627707373}
+  m_Layer: 0
+  m_Name: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GDP_rig:GDP_MasterCTRL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4647290735627707373
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5626939597511416543}
+  m_LocalRotation: {x: 0.026543427, y: -0.39415818, z: -0.020363789, w: 0.91843355}
+  m_LocalPosition: {x: -0.3865738, y: -0.13187754, z: 1.2430731}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4844374315987926407}
+  m_Father: {fileID: 2685942550163657373}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 1.8741146, y: -46.509228, z: -3.3457632}
+--- !u!1 &5781001959946576312
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3746786104666791997}
+  m_Layer: 0
+  m_Name: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GDP_rig:GDP_joint1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3746786104666791997
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5781001959946576312}
+  m_LocalRotation: {x: -6.123272e-17, y: 1, z: 6.123272e-17, w: 0.000006188778}
+  m_LocalPosition: {x: -0.005772613, y: 0.0036179125, z: -0.00000010395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8740762914327307219}
+  m_Father: {fileID: 4844374315987926407}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6708446607694708888
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2124645637297451660}
+  m_Layer: 0
+  m_Name: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GDP_rig:nurbsCircle2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2124645637297451660
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6708446607694708888}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.005044514, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8867047892241276855}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.3359769e-17, y: 2.8596534e-17, z: -5.5815514e-17}
+--- !u!1 &7153517058807506476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8740762914327307219}
+  m_Layer: 0
+  m_Name: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GDP_rig:joint2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8740762914327307219
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7153517058807506476}
+  m_LocalRotation: {x: 0, y: 0.0000061887736, z: -0, w: 1}
+  m_LocalPosition: {x: -0.005824883, y: 0, z: 2.4263294e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8456467665930793034}
+  m_Father: {fileID: 3746786104666791997}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.6079381e-10, y: 0.00070918084, z: -8.9375846e-10}

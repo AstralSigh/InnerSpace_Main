@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94e8900bdbef942ad19f626cdac685, type: 3}
+  m_Name: Horizontal_Scene0
+  m_EditorClassIdentifier: 
+  sceneHeader: Prologue
+  sceneSubHeader: A Touch of Glucose
+  NarrationBeats:
+  - narrationText: 'Our story takes place in the islets of Langerhans, a region of
+      your pancreas.  '
+    narrationTrack:
+      Guid:
+        Data1: -95495987
+        Data2: 1126949860
+        Data3: 535855246
+        Data4: 345450033
+      Path: event:/VO/scene_00_01
+  - narrationText: "Here live pancreatic beta cells, the only cell type in your body
+      that can produce and secrete insulin, a vital hormone that helps manage your
+      body\u2019s blood sugar levels.\r"
+    narrationTrack:
+      Guid:
+        Data1: 673730214
+        Data2: 1118427311
+        Data3: 2081374880
+        Data4: 1865355047
+      Path: event:/VO/scene_00_02
+  - narrationText: "The presence of glucose naturally stimulates these cells to release
+      some of its insulin.\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -1916551472
+        Data2: 1313214723
+        Data3: 1899124910
+        Data4: -799721218
+      Path: event:/VO/scene_00_03
+  - narrationText: "Glucose molecules reach these cells via your bloodstream. \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -608643259
+        Data2: 1313488381
+        Data3: -721392765
+        Data4: 94566656
+      Path: event:/VO/scene_00_04
+  - narrationText: "Once they\u2019re nearby, a pancreatic beta cell will absorb
+      these molecules with transporter proteins on its membrane called GLUT.\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 907809611
+        Data2: 1149783753
+        Data3: -822716509
+        Data4: -1349726974
+      Path: event:/VO/scene_00_05
+  - narrationText: "Managing the blood sugar in your body is important. \r"
+    narrationTrack:
+      Guid:
+        Data1: -905226407
+        Data2: 1276857140
+        Data3: -416646211
+        Data4: 2022162092
+      Path: event:/VO/scene_00_06
+  - narrationText: "It helps your cells fuel themselves and also prevents damage
+      within your body that can happen from too much sugar in your blood.\r \r"
+    narrationTrack:
+      Guid:
+        Data1: -1248976665
+        Data2: 1150055410
+        Data3: 1672304018
+        Data4: -2107527166
+      Path: event:/VO/scene_00_07
+  - narrationText: "So what happens when your bloodstream is flooded with more sugar,
+      like after a major meal?\r\r \r"
+    narrationTrack:
+      Guid:
+        Data1: -592117129
+        Data2: 1120281523
+        Data3: -706051943
+        Data4: -2080822594
+      Path: event:/VO/scene_00_08

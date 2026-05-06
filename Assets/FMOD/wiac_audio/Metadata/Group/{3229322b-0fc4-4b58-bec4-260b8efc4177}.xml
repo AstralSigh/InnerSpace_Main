@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{3229322b-0fc4-4b58-bec4-260b8efc4177}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
+		<property name="name">
+			<value>GProtein Bus</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{048de803-7dc5-45db-ac7d-cd218458a5fd}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{51c226fc-dfe7-4424-9a97-3691728df6ab}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{753650f9-4c31-461e-aa20-f49066cf146d}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{048de803-7dc5-45db-ac7d-cd218458a5fd}">
+		<relationship name="effects">
+			<destination>{41150f0a-5bdb-4cbe-a2c5-84d32749e10b}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{51c226fc-dfe7-4424-9a97-3691728df6ab}" />
+	<object class="MixerBusFader" id="{41150f0a-5bdb-4cbe-a2c5-84d32749e10b}" />
+</objects>

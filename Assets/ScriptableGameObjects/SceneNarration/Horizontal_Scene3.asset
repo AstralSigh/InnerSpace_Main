@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94e8900bdbef942ad19f626cdac685, type: 3}
+  m_Name: Horizontal_Scene3
+  m_EditorClassIdentifier: 
+  sceneHeader: Scene 3
+  sceneSubHeader: Reading and Printing
+  NarrationBeats:
+  - narrationText: "Swarms of catalytic PKA awaken processes within the nucleus.\r"
+    narrationTrack:
+      Guid:
+        Data1: -1794675190
+        Data2: 1227082527
+        Data3: 633996168
+        Data4: -61203013
+      Path: event:/VO/scene_03_01
+  - narrationText: "Eventually, the nucleus spools out strands of insulin messenger
+      RNA. \r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1973494961
+        Data2: 1332301741
+        Data3: 1113243541
+        Data4: 301735619
+      Path: event:/VO/scene_03_02
+  - narrationText: "mRNA acts as an insulin template to be read by another macromolecule,
+      the ribosome.\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1772047452
+        Data2: 1316123230
+        Data3: -980619843
+        Data4: -537010244
+      Path: event:/VO/scene_03_03
+  - narrationText: "Ribosomes attached to the surface of the Endoplasmic reticulum
+      reel in these insulin mRNA strands and meticulously translate it molecule by
+      molecule.\r\n\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1057425773
+        Data2: 1295638855
+        Data3: -2066801757
+        Data4: -211721606
+      Path: event:/VO/scene_03_04
+  - narrationText: While reading the mRNA, each ribosome simultaneously extrudes
+      a corresponding preproinsulin strand inside the Endoplasmic Reticulum.
+    narrationTrack:
+      Guid:
+        Data1: 470941448
+        Data2: 1130913651
+        Data3: -1293036137
+        Data4: 692226104
+      Path: event:/VO/scene_03_05
+  - narrationText: "When an mRNA\u2019s translation is finished, a complete preproinsulin
+      strand breaks off from the ribosome and travels further into the inner workings
+      of the Endoplasmic reticulum.\r"
+    narrationTrack:
+      Guid:
+        Data1: -1700334208
+        Data2: 1156667077
+        Data3: -1780213076
+        Data4: -764154616
+      Path: event:/VO/scene_03_06

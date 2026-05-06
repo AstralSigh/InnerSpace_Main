@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8519191301757404460
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1463761565, guid: 5ab8046e51e84364ab404aa7dc99c949, type: 3}
+      propertyPath: tutorialObjects.Array.data[0]
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1587725772, guid: 5ab8046e51e84364ab404aa7dc99c949, type: 3}
+      propertyPath: tutorialObjects.Array.data[0]
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 525593973384294149, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_Name
+      value: 15_Beat_Controller_Inside_Sphere_With_Trigger
+      objectReference: {fileID: 0}
+    - target: {fileID: 1600713916618137953, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: assignedText
+      value: Place your CONTROLLER  inside the sphere and hold the TRIGGER BUTTON.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3169256055575530966, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3169256055575530966, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.data[0]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3169256055575530966, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.data[1]
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5849747336484894100, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5849747336484894100, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.data[0]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5849747336484894100, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.data[1]
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6077000686486110787, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6077000686486110787, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.data[0]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6077000686486110787, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.data[1]
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6576291546729388030, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6576291546729388030, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.data[0]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6576291546729388030, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: tooltipTypes.Array.data[1]
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6877152246258921909, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: triggerCondition.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6877152246258921909, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: triggerCondition.Array.data[0]
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6877152246258921909, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: triggerCondition.Array.data[1]
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5ab8046e51e84364ab404aa7dc99c949, type: 3}

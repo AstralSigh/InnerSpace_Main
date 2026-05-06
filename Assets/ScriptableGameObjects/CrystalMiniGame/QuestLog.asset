@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd8298292ce7ee4999990b3b7a0f0b3, type: 3}
+  m_Name: QuestLog
+  m_EditorClassIdentifier: 
+  questlog:
+  - header: Create Hexamers
+    subtext: 1. Bring two monomers together
+    progressIndex: 0
+    progressCount: 3
+    complete: 0
+  - header: Create Hexamers
+    subtext: 2. Bring two dimers together
+    progressIndex: 1
+    progressCount: 3
+    complete: 0
+  - header: Create Hexamers
+    subtext: 3. Bring a dimer and a tetramer together
+    progressIndex: 1
+    progressCount: 3
+    complete: 0
+  - header: Create Hexamers
+    subtext: 1. Bring two monomers together
+    progressIndex: 1
+    progressCount: 3
+    complete: 0
+  - header: Create Hexamers
+    subtext: 2. Bring two dimers together
+    progressIndex: 1
+    progressCount: 3
+    complete: 0
+  - header: Create Hexamers
+    subtext: 3. Bring a dimer and a tetramer together
+    progressIndex: 1
+    progressCount: 3
+    complete: 0
+  - header: Create Hexamers
+    subtext: 1. Bring two monomers together
+    progressIndex: 2
+    progressCount: 3
+    complete: 0
+  - header: Create Hexamers
+    subtext: 2. Bring two dimers together
+    progressIndex: 2
+    progressCount: 3
+    complete: 0
+  - header: Create Hexamers
+    subtext: 3. Bring a dimer and a tetramer together
+    progressIndex: 2
+    progressCount: 3
+    complete: 0
+  - header: Create a crystal
+    subtext: Bring hexamers together
+    progressIndex: 3
+    progressCount: 7
+    complete: 0
+  - header: Create a crystal
+    subtext: Bring hexamers together
+    progressIndex: 7
+    progressCount: 26
+    complete: 0
+  - header: Create a crystal
+    subtext: Bring hexamers together
+    progressIndex: 7
+    progressCount: 28
+    complete: 0

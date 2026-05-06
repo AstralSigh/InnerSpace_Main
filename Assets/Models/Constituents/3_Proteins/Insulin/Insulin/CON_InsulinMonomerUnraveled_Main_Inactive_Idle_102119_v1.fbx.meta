@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: f2e97332dc5fba74bae8819c0120b7e7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Insulin_Monomer
+    100004: insulin_monomer_CTRLS
+    100006: insulin_monomer_joints
+    100008: insulin_monomer_MasterCTRL
+    100010: insulin_monomer_MoveCTRL
+    100012: joint10
+    100014: joint11
+    100016: joint12
+    100018: joint13
+    100020: joint14
+    100022: joint2
+    100024: joint3
+    100026: joint4
+    100028: joint5
+    100030: joint6
+    100032: joint7
+    100034: joint8
+    100036: joint9
+    100038: nurbsCircle10
+    100040: nurbsCircle11
+    100042: nurbsCircle12
+    100044: nurbsCircle13
+    100046: nurbsCircle2
+    100048: nurbsCircle3
+    100050: nurbsCircle4
+    100052: nurbsCircle5
+    100054: nurbsCircle5_1
+    100056: nurbsCircle6
+    100058: nurbsCircle7
+    100060: nurbsCircle8
+    100062: nurbsCircle9
+    400000: //RootNode
+    400002: Insulin_Monomer
+    400004: insulin_monomer_CTRLS
+    400006: insulin_monomer_joints
+    400008: insulin_monomer_MasterCTRL
+    400010: insulin_monomer_MoveCTRL
+    400012: joint10
+    400014: joint11
+    400016: joint12
+    400018: joint13
+    400020: joint14
+    400022: joint2
+    400024: joint3
+    400026: joint4
+    400028: joint5
+    400030: joint6
+    400032: joint7
+    400034: joint8
+    400036: joint9
+    400038: nurbsCircle10
+    400040: nurbsCircle11
+    400042: nurbsCircle12
+    400044: nurbsCircle13
+    400046: nurbsCircle2
+    400048: nurbsCircle3
+    400050: nurbsCircle4
+    400052: nurbsCircle5
+    400054: nurbsCircle5_1
+    400056: nurbsCircle6
+    400058: nurbsCircle7
+    400060: nurbsCircle8
+    400062: nurbsCircle9
+    2100000: Paint
+    4300000: Insulin_Monomer
+    7400000: 102119_v1
+    9500000: //RootNode
+    13700000: Insulin_Monomer
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

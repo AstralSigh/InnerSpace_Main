@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: e34b648d5947f9f4fa4cc3857b9c04e2
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -521896475592335839
+    second: SNARE BONESAction.028
+  - first:
+      74: 4033370660719149660
+    second: SNARE BONES.004|A1__Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: 2311761883365650315
+    second: SNARE BONES.004|A1_Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: 393558166383680901
+    second: SNARE BONES.004|A2__Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: -4165330377322222329
+    second: SNARE BONES.004|A2_Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: 9031490134432846569
+    second: SNARE BONES.004|B1__Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: -1514644710399601287
+    second: SNARE BONES.004|B1_Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: -4421454207263633252
+    second: SNARE BONES.004|B2__Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: -5505803498302690629
+    second: SNARE BONES.004|B2_Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: -4315341456722281194
+    second: SNARE BONES.004|C1__Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: 4148238782837384225
+    second: SNARE BONES.004|C1_Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: -2422054968069148769
+    second: SNARE BONES.004|C2__Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: 1116139854157926350
+    second: SNARE BONES.004|C2_Goal|CINEMA_4D_Main|Layer0
+  - first:
+      74: -3688554945813249145
+    second: SNARE BONES.004|SNARE BONESAction
+  - first:
+      74: 1831750059413675675
+    second: SNARE BONES.004|SNARE BONESAction.001
+  - first:
+      74: 6503738930242157362
+    second: SNARE BONES.004|SNARE BONESAction.002
+  - first:
+      74: -2592011814864312846
+    second: SNARE BONES.004|SNARE BONESAction.003
+  - first:
+      74: 3089680208806666533
+    second: SNARE BONES.004|SNARE BONESAction.004
+  - first:
+      74: 3087109487843711252
+    second: SNARE BONES.004|SNARE BONESAction.005
+  - first:
+      74: -4578937818766321261
+    second: SNARE BONES.004|SNARE BONESAction.006
+  - first:
+      74: -6458509039947892622
+    second: SNARE BONES.004|SNARE BONESAction.007
+  - first:
+      74: -5393308440863905674
+    second: SNARE BONES.004|SNARE BONESAction.008
+  - first:
+      74: 6731946212579639731
+    second: SNARE BONES.004|SNARE BONESAction.009
+  - first:
+      74: -1537028332719221824
+    second: SNARE BONES.004|SNARE BONESAction.010
+  - first:
+      74: -6440900746646595394
+    second: SNARE BONES.004|SNARE BONESAction.011
+  - first:
+      74: 9042228583088870887
+    second: SNARE BONES.004|SNARE BONESAction.025
+  - first:
+      74: -4555381938137766801
+    second: SNARE BONES.004|SNARE BONESAction.026
+  - first:
+      74: -2229494529883815618
+    second: SNARE BONES.004|SNARE BONESAction.027
+  - first:
+      74: 7782724172302245676
+    second: SNARE BONES.004|SNARE BONESAction.028
+  - first:
+      74: -8504606317070651539
+    second: SNARE BONES.004|SNARE BONESAction.029
+  - first:
+      74: 8829452438842022581
+    second: SNARE BONES.004|SNARE BONESAction.030
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

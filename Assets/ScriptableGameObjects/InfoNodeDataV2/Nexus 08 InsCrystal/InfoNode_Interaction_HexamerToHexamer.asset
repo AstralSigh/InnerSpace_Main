@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_Interaction_HexamerToHexamer
+  m_EditorClassIdentifier: 
+  nodeName: Hexamer Tiling
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 8
+  nodeType: 0
+  nodeConstituents: 18000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: 'What happens between multiple Hexamers?
+
+
+
+'
+    basic: As insulin concentration rises, more and more insulin hexamers bump into
+      each other, tiling in three dimensions to form a crystal.
+    intermediate: 
+    advanced: "Insulin concentration reaches precipitation level in mature insulin
+      vesicles. \n'Water jackets' around insulin hexamers form a hydrogen bonded
+      network that interacts with other nearby hexamers. \nThe hexamer facilitates
+      hexagonal packing.\r\n"
+  nodeSpriteLayer: []

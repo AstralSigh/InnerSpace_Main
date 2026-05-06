@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_InsulinVesicle_Structure
+  m_EditorClassIdentifier: 
+  nodeName: The Insulin Vesicle
+  nodePreview: {fileID: 0}
+  nodeNumber: 9
+  nodeNexus: 8
+  nodeType: 0
+  nodeConstituents: 15000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: 'What is an insulin vesicle?
+
+
+
+'
+    basic: 'The environment you are in right now is the insulin vesicle.
+
+      Insulin
+      vesicles are small compartments in beta cells that store and secrete insulin.'
+    intermediate: 
+    advanced: Insulin vesicles are membrane-bound organelles that originate from
+      the trans-Golgi network, where proinsulin undergoes post-translational modifications
+      to yield mature insulin and C-peptide.
+  - title: 'What is an insulin vesicle made of?
+
+
+
+'
+    basic: "Insulin vesicles contain a high amount of insulin, zinc, and other enzymes
+      and proteins. \r\nIts contents are all surrounded by a lipid bilayer that is
+      also embedded with many different proteins"
+    intermediate: 
+    advanced: "The surface proteins on insulin vesicles serve many functions, including
+      material exchange, signaling, recognition, mobility and exocytosis. \nIts contents
+      are highly enriched with insulin and the byproducts and enzymes related to
+      insulin processing."
+  - title: 'What does an Insulin Vesicle do?
+
+
+
+'
+    basic: Insulin vesicles carry insulin towards the cell membrane where they are
+      secreted from the cell.
+    intermediate: 
+    advanced: "Insulin vesicles serve as the primary storage organelles for insulin
+      within pancreatic beta cells. \nUpon sensing elevated glucose concentrations,
+      intracellular signaling pathways are activated, leading to an influx of calcium
+      ions. \nThis prompts the granules to undergo exocytosis, wherein they fuse
+      with the plasma membrane and release their insulin content. "
+  nodeSpriteLayer: []

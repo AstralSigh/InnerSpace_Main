@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98a8cc874a0ba546a0f446bce49bcba, type: 3}
+  m_Name: ConData_GLP-1R
+  m_EditorClassIdentifier: 
+  eConType: 6
+  conPortrait: {fileID: 21300000, guid: 41b9145c00014384bb144f3c80c53d25, type: 3}
+  conMetroCardBG: {fileID: 0}
+  conName: GLP-1R
+  pathwayNarrative: 
+  npcDialogs: []
+  conHeader: GLP-1R
+  conSubHeader: Glucagon-like Peptide 1 Receptor
+  conInfoPoints:
+  - GLP-1R is 3-dimensional fold of a single polypeptide chain
+  - GLP-1R has 7 transmembrane helices. These helices form a peptide-binding pocket
+    that GLP1 sits in
+  - A mutation here that differs between humans and rats dramatically changes the
+    dynamics of GLP1-R's extracellular domain
+  - Alpha helices are always right handed; Each turn is approximately 3.6 amino acids
+    in length
+  conInfoSources: 'Underwood et al, JBC 285, 723, 2010 ,
+
+    Zhang et al, Nature,
+    546, 248 2017. Figure S10'
+  conPathway: Insulin Secretion
+  conPDBNums: ' 5NX2- active, 5VAI- active'
+  conFunction: "Messaging & Signaling. \nGLP-1R detects digestive activity via GLP-1."
+  conDescription: A protein called GLP-1R, sitting in the cell's membrane, is the
+    antenna. When the message GLP-1 sticks to it, it changes its shape.
+  conOrigin: Generated from Ribosomes
+  conDimensions: 'Volume: 51900 cubic Angstroms
+
+    Radius: 23.1 Angstroms
+
+    Height:
+    112.454 Angstroms'
+  conOpaqueMaterial: {fileID: 2100000, guid: 6ef654485f27c054d8e18336f2fd77a7, type: 2}
+  conClearMaterial: {fileID: 2100000, guid: a67ef60c9796e7645a1bb38a4737a221, type: 2}

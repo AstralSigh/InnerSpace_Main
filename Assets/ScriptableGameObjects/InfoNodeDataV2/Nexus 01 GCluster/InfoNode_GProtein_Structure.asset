@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_GProtein_Structure
+  m_EditorClassIdentifier: 
+  nodeName: G Protein's Structure
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 0
+  nodeType: 0
+  nodeConstituents: 0700000008000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: 'What is G Protein''s structure?
+
+
+
+'
+    basic: G protein contains 3 subunits called alpha, beta, and gamma.
+    intermediate: 
+    advanced: "The inactive G protein complex is a trimer with all three subunits
+      bound to a GDP. \nActive G protein complex is separated into a free G alpha
+      and a G beta- gamma dimer."
+  - title: 'What is G Alpha?
+
+
+
+'
+    basic: G alpha is the largest subunit of the G protein complex. It can bind to
+      GTP or GDP
+    intermediate: 
+    advanced: "G alpha contains a nucleotide binding pocket that binds to guanine
+      of GDP or GTP. \nThere are three isoforms of G alpha that regulate particular
+      processes. \nThe G alpha isoform associated with GLP-1R is Gs alpha which stimulates
+      adenylyl cyclase to increase cAMP production."
+  - title: 'What are G Beta and G Gamma?
+
+
+
+'
+    basic: G beta is formed by beta sheets. It forms a complex with G gamma.
+    intermediate: 
+    advanced: "G beta and G gamma form a tight dimer that complements G alpha in
+      the G protein activation cycle. \nG beta is larger and more complex than G
+      gamma. G gamma often covalently links to a lipid molecule which anchors the
+      dimer and  the whole inactive G protein complex to the plasma membrane. \nThe
+      G beta gamma dimer sometimes acts as effector to some protein in a signaling
+      cascade."
+  nodeSpriteLayer: []

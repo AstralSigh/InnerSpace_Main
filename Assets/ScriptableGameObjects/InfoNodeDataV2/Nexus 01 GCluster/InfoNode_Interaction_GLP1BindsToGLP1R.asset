@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_Interaction_GLP1BindsToGLP1R
+  m_EditorClassIdentifier: 
+  nodeName: GLP-1 Binds to GLP-1R
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 1
+  nodeType: 0
+  nodeConstituents: 0500000006000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: What happens between GLP-1 and GLP-1R? Why is this interaction important?
+    basic: "GLP-1R and GLP-1 bind together, causing GLP-1R to change to and stay
+      in its active form. \nDrugs designed to treat diabetes mimic the interaction
+      between GLP-1 and GLP-1R."
+    intermediate: 
+    advanced: "5 amino acid residues on the extracellular domain and 11 on the transmembrane
+      domain form the binding pocket for GLP-1. GLP-1 is anchored in its place through
+      hydrophobic and hydrophilic interactions between its residues and GLP-1R. \nThese
+      interactions stabilize the active conformation of GLP-1R and allow multiple
+      activations of G protein complexes. "
+  nodeSpriteLayer: []

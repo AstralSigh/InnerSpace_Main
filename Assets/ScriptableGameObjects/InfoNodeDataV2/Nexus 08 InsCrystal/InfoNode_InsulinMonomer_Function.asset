@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_InsulinMonomer_Function
+  m_EditorClassIdentifier: 
+  nodeName: Insulin's Purpose
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 8
+  nodeType: 0
+  nodeConstituents: 16000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: 'What does an insulin monomer do?
+
+
+
+'
+    basic: Insulin monomers signal the body to reduce sugar in the bloodstream, thus
+      protecting tissues from damage by excessive sugar.
+    intermediate: 
+    advanced: "Insulin plays a key role in regulating blood glucose homeostasis.
+      \nIt signals to lower the overall glucose level in the body by various means.
+      \nFor example, insulin promotes glucose storage in the liver and muscle cells
+      by stimulating glycogenesis. \nInsulin also increases glucose uptake in adipose
+      cells to enhance lipogenesis. \nInsulin also inhibits catabolic processes that
+      generates glucose in skeletal muscles."
+  nodeSpriteLayer: []

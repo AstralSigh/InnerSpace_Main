@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_SNARE_Structure
+  m_EditorClassIdentifier: 
+  nodeName: The SNARE Complex
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 9
+  nodeType: 0
+  nodeConstituents: 1a000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: What is the SNARE Complex?
+    basic: This is a SNARE complex. It's made up of multiple peptide chains embedded
+      in a membrane.
+    intermediate: 
+    advanced: "A SNARE complex is formed when v-SNAREs (vesicle-associated SNAREs)
+      and t-SNAREs (target membrane-associated SNAREs) form a stable complex. \nIn
+      insulin vesicles, these SNARE proteins are syntaxin, SNAP-25/23, and VAMP2.
+      \nThe core of the SNARE complex is a bundle of 4 helices from different SNARE
+      proteins."
+  - title: Why is the SNARE Complex important?
+    basic: The SNARE complex enables site-directed membrane fusion in the cell, which
+      is required for normal cellular functions.
+    intermediate: 
+    advanced: The SNARE complex cooperates with membrane-trafficing proteins known
+      as synaptotagmin to sense chemical signals, allowing the cell to regulate membrane
+      fusion.
+  nodeSpriteLayer: []

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bcbe66e6165a37409b24f90989a5847, type: 3}
+  m_Name: Node_GCluster_Time_2_GProteinBinds
+  m_EditorClassIdentifier: 
+  nodeName: 'Nexus 1: GProtein binds with activated GLP1-R'
+  nodeNumber: 0
+  nodeNexus: 1
+  nodeConstituents: 0700000006000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - The kink in GLP1-R's sixth helix creates a pocket for passing GProtein complexes
+    to bind to.
+  - Upon binding with GLP1-R, the G Alpha subunit of GProtein releases a GDP molecule.
+  - GProtein binding with GLP1-R effectively completes a circuit transmitting the
+    extracellular signal of GLP1 to the intracellular machinery of the pancreatic
+    beta cell.
+  nodeSpriteLayer: []

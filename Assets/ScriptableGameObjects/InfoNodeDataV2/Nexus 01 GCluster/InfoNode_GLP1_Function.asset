@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_GLP1_Function
+  m_EditorClassIdentifier: 
+  nodeName: GLP-1 Function
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 1
+  nodeType: 0
+  nodeConstituents: 05000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: What does GLP-1 do? Why is it important?
+    basic: 'GLP-1 is a hormone that indirectly helps lower blood sugar by increasing
+      the production and secretion of insulin into the bloodstream after eating. '
+    intermediate: 
+    advanced: "GLP-1 is released from the small intestine. \nIt activates GLP-1R
+      on the surface of various types of cells. \nIn beta cells, it enhances glucose
+      dependent insulin secretion by more than threefold. \nGLP-1 is structurally
+      and functionally like several pharmaceuticals used to treat diabetes. \nEnzymes
+      break down GLP-1 quickly, but pharmaceuticals are often effective because the
+      drug molecules are more stable."
+  nodeSpriteLayer: []

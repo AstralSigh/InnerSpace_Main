@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerVCA" id="{8a34c788-625f-489e-8212-34705ef49a85}">
+		<property name="name">
+			<value>hexamer_binding</value>
+		</property>
+		<relationship name="mixer">
+			<destination>{65530fa3-fefc-40cd-ba0c-38af7195c51c}</destination>
+		</relationship>
+	</object>
+</objects>

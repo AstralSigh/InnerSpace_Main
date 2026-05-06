@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94e8900bdbef942ad19f626cdac685, type: 3}
+  m_Name: Horizontal_Scene7
+  m_EditorClassIdentifier: 
+  sceneHeader: Epilogue
+  sceneSubHeader: Messaging on Another Membrane
+  NarrationBeats:
+  - narrationText: "Your bloodstream will carry insulin to various kinds of cells
+      throughout your body.\r"
+    narrationTrack:
+      Guid:
+        Data1: 785532975
+        Data2: 1229533529
+        Data3: 2127157901
+        Data4: 1116538889
+      Path: event:/VO/scene_07_01
+  - narrationText: "The final stop of insulin\u2019s voyage mirrors its beginning:
+      a receptor protein waiting on a cell\u2019s membrane.\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -460348433
+        Data2: 1228843910
+        Data3: -1206126914
+        Data4: 936951918
+      Path: event:/VO/scene_07_02
+  - narrationText: "Like the hormone GLP-1, insulin is a key that fits in a lock
+      of a receptor protein\u2019s binding pocket, changing the receptor\u2019s shape
+      as it slots into place.\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1712801436
+        Data2: 1281482431
+        Data3: -494695753
+        Data4: 1285364091
+      Path: event:/VO/scene_07_03
+  - narrationText: "The protein and molecule interchange kicked off by the receptor
+      results in a signal molecule summoning clusters of GLUT transport proteins
+      to these cells\u2019 membrane surfaces. \r\n\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -1771566148
+        Data2: 1179925816
+        Data3: -401988678
+        Data4: 2015919456
+      Path: event:/VO/scene_07_04
+  - narrationText: "Once they arrive, the GLUTs begin siphoning, enabling the cell
+      to soak up glucose from the surrounding bloodstream.\r"
+    narrationTrack:
+      Guid:
+        Data1: 1981632121
+        Data2: 1247435536
+        Data3: 44793245
+        Data4: -2061148946
+      Path: event:/VO/scene_07_05
+  - narrationText: "This not only lowers your overall blood sugar, it also provides
+      a vital fuel source the cells can use to produce energy for themselves and
+      their processes.\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -1704755177
+        Data2: 1082999115
+        Data3: 1247754884
+        Data4: -1882849937
+      Path: event:/VO/scene_07_06
+  - narrationText: "And so, in feeding yourself, you\u2019ve also fed your cells
+      through this complex signaling system.\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1764046663
+        Data2: 1206576299
+        Data3: -1926203489
+        Data4: 1520936721
+      Path: event:/VO/scene_07_07

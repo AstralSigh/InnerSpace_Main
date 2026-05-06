@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{23a76b2d-c11b-4a87-a6d5-e379af83d294}">
+		<property name="volume">
+			<value>3</value>
+		</property>
+		<property name="name">
+			<value>GLP1R Bus</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{7f553bcd-d0ac-4442-a8fa-31250ba02b69}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{507443ff-d69e-4c52-ae78-6127adfb109f}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{753650f9-4c31-461e-aa20-f49066cf146d}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{7f553bcd-d0ac-4442-a8fa-31250ba02b69}">
+		<relationship name="effects">
+			<destination>{3e3bdeb5-ff77-4579-a876-176081356d14}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{507443ff-d69e-4c52-ae78-6127adfb109f}" />
+	<object class="MixerBusFader" id="{3e3bdeb5-ff77-4579-a876-176081356d14}" />
+</objects>

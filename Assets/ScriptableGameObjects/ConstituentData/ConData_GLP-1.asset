@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98a8cc874a0ba546a0f446bce49bcba, type: 3}
+  m_Name: ConData_GLP-1
+  m_EditorClassIdentifier: 
+  eConType: 5
+  conPortrait: {fileID: 21300000, guid: d3e56867c1cf2c542ac5a1e74a0fcc50, type: 3}
+  conMetroCardBG: {fileID: 0}
+  conName: GLP-1
+  pathwayNarrative: 
+  npcDialogs: []
+  conHeader: GLP-1
+  conSubHeader: Glucagon Like Peptide 1
+  conInfoPoints: []
+  conInfoSources: 'Zhang et al, Nature, 546, 248 2017
+
+    Underwood et al, JBC 285,
+    723, 2010'
+  conPathway: Insulin Secretion
+  conPDBNums: 5VAI- bound, 1D0R- unbound
+  conFunction: 'Messaging & Signaling.
+
+    GLP-1 is a hormone, a molecule that moves
+    from one body part to another. '
+  conDescription: GLP-1 is a peptide. It's the message sent by intestinal cells.
+    It goes through the bloodstream to the pancreas. Its job is to activate GLP1-R
+    on the cell membrante of beta cells.
+  conOrigin: Released by enteroendocrine cells of the pancreas
+  conDimensions: 'Volume: 3125 cubic Angstroms
+
+    Radius: 9.07 Angstroms
+
+    Height:
+    46 Angstroms'
+  conOpaqueMaterial: {fileID: 2100000, guid: 6f892180f4a28944e87b81f97c99c951, type: 2}
+  conClearMaterial: {fileID: 2100000, guid: d8534aa4833fa314992e3dc0faa3c960, type: 2}

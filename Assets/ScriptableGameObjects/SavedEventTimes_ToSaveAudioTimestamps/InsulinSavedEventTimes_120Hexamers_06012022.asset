@@ -1,0 +1,1186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 884e232af1c06fb46b86a4953ca164d3, type: 3}
+  m_Name: InsulinSavedEventTimes_120Hexamers_06012022
+  m_EditorClassIdentifier: 
+  bindingEventTimes:
+  - _time: 0.02
+    _bindingType: 2
+    _location: {x: 3.4638186, y: 0.95821667, z: -2.0001302}
+  - _time: 0.68666667
+    _bindingType: 2
+    _location: {x: 2.597793, y: 0.4794016, z: -2.5001304}
+  - _time: 0.9218433
+    _bindingType: 2
+    _location: {x: 1.7317677, y: 0.0005865097, z: -3.0001307}
+  - _time: 1.3589696
+    _bindingType: 2
+    _location: {x: 0.865742, y: -0.47822857, z: -3.500131}
+  - _time: 1.7560335
+    _bindingType: 2
+    _location: {x: -0.00028352137, y: -0.95704365, z: -4.000131}
+  - _time: 2.201676
+    _bindingType: 2
+    _location: {x: 1.7317679, y: 0.95821667, z: -2.0001307}
+  - _time: 2.59655
+    _bindingType: 2
+    _location: {x: 0.8657423, y: 0.4794016, z: -2.500131}
+  - _time: 3.0008063
+    _bindingType: 2
+    _location: {x: -0.00028324127, y: 0.0005865246, z: -3.0001311}
+  - _time: 3.4452708
+    _bindingType: 2
+    _location: {x: -0.8663088, y: -0.47822857, z: -3.5001314}
+  - _time: 3.911537
+    _bindingType: 2
+    _location: {x: -0.00028300285, y: 0.95821667, z: -2.0001311}
+  - _time: 4.334663
+    _bindingType: 1
+    _location: {x: 7.753295, y: 4.221165, z: -3.3680782}
+  - _time: 4.334663
+    _bindingType: 2
+    _location: {x: -0.86630857, y: 0.4794016, z: -2.5001314}
+  - _time: 4.804915
+    _bindingType: 1
+    _location: {x: 6.448898, y: 1.4975318, z: -5.3538494}
+  - _time: 4.804915
+    _bindingType: 2
+    _location: {x: -1.7323341, y: 0.0005865097, z: -3.0001316}
+  - _time: 5.251868
+    _bindingType: 2
+    _location: {x: -1.7323338, y: 0.95821667, z: -2.0001316}
+  - _time: 5.6756673
+    _bindingType: 1
+    _location: {x: 2.6320574, y: 4.666867, z: -3.4481022}
+  - _time: 5.6756673
+    _bindingType: 2
+    _location: {x: -2.5983593, y: 0.4794016, z: -2.5001318}
+  - _time: 5.9026694
+    _bindingType: 1
+    _location: {x: 1.9500402, y: -1.5337458, z: -8.694236}
+  - _time: 6.119929
+    _bindingType: 2
+    _location: {x: -3.4643846, y: 0.95821667, z: -2.000132}
+  - _time: 6.3288555
+    _bindingType: 1
+    _location: {x: 5.308024, y: -0.3179715, z: -8.822938}
+  - _time: 6.5368633
+    _bindingType: 2
+    _location: {x: -0.8663089, y: -0.95704365, z: -2.5001311}
+  - _time: 6.747537
+    _bindingType: 1
+    _location: {x: 2.248099, y: 3.1731312, z: -6.069848}
+  - _time: 6.955734
+    _bindingType: 1
+    _location: {x: -1.9127114, y: -5.9133496, z: -8.191497}
+  - _time: 6.955734
+    _bindingType: 2
+    _location: {x: -1.7323341, y: -0.47822857, z: -2.0001314}
+  - _time: 7.3870597
+    _bindingType: 1
+    _location: {x: 0.4151898, y: 1.3903897, z: -7.749104}
+  - _time: 7.3870597
+    _bindingType: 2
+    _location: {x: -2.5983593, y: 0.0005865246, z: -1.5001315}
+  - _time: 7.5973506
+    _bindingType: 1
+    _location: {x: -3.0451365, y: -2.12781, z: -7.926257}
+  - _time: 7.8071756
+    _bindingType: 1
+    _location: {x: -0.109212995, y: 5.450749, z: -2.8031502}
+  - _time: 7.8071756
+    _bindingType: 2
+    _location: {x: -3.4643846, y: 0.4794016, z: -1.0001316}
+  - _time: 8.245013
+    _bindingType: 2
+    _location: {x: -1.7323344, y: -0.95704365, z: -1.0001311}
+  - _time: 8.669679
+    _bindingType: 1
+    _location: {x: -3.4316194, y: -0.60504156, z: -7.3156824}
+  - _time: 8.669679
+    _bindingType: 2
+    _location: {x: -2.5983596, y: -0.47822857, z: -0.50013125}
+  - _time: 9.10436
+    _bindingType: 2
+    _location: {x: -3.4643848, y: 0.0005865097, z: -0.00013142824}
+  - _time: 9.525494
+    _bindingType: 2
+    _location: {x: -2.5983598, y: -0.95704365, z: 0.499869}
+  - _time: 9.950091
+    _bindingType: 1
+    _location: {x: -1.8894969, y: 4.8883643, z: -6.584805}
+  - _time: 9.950091
+    _bindingType: 2
+    _location: {x: -3.464385, y: -0.47822857, z: 0.9998688}
+  - _time: 10.369609
+    _bindingType: 2
+    _location: {x: -3.4643853, y: -0.95704365, z: 1.9998691}
+  - _time: 10.810144
+    _bindingType: 2
+    _location: {x: 2.597793, y: 0.95821667, z: -0.5001305}
+  - _time: 11.2710085
+    _bindingType: 1
+    _location: {x: -7.632536, y: 1.8352816, z: -6.2375283}
+  - _time: 11.2710085
+    _bindingType: 1
+    _location: {x: -1.5867211, y: -6.411507, z: -4.1254406}
+  - _time: 11.2710085
+    _bindingType: 1
+    _location: {x: -5.911153, y: -0.96943074, z: -3.8816764}
+  - _time: 11.2710085
+    _bindingType: 2
+    _location: {x: 0.86574227, y: 0.95821667, z: -0.5001309}
+  - _time: 11.489024
+    _bindingType: 1
+    _location: {x: -4.7609572, y: 6.1406503, z: -1.1027069}
+  - _time: 11.70674
+    _bindingType: 2
+    _location: {x: -0.86630857, y: 0.95821667, z: -0.5001313}
+  - _time: 11.921461
+    _bindingType: 1
+    _location: {x: -8.17554, y: 2.267193, z: -1.6189165}
+  - _time: 12.135585
+    _bindingType: 1
+    _location: {x: -2.421374, y: -5.446302, z: -1.3592305}
+  - _time: 12.135585
+    _bindingType: 1
+    _location: {x: -4.5982256, y: -2.914553, z: -1.9921552}
+  - _time: 12.135585
+    _bindingType: 2
+    _location: {x: -2.5983593, y: 0.95821667, z: -0.5001317}
+  - _time: 12.563972
+    _bindingType: 0
+    _location: {x: 6.921163, y: 14.143578, z: -8.613048}
+  - _time: 12.563972
+    _bindingType: 1
+    _location: {x: -10.021535, y: 6.2908306, z: -3.963363}
+  - _time: 12.563972
+    _bindingType: 2
+    _location: {x: -2.5983596, y: 0.4794016, z: 0.4998685}
+  - _time: 13.016838
+    _bindingType: 2
+    _location: {x: -2.5983596, y: 0.0005865246, z: 1.4998686}
+  - _time: 13.255142
+    _bindingType: 0
+    _location: {x: -0.35568753, y: -0.6086566, z: -16.908249}
+  - _time: 13.493141
+    _bindingType: 1
+    _location: {x: -4.7395806, y: -4.6783338, z: -8.078795}
+  - _time: 13.493141
+    _bindingType: 1
+    _location: {x: -7.4039474, y: -0.3989846, z: 1.4844563}
+  - _time: 13.493141
+    _bindingType: 2
+    _location: {x: -2.5983598, y: -0.47822857, z: 2.4998689}
+  - _time: 13.953323
+    _bindingType: 2
+    _location: {x: 1.7317674, y: 0.95821667, z: 0.99986935}
+  - _time: 14.178996
+    _bindingType: 1
+    _location: {x: -6.2093954, y: -3.4269998, z: 5.081876}
+  - _time: 14.399736
+    _bindingType: 2
+    _location: {x: -0.00028336048, y: 0.95821667, z: 0.99986887}
+  - _time: 14.618395
+    _bindingType: 1
+    _location: {x: -10.108145, y: 1.6072569, z: 0.94220495}
+  - _time: 14.835121
+    _bindingType: 1
+    _location: {x: -4.729035, y: -6.045226, z: 2.5963113}
+  - _time: 14.835121
+    _bindingType: 2
+    _location: {x: -1.7323341, y: 0.95821667, z: 0.99986845}
+  - _time: 15.052261
+    _bindingType: 0
+    _location: {x: -5.1339254, y: 6.123639, z: -16.100403}
+  - _time: 15.275194
+    _bindingType: 0
+    _location: {x: 3.652752, y: 12.851517, z: -14.168943}
+  - _time: 15.275194
+    _bindingType: 2
+    _location: {x: -1.7323344, y: 0.4794016, z: 1.9998686}
+  - _time: 15.757576
+    _bindingType: 2
+    _location: {x: -1.7323344, y: 0.0005865097, z: 2.9998689}
+  - _time: 15.970439
+    _bindingType: 1
+    _location: {x: 5.500907, y: 6.6312833, z: 0.06133201}
+  - _time: 16.189287
+    _bindingType: 0
+    _location: {x: 14.30484, y: -8.880213, z: -5.222652}
+  - _time: 16.189287
+    _bindingType: 0
+    _location: {x: -9.453617, y: -2.6662369, z: -14.931253}
+  - _time: 16.189287
+    _bindingType: 1
+    _location: {x: 2.2953498, y: 6.44372, z: -1.5711055}
+  - _time: 16.189287
+    _bindingType: 1
+    _location: {x: -5.4447994, y: 4.989314, z: -0.83256423}
+  - _time: 16.189287
+    _bindingType: 1
+    _location: {x: -6.043618, y: 2.366897, z: 1.3753549}
+  - _time: 16.189287
+    _bindingType: 2
+    _location: {x: 0.86574185, y: 0.95821667, z: 2.499869}
+  - _time: 16.654505
+    _bindingType: 2
+    _location: {x: -0.866309, y: 0.95821667, z: 2.4998686}
+  - _time: 16.8814
+    _bindingType: 0
+    _location: {x: 5.7591085, y: 9.419771, z: -18.713757}
+  - _time: 16.8814
+    _bindingType: 1
+    _location: {x: -2.871049, y: 6.2427797, z: -1.0621264}
+  - _time: 17.111263
+    _bindingType: 0
+    _location: {x: -1.2779889, y: 16.210888, z: -9.740081}
+  - _time: 17.111263
+    _bindingType: 2
+    _location: {x: -0.8663091, y: 0.4794016, z: 3.4998689}
+  - _time: 17.566944
+    _bindingType: 0
+    _location: {x: -8.554689, y: 8.7694845, z: -13.052448}
+  - _time: 17.566944
+    _bindingType: 2
+    _location: {x: -0.00028374395, y: 0.95821667, z: 3.9998689}
+  - _time: 18.020208
+    _bindingType: 0
+    _location: {x: -7.60374, y: -3.347621, z: -22.910883}
+  - _time: 18.020208
+    _bindingType: 2
+    _location: {x: 3.4638186, y: 0.4794016, z: -1.0001304}
+  - _time: 18.483482
+    _bindingType: 0
+    _location: {x: -14.8031845, y: -13.512884, z: -14.857984}
+  - _time: 18.483482
+    _bindingType: 1
+    _location: {x: -6.758961, y: 2.3160655, z: 5.547636}
+  - _time: 18.483482
+    _bindingType: 2
+    _location: {x: 2.597793, y: 0.0005865097, z: -1.5001307}
+  - _time: 18.709398
+    _bindingType: 0
+    _location: {x: -16.791739, y: 3.8036115, z: -11.644057}
+  - _time: 18.939823
+    _bindingType: 2
+    _location: {x: 1.7317674, y: -0.47822857, z: -2.000131}
+  - _time: 19.169847
+    _bindingType: 0
+    _location: {x: -16.253468, y: -4.439408, z: -11.083652}
+  - _time: 19.399662
+    _bindingType: 1
+    _location: {x: 4.311389, y: 6.96893, z: 2.880716}
+  - _time: 19.399662
+    _bindingType: 2
+    _location: {x: 0.86574185, y: -0.95704365, z: -2.5001311}
+  - _time: 19.857645
+    _bindingType: 1
+    _location: {x: -3.3523738, y: -0.25006378, z: 9.936365}
+  - _time: 19.857645
+    _bindingType: 1
+    _location: {x: -4.2764845, y: -1.7981355, z: 6.9069676}
+  - _time: 19.857645
+    _bindingType: 2
+    _location: {x: -0.00028351543, y: -0.95704365, z: -1.0001311}
+  - _time: 20.085073
+    _bindingType: 1
+    _location: {x: 2.5949478, y: 4.861356, z: 3.8452065}
+  - _time: 20.3349
+    _bindingType: 2
+    _location: {x: -0.8663089, y: -0.95704365, z: 0.49986887}
+  - _time: 20.810675
+    _bindingType: 1
+    _location: {x: 0.0358414, y: 9.085431, z: 0.9875305}
+  - _time: 20.810675
+    _bindingType: 1
+    _location: {x: -4.563537, y: 8.031873, z: 1.2638549}
+  - _time: 20.810675
+    _bindingType: 2
+    _location: {x: -1.7323344, y: -0.95704365, z: 1.9998689}
+  - _time: 21.030457
+    _bindingType: 0
+    _location: {x: -13.206518, y: -4.3074007, z: -9.225534}
+  - _time: 21.030457
+    _bindingType: 1
+    _location: {x: -5.162443, y: 5.77467, z: 4.1358895}
+  - _time: 21.259289
+    _bindingType: 2
+    _location: {x: 2.597793, y: 0.4794016, z: 0.49986935}
+  - _time: 21.49027
+    _bindingType: 0
+    _location: {x: -9.396257, y: 19.104, z: 3.327228}
+  - _time: 21.723522
+    _bindingType: 0
+    _location: {x: -0.24317129, y: -17.245087, z: -3.667351}
+  - _time: 21.723522
+    _bindingType: 1
+    _location: {x: 1.0063713, y: 3.158799, z: 8.678337}
+  - _time: 21.723522
+    _bindingType: 2
+    _location: {x: -0.866309, y: -0.47822857, z: 2.4998689}
+  - _time: 21.958258
+    _bindingType: 0
+    _location: {x: -6.308998, y: -19.46405, z: -8.7380495}
+  - _time: 22.188866
+    _bindingType: 1
+    _location: {x: 5.9027185, y: -0.66535574, z: -4.165729}
+  - _time: 22.188866
+    _bindingType: 2
+    _location: {x: 1.7317673, y: 0.4794016, z: 1.9998691}
+  - _time: 22.425165
+    _bindingType: 0
+    _location: {x: -22.688873, y: 9.333686, z: -4.8932185}
+  - _time: 22.668114
+    _bindingType: 1
+    _location: {x: -2.2757087, y: 2.1780484, z: 8.80259}
+  - _time: 22.668114
+    _bindingType: 2
+    _location: {x: -0.0002836585, y: 0.0005865246, z: 2.9998689}
+  - _time: 22.922304
+    _bindingType: 0
+    _location: {x: -20.44302, y: -0.32912785, z: -7.621904}
+  - _time: 22.922304
+    _bindingType: 1
+    _location: {x: -2.7635176, y: 5.400586, z: 7.0537767}
+  - _time: 23.159986
+    _bindingType: 0
+    _location: {x: -20.858929, y: 6.79083, z: -6.3421803}
+  - _time: 23.159986
+    _bindingType: 2
+    _location: {x: 0.86574167, y: 0.4794016, z: 3.4998689}
+  - _time: 23.397936
+    _bindingType: 1
+    _location: {x: -0.20434953, y: -4.875376, z: -1.5064061}
+  - _time: 23.637857
+    _bindingType: 2
+    _location: {x: 3.463818, y: 0.0005865097, z: -0.00013071299}
+  - _time: 23.872677
+    _bindingType: 0
+    _location: {x: -22.588942, y: 1.9255652, z: -4.211925}
+  - _time: 23.872677
+    _bindingType: 0
+    _location: {x: 1.5156568, y: 12.874091, z: -3.6222239}
+  - _time: 23.872677
+    _bindingType: 1
+    _location: {x: 10.171119, y: 2.7211463, z: -1.2280306}
+  - _time: 24.113306
+    _bindingType: 1
+    _location: {x: -1.5286378, y: -5.221931, z: 0.5682559}
+  - _time: 24.113306
+    _bindingType: 2
+    _location: {x: 2.5977926, y: -0.47822857, z: -0.50013095}
+  - _time: 24.58794
+    _bindingType: 0
+    _location: {x: -18.237888, y: -9.147105, z: 11.970529}
+  - _time: 24.58794
+    _bindingType: 1
+    _location: {x: 4.7073545, y: -2.592616, z: -7.992204}
+  - _time: 24.58794
+    _bindingType: 2
+    _location: {x: 1.7317672, y: -0.95704365, z: -1.0001311}
+  - _time: 24.827995
+    _bindingType: 0
+    _location: {x: -13.154519, y: -16.334215, z: 4.055661}
+  - _time: 25.068462
+    _bindingType: 1
+    _location: {x: 4.4637256, y: 4.444588, z: 0.8545185}
+  - _time: 25.068462
+    _bindingType: 2
+    _location: {x: 0.8657418, y: -0.95704365, z: 0.49986887}
+  - _time: 25.32225
+    _bindingType: 0
+    _location: {x: -12.841114, y: -8.967085, z: -18.376947}
+  - _time: 25.57054
+    _bindingType: 0
+    _location: {x: -18.198565, y: 3.8631265, z: -4.4204297}
+  - _time: 25.57054
+    _bindingType: 2
+    _location: {x: -0.0002835989, y: -0.95704365, z: 1.9998689}
+  - _time: 25.81453
+    _bindingType: 0
+    _location: {x: -21.299568, y: -10.320753, z: -3.0332022}
+  - _time: 25.81453
+    _bindingType: 0
+    _location: {x: -16.333157, y: 3.7007658, z: 9.571179}
+  - _time: 25.81453
+    _bindingType: 1
+    _location: {x: 1.8228118, y: -6.240879, z: -8.144518}
+  - _time: 26.062218
+    _bindingType: 2
+    _location: {x: 2.5977926, y: 0.0005865097, z: 1.4998691}
+  - _time: 26.306505
+    _bindingType: 1
+    _location: {x: -5.266619, y: -5.8175845, z: 5.7118645}
+  - _time: 26.550861
+    _bindingType: 0
+    _location: {x: -10.741193, y: 9.289676, z: -5.3235326}
+  - _time: 26.550861
+    _bindingType: 2
+    _location: {x: 0.8657418, y: -0.47822857, z: 2.4998689}
+  - _time: 26.79785
+    _bindingType: 0
+    _location: {x: -1.8184882, y: 11.792377, z: 3.0896928}
+  - _time: 27.046257
+    _bindingType: 0
+    _location: {x: -11.08414, y: 0.55789757, z: 15.0180235}
+  - _time: 27.046257
+    _bindingType: 2
+    _location: {x: 1.7317672, y: 0.0005865097, z: 2.9998689}
+  - _time: 27.298302
+    _bindingType: 1
+    _location: {x: -4.259839, y: -2.9725482, z: 7.835738}
+  - _time: 27.298302
+    _bindingType: 1
+    _location: {x: 3.247285, y: 5.6341686, z: 4.752351}
+  - _time: 27.298302
+    _bindingType: 1
+    _location: {x: 2.6327288, y: 2.9476218, z: 7.667353}
+  - _time: 27.571098
+    _bindingType: 0
+    _location: {x: -5.3702464, y: 15.546769, z: -3.1084788}
+  - _time: 27.571098
+    _bindingType: 2
+    _location: {x: 3.463818, y: -0.47822857, z: 0.9998691}
+  - _time: 28.069605
+    _bindingType: 2
+    _location: {x: 2.5977926, y: -0.95704365, z: 0.49986887}
+  - _time: 28.320297
+    _bindingType: 0
+    _location: {x: 1.7078619, y: 22.349466, z: -4.7149925}
+  - _time: 28.320297
+    _bindingType: 1
+    _location: {x: 0.92434525, y: -2.4414644, z: 8.2333145}
+  - _time: 28.57093
+    _bindingType: 2
+    _location: {x: 1.7317672, y: -0.95704365, z: 1.9998689}
+  - _time: 28.822666
+    _bindingType: 0
+    _location: {x: -22.600159, y: -1.6259834, z: 0.14848785}
+  - _time: 28.822666
+    _bindingType: 0
+    _location: {x: 11.724321, y: -3.346441, z: -11.5560665}
+  - _time: 29.074223
+    _bindingType: 2
+    _location: {x: 2.5977926, y: -0.47822857, z: 2.4998689}
+  - _time: 29.382597
+    _bindingType: 1
+    _location: {x: -0.7727767, y: -4.673788, z: 4.206172}
+  - _time: 29.63616
+    _bindingType: 2
+    _location: {x: 3.463818, y: -0.95704365, z: 1.9998689}
+  - _time: 29.908861
+    _bindingType: 1
+    _location: {x: 10.54084, y: 2.2585077, z: -2.6464074}
+  - _time: 29.908861
+    _bindingType: 1
+    _location: {x: 4.330853, y: -6.333214, z: -3.1857257}
+  - _time: 30.171011
+    _bindingType: 1
+    _location: {x: 0.12460127, y: -6.8541365, z: 0.41497606}
+  - _time: 30.171011
+    _bindingType: 2
+    _location: {x: 2.597793, y: 0.7188091, z: -1.5001304}
+  - _time: 30.67603
+    _bindingType: 0
+    _location: {x: -16.265835, y: -0.15268402, z: 1.095054}
+  - _time: 30.67603
+    _bindingType: 1
+    _location: {x: 9.812397, y: -2.648283, z: -2.202945}
+  - _time: 30.67603
+    _bindingType: 2
+    _location: {x: 1.7317677, y: 0.23999406, z: -2.0001307}
+  - _time: 30.911522
+    _bindingType: 1
+    _location: {x: 6.1841493, y: 4.2782865, z: 1.5432324}
+  - _time: 31.167843
+    _bindingType: 0
+    _location: {x: -7.7135, y: -10.284055, z: -6.659497}
+  - _time: 31.167843
+    _bindingType: 2
+    _location: {x: 0.865742, y: -0.23882103, z: -2.500131}
+  - _time: 31.417673
+    _bindingType: 1
+    _location: {x: -0.36710572, y: -4.310655, z: 6.567868}
+  - _time: 31.670885
+    _bindingType: 2
+    _location: {x: -0.0002835333, y: -0.7176361, z: -3.0001311}
+  - _time: 31.924927
+    _bindingType: 1
+    _location: {x: 1.3695606, y: 0.93929785, z: 8.553565}
+  - _time: 32.18141
+    _bindingType: 0
+    _location: {x: -16.38045, y: 4.083068, z: 1.0456588}
+  - _time: 32.18141
+    _bindingType: 2
+    _location: {x: 0.8657423, y: 0.7188091, z: -1.5001309}
+  - _time: 32.44886
+    _bindingType: 0
+    _location: {x: -20.922628, y: 6.1420856, z: 6.2041864}
+  - _time: 32.44886
+    _bindingType: 0
+    _location: {x: -4.0200458, y: 11.621812, z: 12.784898}
+  - _time: 32.44886
+    _bindingType: 0
+    _location: {x: -9.590191, y: 2.7166498, z: 1.623359}
+  - _time: 32.716515
+    _bindingType: 2
+    _location: {x: -0.00028324127, y: 0.23999406, z: -2.0001311}
+  - _time: 32.972782
+    _bindingType: 0
+    _location: {x: -5.435448, y: 9.810699, z: 18.87161}
+  - _time: 32.972782
+    _bindingType: 1
+    _location: {x: 8.63193, y: 1.0401498, z: -1.4572164}
+  - _time: 33.229645
+    _bindingType: 1
+    _location: {x: 2.7684515, y: -6.152128, z: 3.7509592}
+  - _time: 33.229645
+    _bindingType: 2
+    _location: {x: -0.8663088, y: -0.23882101, z: -2.5001314}
+  - _time: 33.48657
+    _bindingType: 1
+    _location: {x: 4.8186946, y: -4.710024, z: -0.5009775}
+  - _time: 33.74092
+    _bindingType: 2
+    _location: {x: -0.86630857, y: 0.7188091, z: -1.5001314}
+  - _time: 34.004913
+    _bindingType: 0
+    _location: {x: -11.612133, y: -11.867211, z: 4.6244726}
+  - _time: 34.267426
+    _bindingType: 0
+    _location: {x: -2.4598932, y: 3.3535874, z: 10.004443}
+  - _time: 34.267426
+    _bindingType: 2
+    _location: {x: -1.7323341, y: 0.23999405, z: -2.0001316}
+  - _time: 34.794357
+    _bindingType: 0
+    _location: {x: -13.8996105, y: 9.332877, z: 8.677011}
+  - _time: 34.794357
+    _bindingType: 1
+    _location: {x: 6.2199802, y: 4.4057527, z: -4.21309}
+  - _time: 34.794357
+    _bindingType: 2
+    _location: {x: -2.5983593, y: 0.7188091, z: -1.5001318}
+  - _time: 35.053535
+    _bindingType: 0
+    _location: {x: -5.5325775, y: 7.597024, z: 8.270647}
+  - _time: 35.31545
+    _bindingType: 0
+    _location: {x: 0.6691198, y: -10.905358, z: -18.186724}
+  - _time: 35.31545
+    _bindingType: 0
+    _location: {x: -4.5590143, y: 14.771936, z: -5.4450674}
+  - _time: 35.31545
+    _bindingType: 2
+    _location: {x: -0.8663089, y: -0.7176361, z: -1.5001311}
+  - _time: 35.584328
+    _bindingType: 1
+    _location: {x: 7.311483, y: 2.2622602, z: 8.307988}
+  - _time: 35.84351
+    _bindingType: 0
+    _location: {x: -6.2535286, y: -9.544019, z: -14.054099}
+  - _time: 35.84351
+    _bindingType: 1
+    _location: {x: 7.187311, y: 0.0018078387, z: 3.6120126}
+  - _time: 35.84351
+    _bindingType: 2
+    _location: {x: -1.7323341, y: -0.23882101, z: -1.0001314}
+  - _time: 36.10672
+    _bindingType: 1
+    _location: {x: 5.9187303, y: 1.8985022, z: -7.0301743}
+  - _time: 36.370136
+    _bindingType: 0
+    _location: {x: 6.0577006, y: -5.737625, z: -6.879622}
+  - _time: 36.370136
+    _bindingType: 0
+    _location: {x: 4.442595, y: -5.976827, z: 10.717935}
+  - _time: 36.370136
+    _bindingType: 2
+    _location: {x: -2.5983593, y: 0.23999406, z: -0.5001315}
+  - _time: 36.908844
+    _bindingType: 1
+    _location: {x: 1.8360552, y: 6.2416644, z: -3.3406487}
+  - _time: 36.908844
+    _bindingType: 2
+    _location: {x: -1.7323344, y: -0.7176361, z: -0.00013107061}
+  - _time: 37.45985
+    _bindingType: 0
+    _location: {x: 3.0670195, y: -9.734678, z: -10.232575}
+  - _time: 37.45985
+    _bindingType: 2
+    _location: {x: -2.5983596, y: -0.23882103, z: 0.49986875}
+  - _time: 37.724762
+    _bindingType: 0
+    _location: {x: 5.407923, y: -2.544171, z: -10.647856}
+  - _time: 37.724762
+    _bindingType: 1
+    _location: {x: 0.58881724, y: -1.3353598, z: -8.791568}
+  - _time: 37.724762
+    _bindingType: 1
+    _location: {x: -1.482465, y: -6.2358465, z: -8.615099}
+  - _time: 37.724762
+    _bindingType: 1
+    _location: {x: 1.0418044, y: 1.868396, z: -7.2402096}
+  - _time: 37.9929
+    _bindingType: 0
+    _location: {x: -12.147744, y: -6.7973056, z: 3.459757}
+  - _time: 37.9929
+    _bindingType: 0
+    _location: {x: -16.039492, y: -2.934513, z: 10.543043}
+  - _time: 37.9929
+    _bindingType: 1
+    _location: {x: -2.7366147, y: -2.284499, z: -7.923972}
+  - _time: 37.9929
+    _bindingType: 1
+    _location: {x: -1.8923655, y: 5.276191, z: -2.781635}
+  - _time: 37.9929
+    _bindingType: 2
+    _location: {x: -2.5983598, y: -0.7176361, z: 1.499869}
+  - _time: 38.53641
+    _bindingType: 2
+    _location: {x: 1.7317675, y: 0.7188091, z: -0.00013071299}
+  - _time: 39.06514
+    _bindingType: 2
+    _location: {x: -0.00028330088, y: 0.7188091, z: -0.00013113022}
+  - _time: 39.611183
+    _bindingType: 0
+    _location: {x: -0.03712696, y: 2.9300842, z: -5.1635046}
+  - _time: 39.611183
+    _bindingType: 1
+    _location: {x: -4.607627, y: 1.9116598, z: -7.0882244}
+  - _time: 39.611183
+    _bindingType: 1
+    _location: {x: -3.93943, y: -2.0932612, z: -3.849507}
+  - _time: 39.611183
+    _bindingType: 2
+    _location: {x: -1.7323341, y: 0.7188091, z: -0.00013154745}
+  - _time: 40.155087
+    _bindingType: 1
+    _location: {x: -1.8677623, y: -5.981801, z: -4.3502464}
+  - _time: 40.155087
+    _bindingType: 2
+    _location: {x: -1.7323343, y: 0.23999406, z: 0.9998687}
+  - _time: 40.429974
+    _bindingType: 0
+    _location: {x: -9.519358, y: -6.503994, z: -5.647933}
+  - _time: 40.429974
+    _bindingType: 0
+    _location: {x: 0.068032205, y: -4.7779694, z: -4.710894}
+  - _time: 40.70571
+    _bindingType: 0
+    _location: {x: -6.60908, y: -13.390683, z: 2.2558107}
+  - _time: 40.70571
+    _bindingType: 2
+    _location: {x: -1.7323344, y: -0.23882101, z: 1.9998689}
+  - _time: 41.247704
+    _bindingType: 1
+    _location: {x: -9.128428, y: 4.9737296, z: -5.1846848}
+  - _time: 41.247704
+    _bindingType: 2
+    _location: {x: 0.8657419, y: 0.7188091, z: 1.4998691}
+  - _time: 41.780426
+    _bindingType: 1
+    _location: {x: -3.8637664, y: -5.7260547, z: 0.6151743}
+  - _time: 41.780426
+    _bindingType: 2
+    _location: {x: -0.8663089, y: 0.7188091, z: 1.4998686}
+  - _time: 42.055737
+    _bindingType: 1
+    _location: {x: -7.7714014, y: -0.6034653, z: 1.0412428}
+  - _time: 42.33166
+    _bindingType: 0
+    _location: {x: -11.3681345, y: -8.93018, z: 11.947443}
+  - _time: 42.33166
+    _bindingType: 0
+    _location: {x: -1.7722294, y: -1.8315024, z: -7.720494}
+  - _time: 42.33166
+    _bindingType: 2
+    _location: {x: -0.86630905, y: 0.23999405, z: 2.4998689}
+  - _time: 42.610275
+    _bindingType: 1
+    _location: {x: -7.1943502, y: -2.7288885, z: 4.281168}
+  - _time: 42.890385
+    _bindingType: 0
+    _location: {x: -2.019035, y: 6.657135, z: -11.400238}
+  - _time: 42.890385
+    _bindingType: 1
+    _location: {x: -10.512961, y: 2.774636, z: -1.4626207}
+  - _time: 42.890385
+    _bindingType: 2
+    _location: {x: -0.00028370024, y: 0.7188091, z: 2.9998689}
+  - _time: 43.17549
+    _bindingType: 0
+    _location: {x: 3.2744253, y: -5.1042824, z: -4.3649254}
+  - _time: 43.17549
+    _bindingType: 0
+    _location: {x: -9.999615, y: -8.052219, z: 4.1521034}
+  - _time: 43.452877
+    _bindingType: 0
+    _location: {x: -1.7548127, y: 2.5219698, z: 10.436511}
+  - _time: 43.452877
+    _bindingType: 2
+    _location: {x: 2.597793, y: 0.23999406, z: -0.5001307}
+  - _time: 43.75089
+    _bindingType: 0
+    _location: {x: -6.572303, y: -9.953275, z: 3.852546}
+  - _time: 43.75089
+    _bindingType: 0
+    _location: {x: 4.024409, y: 7.2428784, z: -3.8296034}
+  - _time: 44.044964
+    _bindingType: 1
+    _location: {x: -0.47485167, y: 6.5865684, z: -1.1833458}
+  - _time: 44.044964
+    _bindingType: 2
+    _location: {x: 1.7317674, y: -0.23882103, z: -1.0001309}
+  - _time: 44.36286
+    _bindingType: 1
+    _location: {x: -6.165065, y: 1.6774216, z: 2.0443928}
+  - _time: 44.67485
+    _bindingType: 0
+    _location: {x: 1.6610235, y: 1.8929553, z: -18.606638}
+  - _time: 44.67485
+    _bindingType: 1
+    _location: {x: 5.6775184, y: 7.2023797, z: 0.94338566}
+  - _time: 44.67485
+    _bindingType: 2
+    _location: {x: 0.86574185, y: -0.7176361, z: -1.5001311}
+  - _time: 44.95868
+    _bindingType: 1
+    _location: {x: -4.388173, y: -1.7059269, z: 6.298821}
+  - _time: 45.243366
+    _bindingType: 0
+    _location: {x: -5.013557, y: -3.7782183, z: -15.418581}
+  - _time: 45.243366
+    _bindingType: 0
+    _location: {x: -7.5153694, y: 10.194849, z: -3.584786}
+  - _time: 45.243366
+    _bindingType: 2
+    _location: {x: -0.00028352736, y: -0.7176361, z: -0.00013113022}
+  - _time: 45.530376
+    _bindingType: 1
+    _location: {x: -5.7097206, y: 6.918121, z: -0.4766714}
+  - _time: 45.81843
+    _bindingType: 2
+    _location: {x: -0.8663089, y: -0.7176361, z: 1.4998689}
+  - _time: 46.390533
+    _bindingType: 0
+    _location: {x: -10.408255, y: -9.896336, z: -13.898945}
+  - _time: 46.390533
+    _bindingType: 2
+    _location: {x: 1.7317674, y: 0.23999406, z: 0.9998691}
+  - _time: 46.97403
+    _bindingType: 0
+    _location: {x: -6.104511, y: 14.642671, z: -10.854332}
+  - _time: 46.97403
+    _bindingType: 1
+    _location: {x: -2.778759, y: 6.2866964, z: 3.277123}
+  - _time: 46.97403
+    _bindingType: 2
+    _location: {x: -0.0002835989, y: -0.23882101, z: 1.9998689}
+  - _time: 47.265945
+    _bindingType: 0
+    _location: {x: -13.2031, y: -1.9075575, z: -2.8325155}
+  - _time: 47.265945
+    _bindingType: 1
+    _location: {x: -3.491447, y: 1.3978693, z: 6.8414755}
+  - _time: 47.55724
+    _bindingType: 1
+    _location: {x: 2.3291278, y: 5.7775016, z: 5.400686}
+  - _time: 47.55724
+    _bindingType: 2
+    _location: {x: 0.8657417, y: 0.23999406, z: 2.4998689}
+  - _time: 48.136753
+    _bindingType: 1
+    _location: {x: 7.7325897, y: 2.279312, z: -2.91352}
+  - _time: 48.136753
+    _bindingType: 2
+    _location: {x: 2.5977926, y: -0.23882103, z: 0.49986905}
+  - _time: 48.414864
+    _bindingType: 0
+    _location: {x: -7.1798496, y: 0.79817516, z: -19.758305}
+  - _time: 48.414864
+    _bindingType: 0
+    _location: {x: -12.266378, y: -2.8862288, z: -14.570443}
+  - _time: 48.414864
+    _bindingType: 0
+    _location: {x: -10.345849, y: 2.9182355, z: -17.818272}
+  - _time: 48.706024
+    _bindingType: 2
+    _location: {x: 1.7317672, y: -0.7176361, z: -0.00013118982}
+  - _time: 48.99392
+    _bindingType: 1
+    _location: {x: 5.271067, y: -2.2910085, z: -5.075867}
+  - _time: 49.305534
+    _bindingType: 1
+    _location: {x: 2.1391313, y: -5.092677, z: -4.7665806}
+  - _time: 49.305534
+    _bindingType: 2
+    _location: {x: 0.8657418, y: -0.7176361, z: 1.4998689}
+  - _time: 49.596855
+    _bindingType: 1
+    _location: {x: 1.0753443, y: -1.0720499, z: 9.175908}
+  - _time: 49.89107
+    _bindingType: 2
+    _location: {x: 1.7317672, y: -0.23882103, z: 1.9998689}
+  - _time: 50.48427
+    _bindingType: 1
+    _location: {x: -0.23456404, y: -6.8894787, z: -0.1644176}
+  - _time: 50.48427
+    _bindingType: 2
+    _location: {x: 2.5977926, y: -0.7176361, z: 1.4998689}
+  - _time: 51.054886
+    _bindingType: 1
+    _location: {x: -4.049522, y: -5.5407867, z: 2.210979}
+  - _time: 51.054886
+    _bindingType: 2
+    _location: {x: 1.7317675, y: 0.4794016, z: -1.0001307}
+  - _time: 51.66379
+    _bindingType: 0
+    _location: {x: -18.448551, y: -3.933113, z: 5.152719}
+  - _time: 51.66379
+    _bindingType: 2
+    _location: {x: 0.865742, y: 0.0005865246, z: -1.5001309}
+  - _time: 52.28695
+    _bindingType: 0
+    _location: {x: -11.041473, y: -17.604574, z: -3.9555137}
+  - _time: 52.28695
+    _bindingType: 0
+    _location: {x: -15.282036, y: 1.8349122, z: 0.55517435}
+  - _time: 52.28695
+    _bindingType: 2
+    _location: {x: -0.00028354523, y: -0.47822857, z: -2.0001311}
+  - _time: 52.581535
+    _bindingType: 0
+    _location: {x: -20.415451, y: 6.8435726, z: -6.8226056}
+  - _time: 52.581535
+    _bindingType: 1
+    _location: {x: 8.022039, y: -0.23050499, z: 0.033847824}
+  - _time: 52.881763
+    _bindingType: 1
+    _location: {x: 4.6200576, y: 5.8943896, z: -0.2201483}
+  - _time: 52.881763
+    _bindingType: 2
+    _location: {x: -0.00028324127, y: 0.4794016, z: -1.0001311}
+  - _time: 53.180103
+    _bindingType: 0
+    _location: {x: -10.451851, y: -4.3351927, z: 8.281086}
+  - _time: 53.180103
+    _bindingType: 1
+    _location: {x: -1.1401527, y: -3.1796489, z: 7.508203}
+  - _time: 53.180103
+    _bindingType: 1
+    _location: {x: 4.7250543, y: -4.3460755, z: -1.3696436}
+  - _time: 53.180103
+    _bindingType: 1
+    _location: {x: 0.22260728, y: -4.6184387, z: 3.7570329}
+  - _time: 53.47775
+    _bindingType: 0
+    _location: {x: -21.180737, y: -2.6288013, z: -7.7725534}
+  - _time: 53.47775
+    _bindingType: 2
+    _location: {x: -0.8663088, y: 0.0005865246, z: -1.5001314}
+  - _time: 53.782883
+    _bindingType: 0
+    _location: {x: -12.175313, y: -11.140067, z: -3.2915306}
+  - _time: 53.782883
+    _bindingType: 0
+    _location: {x: -20.027542, y: -2.3006854, z: -2.8651693}
+  - _time: 53.782883
+    _bindingType: 1
+    _location: {x: 5.6671987, y: 2.8553703, z: 7.6296587}
+  - _time: 53.782883
+    _bindingType: 1
+    _location: {x: 3.4642437, y: 2.4607043, z: 5.20614}
+  - _time: 54.099136
+    _bindingType: 2
+    _location: {x: -1.7323341, y: 0.4794016, z: -1.0001316}
+  - _time: 54.406273
+    _bindingType: 0
+    _location: {x: -4.341043, y: 10.098268, z: 5.8691564}
+  - _time: 54.717567
+    _bindingType: 2
+    _location: {x: -0.8663089, y: -0.47822857, z: -0.50013113}
+  - _time: 55.024597
+    _bindingType: 0
+    _location: {x: -10.96043, y: 13.441288, z: 3.253263}
+  - _time: 55.024597
+    _bindingType: 1
+    _location: {x: 5.616143, y: 2.8365295, z: -2.9977782}
+  - _time: 55.327354
+    _bindingType: 2
+    _location: {x: -1.7323341, y: 0.0005865246, z: -0.00013130903}
+  - _time: 55.628605
+    _bindingType: 0
+    _location: {x: -9.358937, y: 13.436176, z: -6.654395}
+  - _time: 55.628605
+    _bindingType: 0
+    _location: {x: -17.32637, y: 8.492809, z: -0.67775446}
+  - _time: 55.628605
+    _bindingType: 1
+    _location: {x: 6.872921, y: -3.452554, z: 5.251928}
+  - _time: 55.628605
+    _bindingType: 1
+    _location: {x: 3.6642375, y: 0.05966895, z: -5.3551908}
+  - _time: 55.93155
+    _bindingType: 2
+    _location: {x: -1.7323344, y: -0.47822857, z: 0.9998689}
+  - _time: 56.56816
+    _bindingType: 0
+    _location: {x: -2.5260038, y: -11.898516, z: -8.995514}
+  - _time: 56.56816
+    _bindingType: 2
+    _location: {x: 0.86574197, y: 0.4794016, z: 0.49986905}
+  - _time: 56.869946
+    _bindingType: 0
+    _location: {x: -10.999447, y: 5.6602035, z: 11.895059}
+  - _time: 57.18157
+    _bindingType: 0
+    _location: {x: 6.1990304, y: 22.22472, z: -4.7309017}
+  - _time: 57.18157
+    _bindingType: 2
+    _location: {x: -0.86630887, y: 0.4794016, z: 0.49986863}
+  - _time: 57.491722
+    _bindingType: 1
+    _location: {x: 0.8320795, y: -4.808198, z: -6.8332796}
+  - _time: 57.794716
+    _bindingType: 0
+    _location: {x: -4.4700527, y: -9.002314, z: 12.860814}
+  - _time: 57.794716
+    _bindingType: 0
+    _location: {x: 1.9121643, y: -5.163559, z: -10.698589}
+  - _time: 57.794716
+    _bindingType: 2
+    _location: {x: -0.866309, y: 0.0005865246, z: 1.4998689}
+  - _time: 58.105274
+    _bindingType: 1
+    _location: {x: -0.31334972, y: 4.142463, z: -4.0129805}
+  - _time: 58.410473
+    _bindingType: 2
+    _location: {x: -0.00028365653, y: 0.4794016, z: 1.9998689}
+  - _time: 59.04796
+    _bindingType: 0
+    _location: {x: 7.9744844, y: 7.8830595, z: -9.15574}
+  - _time: 59.04796
+    _bindingType: 2
+    _location: {x: 1.7317674, y: 0.0005865246, z: -0.0001309514}
+  - _time: 59.653816
+    _bindingType: 2
+    _location: {x: 0.86574185, y: -0.47822857, z: -0.5001312}
+  - _time: 59.960617
+    _bindingType: 0
+    _location: {x: -7.3382626, y: -4.5073175, z: 7.1092067}
+  - _time: 59.960617
+    _bindingType: 1
+    _location: {x: -3.509882, y: 0.7992152, z: -7.4784126}
+  - _time: 60.26892
+    _bindingType: 1
+    _location: {x: -6.3103733, y: 4.908402, z: -5.2224736}
+  - _time: 60.26892
+    _bindingType: 2
+    _location: {x: -0.0002834201, y: 0.0005865246, z: -0.00013136864}
+  - _time: 60.56888
+    _bindingType: 0
+    _location: {x: -5.2165585, y: -16.940207, z: -1.8453718}
+  - _time: 60.875767
+    _bindingType: 1
+    _location: {x: -4.16339, y: -5.80702, z: -0.65329134}
+  - _time: 60.875767
+    _bindingType: 2
+    _location: {x: -0.0002835393, y: -0.47822857, z: 0.99986887}
+  - _time: 61.54096
+    _bindingType: 0
+    _location: {x: -14.56829, y: -7.8189073, z: -8.560573}
+  - _time: 61.54096
+    _bindingType: 1
+    _location: {x: -7.627082, y: 2.3496692, z: -0.4178483}
+  - _time: 61.54096
+    _bindingType: 2
+    _location: {x: 0.8657418, y: 0.0005865246, z: 1.4998689}
+  - _time: 61.850094
+    _bindingType: 0
+    _location: {x: 1.7541784, y: 13.826873, z: -6.3805647}
+  - _time: 61.850094
+    _bindingType: 0
+    _location: {x: -8.585272, y: -7.9323025, z: 2.4105144}
+  - _time: 61.850094
+    _bindingType: 1
+    _location: {x: 2.5115612, y: 5.9978194, z: 2.6703367}
+  - _time: 61.850094
+    _bindingType: 2
+    _location: {x: 1.7317672, y: -0.47822857, z: 0.9998688}
+  - _time: 62.16146
+    _bindingType: 0
+    _location: {x: -5.8958206, y: 8.815019, z: 1.9217464}
+  - _time: 62.474686
+    _bindingType: 0
+    _location: {x: 3.5584533, y: 3.360171, z: -8.88977}
+  - _time: 62.474686
+    _bindingType: 1
+    _location: {x: -8.918679, y: -1.9121641, z: 2.316632}
+  - _time: 62.474686
+    _bindingType: 1
+    _location: {x: -3.1066833, y: -0.7558625, z: 5.46663}
+  - _time: 62.474686
+    _bindingType: 2
+    _location: {x: 0.86574197, y: 0.23999406, z: -0.50013095}
+  - _time: 63.087593
+    _bindingType: 1
+    _location: {x: -2.9485664, y: 5.8968973, z: -0.12955564}
+  - _time: 63.087593
+    _bindingType: 1
+    _location: {x: 5.771987, y: 2.1288462, z: -1.5304381}
+  - _time: 63.087593
+    _bindingType: 2
+    _location: {x: -0.00028355716, y: -0.23882101, z: -1.0001311}
+  - _time: 63.40001
+    _bindingType: 0
+    _location: {x: 5.037156, y: 7.459184, z: 12.884044}
+  - _time: 63.40001
+    _bindingType: 1
+    _location: {x: 0.44872656, y: 3.4310548, z: 7.7967744}
+  - _time: 63.40001
+    _bindingType: 1
+    _location: {x: 2.6350133, y: -3.8040442, z: -2.808646}
+  - _time: 63.73334
+    _bindingType: 2
+    _location: {x: -0.8663088, y: 0.23999406, z: -0.50013137}
+  - _time: 64.04861
+    _bindingType: 2
+    _location: {x: -0.8663089, y: -0.23882101, z: 0.49986887}
+  - _time: 64.360054
+    _bindingType: 0
+    _location: {x: -6.8131876, y: -5.9755907, z: -7.9207406}
+  - _time: 64.67223
+    _bindingType: 0
+    _location: {x: 11.070312, y: -11.98531, z: 0.05365996}
+  - _time: 64.67223
+    _bindingType: 0
+    _location: {x: 1.0903504, y: -9.686478, z: -4.9267035}
+  - _time: 64.67223
+    _bindingType: 1
+    _location: {x: -0.02862347, y: 2.8355176, z: -0.24246389}
+  - _time: 64.67223
+    _bindingType: 2
+    _location: {x: -0.0002836128, y: 0.23999406, z: 0.9998688}
+  - _time: 65.29648
+    _bindingType: 2
+    _location: {x: 0.86574185, y: -0.23882101, z: 0.4998688}
+  - _time: 65.90334
+    _bindingType: 1
+    _location: {x: 5.273602, y: -2.9081101, z: 2.586675}
+  - _time: 65.90334
+    _bindingType: 2
+    _location: {x: 0, y: 0, z: 0}
+  - _time: 66.5426
+    _bindingType: 1
+    _location: {x: 3.9444191, y: 0.5702324, z: -4.1916776}
+  - _time: 66.86198
+    _bindingType: 0
+    _location: {x: -8.713892, y: 8.356373, z: -6.466359}
+  - _time: 67.47803
+    _bindingType: 0
+    _location: {x: -1.7884582, y: -2.0374205, z: -18.300825}
+  - _time: 67.47803
+    _bindingType: 1
+    _location: {x: 0.80141795, y: -5.008331, z: 5.773054}
+  - _time: 68.09432
+    _bindingType: 0
+    _location: {x: 2.5365872, y: -14.318039, z: 11.312001}
+  - _time: 68.09432
+    _bindingType: 1
+    _location: {x: -2.3293276, y: -2.0182576, z: -5.511368}
+  - _time: 68.40661
+    _bindingType: 1
+    _location: {x: 3.779735, y: -1.5897148, z: 8.134603}
+  - _time: 68.40661
+    _bindingType: 1
+    _location: {x: -5.1066885, y: -1.5780302, z: 1.0726888}
+  - _time: 69.051674
+    _bindingType: 1
+    _location: {x: -1.7241778, y: 0.30082065, z: 5.381204}
+  - _time: 69.66819
+    _bindingType: 0
+    _location: {x: -12.260294, y: 4.284526, z: -2.040668}
+  - _time: 69.66819
+    _bindingType: 1
+    _location: {x: -4.819156, y: 1.8224639, z: -6.429021}
+  - _time: 69.97326
+    _bindingType: 0
+    _location: {x: -14.541917, y: -1.3659161, z: -10.920715}
+  - _time: 70.89492
+    _bindingType: 0
+    _location: {x: -6.799236, y: -4.5375776, z: 7.4972415}
+  - _time: 70.89492
+    _bindingType: 1
+    _location: {x: 2.800601, y: 0.36074907, z: -0.49242115}
+  - _time: 71.49572
+    _bindingType: 0
+    _location: {x: -5.1925154, y: 7.807616, z: 10.336339}
+  - _time: 71.49572
+    _bindingType: 1
+    _location: {x: -1.6323252, y: 1.8260645, z: -1.1163309}
+  - _time: 71.81032
+    _bindingType: 0
+    _location: {x: -19.738218, y: 8.014388, z: -9.695172}
+  - _time: 71.81032
+    _bindingType: 0
+    _location: {x: -16.74037, y: 1.4101446, z: -3.2903807}
+  - _time: 72.12606
+    _bindingType: 0
+    _location: {x: -5.6102962, y: 4.332396, z: -3.8922153}
+  - _time: 73.39136
+    _bindingType: 0
+    _location: {x: -15.1707325, y: -3.6006677, z: -5.518088}
+  - _time: 74.03049
+    _bindingType: 0
+    _location: {x: -5.4829717, y: 16.089434, z: 1.4421613}
+  - _time: 74.363815
+    _bindingType: 0
+    _location: {x: -5.392102, y: 18.36922, z: 11.999901}
+  - _time: 74.6806
+    _bindingType: 0
+    _location: {x: -1.1515555, y: 11.994571, z: -2.859589}
+  - _time: 75.61832
+    _bindingType: 0
+    _location: {x: 0.9135462, y: -13.451358, z: -7.3821864}
+  - _time: 76.23119
+    _bindingType: 0
+    _location: {x: -6.596352, y: -4.2121096, z: -14.582739}
+  - _time: 76.23119
+    _bindingType: 0
+    _location: {x: 0.4465355, y: -9.269911, z: 6.7996635}
+  - _time: 76.542694
+    _bindingType: 0
+    _location: {x: -7.914452, y: -5.7327623, z: 1.412052}
+  - _time: 76.542694
+    _bindingType: 0
+    _location: {x: -11.814246, y: -4.192479, z: -1.0941657}
+  - _time: 78.06187
+    _bindingType: 0
+    _location: {x: -8.598697, y: -15.26117, z: 6.1180596}
+  - _time: 78.66119
+    _bindingType: 0
+    _location: {x: -2.0045044, y: -4.946737, z: 10.430835}
+  - _time: 79.27682
+    _bindingType: 0
+    _location: {x: -3.4291472, y: 0.4080183, z: -16.382439}
+  - _time: 80.24083
+    _bindingType: 0
+    _location: {x: -15.527244, y: 3.048856, z: -14.614561}
+  - _time: 81.542595
+    _bindingType: 0
+    _location: {x: -7.9207897, y: 10.234585, z: -3.4083855}
+  - _time: 83.38224
+    _bindingType: 0
+    _location: {x: -5.843243, y: 0.030569538, z: -6.5278215}
+  _animationDuration: 83.985016

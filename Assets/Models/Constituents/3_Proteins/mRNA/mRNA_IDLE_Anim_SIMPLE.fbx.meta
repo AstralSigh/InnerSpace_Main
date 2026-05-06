@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 929c74437b2bab64e96890d14271a23c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bottom_bend
+    100002: insulinmRNA_Ribosome_anim_mRNA_Anim_mRNA_geo
+    100004: mRNA
+    100006: //RootNode
+    100008: mRNA_Root_idle_Motion
+    100010: sine01
+    100012: sine02
+    100014: sine03
+    100016: sine04
+    100018: squashIn
+    100020: squashOut
+    100022: topBend
+    100024: twist01
+    100026: twist02
+    400000: bottom_bend
+    400002: insulinmRNA_Ribosome_anim_mRNA_Anim_mRNA_geo
+    400004: mRNA
+    400006: //RootNode
+    400008: mRNA_Root_idle_Motion
+    400010: sine01
+    400012: sine02
+    400014: sine03
+    400016: sine04
+    400018: squashIn
+    400020: squashOut
+    400022: topBend
+    400024: twist01
+    400026: twist02
+    2100000: No Name
+    2300000: bottom_bend
+    2300002: sine01
+    2300004: sine02
+    2300006: sine03
+    2300008: sine04
+    2300010: squashIn
+    2300012: squashOut
+    2300014: topBend
+    2300016: twist01
+    2300018: twist02
+    3300000: bottom_bend
+    3300002: sine01
+    3300004: sine02
+    3300006: sine03
+    3300008: sine04
+    3300010: squashIn
+    3300012: squashOut
+    3300014: topBend
+    3300016: twist01
+    3300018: twist02
+    4300000: insulinmRNA_Ribosome_anim_mRNA_Anim_mRNA_geo
+    4300002: topBend
+    4300004: bottom_bend
+    4300006: twist02
+    4300008: twist01
+    4300010: squashOut
+    4300012: squashIn
+    4300014: sine03
+    4300016: sine04
+    4300018: sine02
+    4300020: sine01
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    13700000: insulinmRNA_Ribosome_anim_mRNA_Anim_mRNA_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

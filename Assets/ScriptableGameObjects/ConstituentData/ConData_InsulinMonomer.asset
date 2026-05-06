@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98a8cc874a0ba546a0f446bce49bcba, type: 3}
+  m_Name: ConData_InsulinMonomer
+  m_EditorClassIdentifier: 
+  eConType: 22
+  conPortrait: {fileID: 0}
+  conMetroCardBG: {fileID: 0}
+  conName: 
+  pathwayNarrative: 
+  npcDialogs: []
+  conHeader: Insulin
+  conSubHeader: (Monomer)
+  conInfoPoints: []
+  conInfoSources: "Hou, June Chunqiu et al. \u201CInsulin granule biogenesis, trafficking
+    and exocytosis.\u201D Vitamins and hormones vol. 80 (2009): 473-506. \r\nBocian,
+    Wojciech et al. \u201CNMR structure of biosynthetic engineered human insulin
+    monomer B31(Lys)-B32(Arg) in water/acetonitrile solution. Comparison with the
+    solution structure of native human insulin monomer.\u201D Biopolymers vol. 89,10
+    (2008): 820-30. \r\nWhite, Kate L. et al,Visualizing subcellular rearrangements
+    in intact \u03B2 cells using soft x-ray tomography, Science Advances, 6, 50,
+    (2020). \r\nHou, June Chunqiu et al. \u201CInsulin granule biogenesis, trafficking
+    and exocytosis.\u201D Vitamins and hormones vol. 80 (2009): 473-506. "
+  conPathway: 
+  conPDBNums: 4EWW
+  conFunction: Activating receptors on other cells, enabling their glucose uptake.
+  conDescription: 
+  conOrigin: Golgi Apparatus
+  conDimensions: 'Volume: 5987 cubic Angstroms
+
+    Radius: 11.26285847 Angstroms
+
+    Height:
+    45.7658 Angstroms'
+  conOpaqueMaterial: {fileID: 0}
+  conClearMaterial: {fileID: 0}

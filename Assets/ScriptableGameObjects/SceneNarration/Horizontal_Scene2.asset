@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94e8900bdbef942ad19f626cdac685, type: 3}
+  m_Name: Horizontal_Scene2
+  m_EditorClassIdentifier: 
+  sceneHeader: Scene 2
+  sceneSubHeader: Spreading the Signal
+  NarrationBeats:
+  - narrationText: "Meanwhile, back inside the pancreatic beta cell, cAMP molecules
+      continue to spread throughout the cell. \r\n"
+    narrationTrack:
+      Guid:
+        Data1: -25930862
+        Data2: 1133679540
+        Data3: 1024965055
+        Data4: 238761679
+      Path: event:/VO/scene_02_01
+  - narrationText: "Eventually they will reach the signaling relay proteins known
+      as PKA, \r"
+    narrationTrack:
+      Guid:
+        Data1: 150191436
+        Data2: 1299451185
+        Data3: -1527781749
+        Data4: -69015297
+      Path: event:/VO/scene_02_02
+  - narrationText: "Here, several cAMP molecules slot into the regulatory \u2018arms\u2019
+      of a PKA, making the protein flex and release its catalytic subunits.\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 2061335394
+        Data2: 1102509022
+        Data3: 1400423828
+        Data4: 1671006845
+      Path: event:/VO/scene_02_03
+  - narrationText: "These PKA catalytic subunits travel further in the cytoplasm
+      towards the cell\u2019s nucleus.\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 369907988
+        Data2: 1143086917
+        Data3: 1451004333
+        Data4: 894383956
+      Path: event:/VO/scene_02_04

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bcbe66e6165a37409b24f90989a5847, type: 3}
+  m_Name: Node_ImmCrystal_NexusDesc
+  m_EditorClassIdentifier: 
+  nodeName: 
+  nodeNumber: 0
+  nodeNexus: 8
+  nodeConstituents: 
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - This is a snapshot of the early stages of the insulin vesicle maturation process
+    and the crystal formation unique to beta cells.
+  - This shows the enrichment of active insulin in the vesicle that can eventually
+    be secreted into the bloodstream.
+  - Insulin is densely packed to enhance efficiency for storing and secreting by
+    the pancreatic beta cell.
+  nodeSpriteLayer: []

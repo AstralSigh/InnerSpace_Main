@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94e8900bdbef942ad19f626cdac685, type: 3}
+  m_Name: Horizontal_Scene6
+  m_EditorClassIdentifier: 
+  sceneHeader: Scene 6
+  sceneSubHeader: Releasing Insulin
+  NarrationBeats:
+  - narrationText: "An insulin vesicle is a membrane enclosed bubble within the cell
+      that holds large amounts of insulin in a crystalline form. \r"
+    narrationTrack:
+      Guid:
+        Data1: 1035168072
+        Data2: 1309097444
+        Data3: 844663684
+        Data4: 873121595
+      Path: event:/VO/scene_06_01
+  - narrationText: "They change over time, but eventually dock themselves to the
+      underside of the cell\u2019s membrane when they are fully mature. \r\r"
+    narrationTrack:
+      Guid:
+        Data1: -1189403106
+        Data2: 1149357651
+        Data3: 1391732629
+        Data4: -1072388329
+      Path: event:/VO/scene_06_02
+  - narrationText: "As the cAMP proliferates throughout the beta cell, it triggers
+      processes that activate SNARE proteins holding the docked insulin vesicles
+      in place.\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 790257183
+        Data2: 1235976881
+        Data3: -1548128096
+        Data4: -204916914
+      Path: event:/VO/scene_06_03
+  - narrationText: "The SNARE complexes embedded on both the cell and insulin vesicle
+      membranes twist and intertwine, fusing the two membranes together. \r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -674827841
+        Data2: 1273219316
+        Data3: -1219989574
+        Data4: -90050887
+      Path: event:/VO/scene_06_04
+  - narrationText: "Then the SNARE protein strands pull apart, forming a tunnel between
+      the interior pocket of the vesicle and the turbulent world outside of the cell.\r
+      \r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1132601054
+        Data2: 1160688956
+        Data3: 288585405
+        Data4: 1721940029
+      Path: event:/VO/scene_06_05
+  - narrationText: "The fluid environment inside the insulin vesicle changes instantly,
+      and the insulin crystal begins to dissolve.\r\r \r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1404320212
+        Data2: 1097336681
+        Data3: -15550041
+        Data4: -768720208
+      Path: event:/VO/scene_06_06
+  - narrationText: "Layers of insulin hexamers begin shedding off the crystal and
+      get siphoned into the whirlpool of interstitial fluid beyond the beta cell.
+      \r\r\r \r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -46046166
+        Data2: 1300018713
+        Data3: 628206720
+        Data4: 101599695
+      Path: event:/VO/scene_06_07
+  - narrationText: "As they leave, the insulin hexamers dissolve further, breaking
+      up into dimer pairs and then individual active insulin monomers.\r\r\r\r \r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -810662857
+        Data2: 1306575262
+        Data3: 1883880358
+        Data4: -647533544
+      Path: event:/VO/scene_06_08
+  - narrationText: "Streams of insulin monomers flow out from fused insulin vesicles
+      along the cell\u2019s surface and are carried away to their destiny by the
+      bloodstream.\r\r\r\r\r \r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 163318299
+        Data2: 1161537798
+        Data3: -809359486
+        Data4: -1538911123
+      Path: event:/VO/scene_06_09
+  - narrationText: "The signal is sent and insulin is on its way.\r\r\r\r\r\r \r\r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -84793040
+        Data2: 1270497492
+        Data3: -1393943110
+        Data4: -75048412
+      Path: event:/VO/scene_06_10

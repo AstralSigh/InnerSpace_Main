@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98a8cc874a0ba546a0f446bce49bcba, type: 3}
+  m_Name: ConData_GTP
+  m_EditorClassIdentifier: 
+  eConType: 10
+  conPortrait: {fileID: 0}
+  conMetroCardBG: {fileID: 0}
+  conName: 
+  pathwayNarrative: 
+  npcDialogs: []
+  conHeader: GTP
+  conSubHeader: 'Guanosine TriPhosphate '
+  conInfoPoints: []
+  conInfoSources: 'Sprang SR. G protein mechanisms: insights from structural analysis.
+    Annu Rev Biochem. 1997;66:639-78'
+  conPathway: ' Insulin Secretion'
+  conPDBNums: N/A
+  conFunction: 'Stabilization.
+
+    When a GTP is bound to a G protein, the G protein
+    is held in an active state.'
+  conDescription: GTP is a nucleotide, similar to the building blocks of DNA. It's
+    made up of a nucleobase, a sugar molecule, and three phosphate groups.
+  conOrigin: "Mitochondria TCA Cycle GDP to GTP by pyruvate kinase and phosphoenolpyruvate
+    GTP hydrolysis by Gs\u03B1 "
+  conDimensions: 'Volume: 350 cubic Angstroms'
+  conOpaqueMaterial: {fileID: 2100000, guid: 07ddfcc9f13bf6e42bf7569c3ca62341, type: 2}
+  conClearMaterial: {fileID: 2100000, guid: 07ddfcc9f13bf6e42bf7569c3ca62341, type: 2}

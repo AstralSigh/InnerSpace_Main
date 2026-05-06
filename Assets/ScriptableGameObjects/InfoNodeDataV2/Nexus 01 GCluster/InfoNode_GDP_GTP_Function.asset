@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: InfoNode_GDP_GTP_Function
+  m_EditorClassIdentifier: 
+  nodeName: GDP and GTP Function
+  nodePreview: {fileID: 0}
+  nodeNumber: 0
+  nodeNexus: 1
+  nodeType: 0
+  nodeConstituents: 090000000a000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: 'What are GDP and GTP?
+
+'
+    basic: "GDP and GTP are small molecules commonly found in cells. \nThey are important
+      parts of many cellular processes."
+    intermediate: 
+    advanced: "GDP and GTP consist of a guanine, a ribose and phosphates. GDP has
+      two phosphate groups and GTP has three. \nThey are interconvertible via hydrolysis
+      and phosphorylation reactions.eleases energy and becomes GDP.\r"
+  - title: 'What function do they serve?
+
+'
+    basic: "GDP and GTP  provide energy to various cellular processes. \nThe exchange
+      of GDP to GTP completes the activation of the G protein."
+    intermediate: 
+    advanced: "When GTP is hydrolyzed it releases energy and becomes GDP. \nThis
+      energy is harnessed by the cell for various processes. \nIn addition to providing
+      energy, GTP and GDP serve unique functions in the cell, including the G protein
+      activation cycle and protein syntheses."
+  - title: GDP
+    basic: 
+    intermediate: 
+    advanced: 
+  - title: GTP
+    basic: 
+    intermediate: 
+    advanced: 
+  nodeSpriteLayer: []

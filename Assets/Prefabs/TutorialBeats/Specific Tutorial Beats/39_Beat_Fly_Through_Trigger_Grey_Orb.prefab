@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8052752881156316719
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1463761565, guid: 5ab8046e51e84364ab404aa7dc99c949, type: 3}
+      propertyPath: tutorialObjects.Array.data[0]
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1587725772, guid: 5ab8046e51e84364ab404aa7dc99c949, type: 3}
+      propertyPath: tutorialObjects.Array.data[0]
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 525593973384294149, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_Name
+      value: 39_Beat_Fly_Through_Trigger_Grey_Orb
+      objectReference: {fileID: 0}
+    - target: {fileID: 1600713916618137953, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: assignedText
+      value: Fly through these white circles and trigger the grey orb at the end
+        of the route.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5100614800052102472, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: endActions.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5100614800052102472, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: beginActions.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5100614800052102472, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: endActions.Array.data[1]
+      value: 
+      objectReference: {fileID: 8052752882584020146}
+    - target: {fileID: 5100614800052102472, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: endActions.Array.data[2]
+      value: 
+      objectReference: {fileID: 8052752882584020146}
+    - target: {fileID: 5100614800052102472, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: beginActions.Array.data[1]
+      value: 
+      objectReference: {fileID: 8052752882743745507}
+    - target: {fileID: 5100614800052102472, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: beginActions.Array.data[2]
+      value: 
+      objectReference: {fileID: 8052752882743745507}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598009752630735243, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6877152246258921909, guid: 5ab8046e51e84364ab404aa7dc99c949,
+        type: 3}
+      propertyPath: triggerCondition.Array.data[0]
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5ab8046e51e84364ab404aa7dc99c949, type: 3}
+--- !u!114 &8052752882584020146 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1463761565, guid: 5ab8046e51e84364ab404aa7dc99c949,
+    type: 3}
+  m_PrefabInstance: {fileID: 8052752881156316719}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 692ff954b6a7d8b4d8a39a5918e8a5b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8052752882743745507 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1587725772, guid: 5ab8046e51e84364ab404aa7dc99c949,
+    type: 3}
+  m_PrefabInstance: {fileID: 8052752881156316719}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c30da51adbf6dbb41a381464b1de62ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

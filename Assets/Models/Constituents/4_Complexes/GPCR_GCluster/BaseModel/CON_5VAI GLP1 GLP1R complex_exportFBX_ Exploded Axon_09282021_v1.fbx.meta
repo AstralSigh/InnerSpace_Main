@@ -1,0 +1,2478 @@
+fileFormatVersion: 2
+guid: d8a38e6c01acea941b296afe812c3776
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1- Ala 24, Glu 27
+    100002: 1- Arg 121
+    100004: 1- Arg 176 Glu 408
+    100006: 1- Arg 299 Trp 306
+    100008: 1- Arg 419
+    100010: 1- His 7
+    100012: 1- Leu 254
+    100014: 1- Leu 32
+    100016: 1- Phe 12
+    100018: 1- Tyr 145 Phe 385
+    100020: 1- Val 33
+    100022: 2- Glu 412 Lys 415 Arg 419 His 171
+    100024: 2- Glu 9
+    100026: 2- His 180
+    100028: 2- Leu 123
+    100030: 2- Leu 20
+    100032: 2- Leu 201 Met 204
+    100034: 2- Phe 28, Trp 31
+    100036: 2- Trp 31
+    100038: 2- Trp 39
+    100040: 2- Tyr 145 Arg 190 Leu 388 Ser 392
+    100042: 2- Val 331
+    100044: 3- Asn 406
+    100046: 3- Asp 67 Arg 121
+    100048: 3- Glu 127
+    100050: 3- Glu 27
+    100052: 3- Leu 32
+    100054: 3- Leu 359 Leu 356 Leu 251
+    100056: 3- Thr 11
+    100058: 3- Trp 31
+    100060: 4- Glu 128
+    100062: 4- Lys 197
+    100064: 4- Lys 26, Gln 23
+    100066: 4- Ser 352
+    100068: 4- Thr 13
+    100070: 5- Ser 14, Ser 17, Ser 18
+    100072: 5VAI Extracellular Domain
+    100074: 5VAI Helix 1 Tetrahedra
+    100076: 5VAI Helix 2 Tetrahedra
+    100078: 5VAI Helix 3 Tetrahedra
+    100080: 5VAI Helix 4 Tetrahedra
+    100082: 5VAI Helix 5 Tetrahedra
+    100084: 5VAI Helix 6 Tetrahedra
+    100086: 5VAI Helix 7 Tetrahedra
+    100088: 5VAI NECK Loop Tetrahedron Backbone
+    100090: Backbone
+    100092: //RootNode
+    100094: GLP1 Interacting AAs w GLP1R
+    100096: GLP1-Point Helix
+    100098: GLP1R Interacting AAs w GLP1
+    100100: "GLP1R Interacting AAs w G\u03B1"
+    100102: "GLP1R Interacting AAs w G\u03B2"
+    100104: Hydrophilic Interactions
+    100106: Hydrophilic Interactions 1
+    100108: Hydrophilic Interactions 1_2
+    100110: Hydrophilic Interactions 2
+    100112: Hydrophilic Interactions 2_2
+    100114: Hydrophilic Interactions_2
+    100116: Hydrophobic Interactions
+    100118: Hydrophobic Interactions 1
+    100120: Hydrophobic Interactions 1_2
+    100122: Hydrophobic Interactions 2
+    100124: Hydrophobic Interactions 2_2
+    100126: Hydrophobic Interactions_2
+    100128: Parallel View 1
+    100130: Perspective
+    100132: Perspective 1
+    100134: Perspective 1.1
+    100136: Perspective 10
+    100138: Perspective 11
+    100140: Perspective 12
+    100142: Perspective 12_2
+    100144: Perspective 12_3
+    100146: Perspective 2
+    100148: Perspective 2.1
+    100150: Perspective 3
+    100152: Perspective 4
+    100154: Perspective 4.1
+    100156: Perspective 4.2
+    100158: Perspective 4.3
+    100160: Perspective 5
+    100162: Perspective 6
+    100164: Perspective 7
+    100166: Perspective 8
+    100168: Perspective 9
+    100170: Tetrahedra
+    100172: Tetrahedra Volumes
+    100174: Tetrahedra Volumes_10
+    100176: Tetrahedra Volumes_11
+    100178: Tetrahedra Volumes_12
+    100180: Tetrahedra Volumes_13
+    100182: Tetrahedra Volumes_14
+    100184: Tetrahedra Volumes_15
+    100186: Tetrahedra Volumes_16
+    100188: Tetrahedra Volumes_17
+    100190: Tetrahedra Volumes_18
+    100192: Tetrahedra Volumes_19
+    100194: Tetrahedra Volumes_2
+    100196: Tetrahedra Volumes_20
+    100198: Tetrahedra Volumes_21
+    100200: Tetrahedra Volumes_22
+    100202: Tetrahedra Volumes_23
+    100204: Tetrahedra Volumes_24
+    100206: Tetrahedra Volumes_25
+    100208: Tetrahedra Volumes_26
+    100210: Tetrahedra Volumes_27
+    100212: Tetrahedra Volumes_3
+    100214: Tetrahedra Volumes_4
+    100216: Tetrahedra Volumes_5
+    100218: Tetrahedra Volumes_6
+    100220: Tetrahedra Volumes_7
+    100222: Tetrahedra Volumes_8
+    100224: Tetrahedra Volumes_9
+    100226: Tetrahedra_10
+    100228: Tetrahedra_11
+    100230: Tetrahedra_12
+    100232: Tetrahedra_13
+    100234: Tetrahedra_14
+    100236: Tetrahedra_15
+    100238: Tetrahedra_16
+    100240: Tetrahedra_17
+    100242: Tetrahedra_18
+    100244: Tetrahedra_19
+    100246: Tetrahedra_2
+    100248: Tetrahedra_20
+    100250: Tetrahedra_21
+    100252: Tetrahedra_22
+    100254: Tetrahedra_23
+    100256: Tetrahedra_24
+    100258: Tetrahedra_25
+    100260: Tetrahedra_26
+    100262: Tetrahedra_27
+    100264: Tetrahedra_3
+    100266: Tetrahedra_4
+    100268: Tetrahedra_5
+    100270: Tetrahedra_6
+    100272: Tetrahedra_7
+    100274: Tetrahedra_8
+    100276: Tetrahedra_9
+    100278: Tetrahedron
+    100280: Tetrahedron Volumes
+    100282: Tetrahedron Volumes_2
+    100284: Tetrahedron_10
+    100286: Tetrahedron_100
+    100288: Tetrahedron_101
+    100290: Tetrahedron_102
+    100292: Tetrahedron_103
+    100294: Tetrahedron_104
+    100296: Tetrahedron_105
+    100298: Tetrahedron_106
+    100300: Tetrahedron_107
+    100302: Tetrahedron_108
+    100304: Tetrahedron_109
+    100306: Tetrahedron_11
+    100308: Tetrahedron_110
+    100310: Tetrahedron_111
+    100312: Tetrahedron_112
+    100314: Tetrahedron_113
+    100316: Tetrahedron_114
+    100318: Tetrahedron_115
+    100320: Tetrahedron_116
+    100322: Tetrahedron_117
+    100324: Tetrahedron_118
+    100326: Tetrahedron_119
+    100328: Tetrahedron_12
+    100330: Tetrahedron_120
+    100332: Tetrahedron_121
+    100334: Tetrahedron_122
+    100336: Tetrahedron_123
+    100338: Tetrahedron_124
+    100340: Tetrahedron_125
+    100342: Tetrahedron_126
+    100344: Tetrahedron_127
+    100346: Tetrahedron_128
+    100348: Tetrahedron_129
+    100350: Tetrahedron_13
+    100352: Tetrahedron_130
+    100354: Tetrahedron_131
+    100356: Tetrahedron_132
+    100358: Tetrahedron_133
+    100360: Tetrahedron_134
+    100362: Tetrahedron_135
+    100364: Tetrahedron_136
+    100366: Tetrahedron_137
+    100368: Tetrahedron_138
+    100370: Tetrahedron_139
+    100372: Tetrahedron_14
+    100374: Tetrahedron_140
+    100376: Tetrahedron_141
+    100378: Tetrahedron_142
+    100380: Tetrahedron_143
+    100382: Tetrahedron_144
+    100384: Tetrahedron_145
+    100386: Tetrahedron_146
+    100388: Tetrahedron_147
+    100390: Tetrahedron_148
+    100392: Tetrahedron_149
+    100394: Tetrahedron_15
+    100396: Tetrahedron_150
+    100398: Tetrahedron_151
+    100400: Tetrahedron_152
+    100402: Tetrahedron_153
+    100404: Tetrahedron_154
+    100406: Tetrahedron_155
+    100408: Tetrahedron_156
+    100410: Tetrahedron_157
+    100412: Tetrahedron_158
+    100414: Tetrahedron_159
+    100416: Tetrahedron_16
+    100418: Tetrahedron_160
+    100420: Tetrahedron_161
+    100422: Tetrahedron_162
+    100424: Tetrahedron_163
+    100426: Tetrahedron_164
+    100428: Tetrahedron_165
+    100430: Tetrahedron_166
+    100432: Tetrahedron_167
+    100434: Tetrahedron_168
+    100436: Tetrahedron_169
+    100438: Tetrahedron_17
+    100440: Tetrahedron_170
+    100442: Tetrahedron_171
+    100444: Tetrahedron_172
+    100446: Tetrahedron_173
+    100448: Tetrahedron_174
+    100450: Tetrahedron_175
+    100452: Tetrahedron_176
+    100454: Tetrahedron_177
+    100456: Tetrahedron_178
+    100458: Tetrahedron_179
+    100460: Tetrahedron_18
+    100462: Tetrahedron_180
+    100464: Tetrahedron_181
+    100466: Tetrahedron_182
+    100468: Tetrahedron_183
+    100470: Tetrahedron_184
+    100472: Tetrahedron_185
+    100474: Tetrahedron_186
+    100476: Tetrahedron_187
+    100478: Tetrahedron_188
+    100480: Tetrahedron_189
+    100482: Tetrahedron_19
+    100484: Tetrahedron_190
+    100486: Tetrahedron_191
+    100488: Tetrahedron_192
+    100490: Tetrahedron_193
+    100492: Tetrahedron_194
+    100494: Tetrahedron_195
+    100496: Tetrahedron_196
+    100498: Tetrahedron_197
+    100500: Tetrahedron_198
+    100502: Tetrahedron_199
+    100504: Tetrahedron_2
+    100506: Tetrahedron_20
+    100508: Tetrahedron_200
+    100510: Tetrahedron_201
+    100512: Tetrahedron_202
+    100514: Tetrahedron_203
+    100516: Tetrahedron_204
+    100518: Tetrahedron_205
+    100520: Tetrahedron_206
+    100522: Tetrahedron_207
+    100524: Tetrahedron_208
+    100526: Tetrahedron_209
+    100528: Tetrahedron_21
+    100530: Tetrahedron_210
+    100532: Tetrahedron_211
+    100534: Tetrahedron_212
+    100536: Tetrahedron_213
+    100538: Tetrahedron_214
+    100540: Tetrahedron_215
+    100542: Tetrahedron_216
+    100544: Tetrahedron_217
+    100546: Tetrahedron_218
+    100548: Tetrahedron_219
+    100550: Tetrahedron_22
+    100552: Tetrahedron_220
+    100554: Tetrahedron_221
+    100556: Tetrahedron_222
+    100558: Tetrahedron_223
+    100560: Tetrahedron_224
+    100562: Tetrahedron_225
+    100564: Tetrahedron_226
+    100566: Tetrahedron_227
+    100568: Tetrahedron_228
+    100570: Tetrahedron_229
+    100572: Tetrahedron_23
+    100574: Tetrahedron_230
+    100576: Tetrahedron_231
+    100578: Tetrahedron_232
+    100580: Tetrahedron_233
+    100582: Tetrahedron_234
+    100584: Tetrahedron_235
+    100586: Tetrahedron_236
+    100588: Tetrahedron_237
+    100590: Tetrahedron_238
+    100592: Tetrahedron_239
+    100594: Tetrahedron_24
+    100596: Tetrahedron_240
+    100598: Tetrahedron_241
+    100600: Tetrahedron_242
+    100602: Tetrahedron_243
+    100604: Tetrahedron_244
+    100606: Tetrahedron_245
+    100608: Tetrahedron_246
+    100610: Tetrahedron_247
+    100612: Tetrahedron_248
+    100614: Tetrahedron_249
+    100616: Tetrahedron_25
+    100618: Tetrahedron_250
+    100620: Tetrahedron_251
+    100622: Tetrahedron_252
+    100624: Tetrahedron_253
+    100626: Tetrahedron_254
+    100628: Tetrahedron_255
+    100630: Tetrahedron_256
+    100632: Tetrahedron_257
+    100634: Tetrahedron_258
+    100636: Tetrahedron_259
+    100638: Tetrahedron_26
+    100640: Tetrahedron_260
+    100642: Tetrahedron_261
+    100644: Tetrahedron_262
+    100646: Tetrahedron_263
+    100648: Tetrahedron_264
+    100650: Tetrahedron_265
+    100652: Tetrahedron_266
+    100654: Tetrahedron_267
+    100656: Tetrahedron_268
+    100658: Tetrahedron_269
+    100660: Tetrahedron_27
+    100662: Tetrahedron_270
+    100664: Tetrahedron_271
+    100666: Tetrahedron_272
+    100668: Tetrahedron_273
+    100670: Tetrahedron_274
+    100672: Tetrahedron_275
+    100674: Tetrahedron_276
+    100676: Tetrahedron_277
+    100678: Tetrahedron_278
+    100680: Tetrahedron_279
+    100682: Tetrahedron_28
+    100684: Tetrahedron_280
+    100686: Tetrahedron_281
+    100688: Tetrahedron_282
+    100690: Tetrahedron_283
+    100692: Tetrahedron_284
+    100694: Tetrahedron_285
+    100696: Tetrahedron_286
+    100698: Tetrahedron_287
+    100700: Tetrahedron_288
+    100702: Tetrahedron_289
+    100704: Tetrahedron_29
+    100706: Tetrahedron_290
+    100708: Tetrahedron_291
+    100710: Tetrahedron_292
+    100712: Tetrahedron_293
+    100714: Tetrahedron_294
+    100716: Tetrahedron_295
+    100718: Tetrahedron_296
+    100720: Tetrahedron_297
+    100722: Tetrahedron_298
+    100724: Tetrahedron_299
+    100726: Tetrahedron_3
+    100728: Tetrahedron_30
+    100730: Tetrahedron_300
+    100732: Tetrahedron_301
+    100734: Tetrahedron_302
+    100736: Tetrahedron_303
+    100738: Tetrahedron_304
+    100740: Tetrahedron_305
+    100742: Tetrahedron_306
+    100744: Tetrahedron_307
+    100746: Tetrahedron_308
+    100748: Tetrahedron_309
+    100750: Tetrahedron_31
+    100752: Tetrahedron_310
+    100754: Tetrahedron_311
+    100756: Tetrahedron_312
+    100758: Tetrahedron_313
+    100760: Tetrahedron_314
+    100762: Tetrahedron_315
+    100764: Tetrahedron_316
+    100766: Tetrahedron_317
+    100768: Tetrahedron_318
+    100770: Tetrahedron_319
+    100772: Tetrahedron_32
+    100774: Tetrahedron_320
+    100776: Tetrahedron_321
+    100778: Tetrahedron_322
+    100780: Tetrahedron_323
+    100782: Tetrahedron_324
+    100784: Tetrahedron_325
+    100786: Tetrahedron_326
+    100788: Tetrahedron_327
+    100790: Tetrahedron_328
+    100792: Tetrahedron_329
+    100794: Tetrahedron_33
+    100796: Tetrahedron_330
+    100798: Tetrahedron_331
+    100800: Tetrahedron_332
+    100802: Tetrahedron_333
+    100804: Tetrahedron_334
+    100806: Tetrahedron_335
+    100808: Tetrahedron_336
+    100810: Tetrahedron_337
+    100812: Tetrahedron_338
+    100814: Tetrahedron_339
+    100816: Tetrahedron_34
+    100818: Tetrahedron_340
+    100820: Tetrahedron_341
+    100822: Tetrahedron_342
+    100824: Tetrahedron_343
+    100826: Tetrahedron_344
+    100828: Tetrahedron_345
+    100830: Tetrahedron_346
+    100832: Tetrahedron_347
+    100834: Tetrahedron_348
+    100836: Tetrahedron_349
+    100838: Tetrahedron_35
+    100840: Tetrahedron_350
+    100842: Tetrahedron_351
+    100844: Tetrahedron_352
+    100846: Tetrahedron_353
+    100848: Tetrahedron_354
+    100850: Tetrahedron_355
+    100852: Tetrahedron_356
+    100854: Tetrahedron_357
+    100856: Tetrahedron_358
+    100858: Tetrahedron_359
+    100860: Tetrahedron_36
+    100862: Tetrahedron_360
+    100864: Tetrahedron_361
+    100866: Tetrahedron_362
+    100868: Tetrahedron_363
+    100870: Tetrahedron_364
+    100872: Tetrahedron_365
+    100874: Tetrahedron_366
+    100876: Tetrahedron_367
+    100878: Tetrahedron_368
+    100880: Tetrahedron_369
+    100882: Tetrahedron_37
+    100884: Tetrahedron_370
+    100886: Tetrahedron_371
+    100888: Tetrahedron_372
+    100890: Tetrahedron_373
+    100892: Tetrahedron_374
+    100894: Tetrahedron_375
+    100896: Tetrahedron_376
+    100898: Tetrahedron_377
+    100900: Tetrahedron_378
+    100902: Tetrahedron_379
+    100904: Tetrahedron_38
+    100906: Tetrahedron_380
+    100908: Tetrahedron_381
+    100910: Tetrahedron_382
+    100912: Tetrahedron_383
+    100914: Tetrahedron_384
+    100916: Tetrahedron_385
+    100918: Tetrahedron_386
+    100920: Tetrahedron_387
+    100922: Tetrahedron_388
+    100924: Tetrahedron_389
+    100926: Tetrahedron_39
+    100928: Tetrahedron_390
+    100930: Tetrahedron_391
+    100932: Tetrahedron_392
+    100934: Tetrahedron_393
+    100936: Tetrahedron_394
+    100938: Tetrahedron_395
+    100940: Tetrahedron_396
+    100942: Tetrahedron_397
+    100944: Tetrahedron_398
+    100946: Tetrahedron_399
+    100948: Tetrahedron_4
+    100950: Tetrahedron_40
+    100952: Tetrahedron_400
+    100954: Tetrahedron_401
+    100956: Tetrahedron_402
+    100958: Tetrahedron_403
+    100960: Tetrahedron_404
+    100962: Tetrahedron_405
+    100964: Tetrahedron_406
+    100966: Tetrahedron_407
+    100968: Tetrahedron_408
+    100970: Tetrahedron_409
+    100972: Tetrahedron_41
+    100974: Tetrahedron_410
+    100976: Tetrahedron_411
+    100978: Tetrahedron_412
+    100980: Tetrahedron_413
+    100982: Tetrahedron_414
+    100984: Tetrahedron_42
+    100986: Tetrahedron_43
+    100988: Tetrahedron_44
+    100990: Tetrahedron_45
+    100992: Tetrahedron_46
+    100994: Tetrahedron_47
+    100996: Tetrahedron_48
+    100998: Tetrahedron_49
+    101000: Tetrahedron_5
+    101002: Tetrahedron_50
+    101004: Tetrahedron_51
+    101006: Tetrahedron_52
+    101008: Tetrahedron_53
+    101010: Tetrahedron_54
+    101012: Tetrahedron_55
+    101014: Tetrahedron_56
+    101016: Tetrahedron_57
+    101018: Tetrahedron_58
+    101020: Tetrahedron_59
+    101022: Tetrahedron_6
+    101024: Tetrahedron_60
+    101026: Tetrahedron_61
+    101028: Tetrahedron_62
+    101030: Tetrahedron_63
+    101032: Tetrahedron_64
+    101034: Tetrahedron_65
+    101036: Tetrahedron_66
+    101038: Tetrahedron_67
+    101040: Tetrahedron_68
+    101042: Tetrahedron_69
+    101044: Tetrahedron_7
+    101046: Tetrahedron_70
+    101048: Tetrahedron_71
+    101050: Tetrahedron_72
+    101052: Tetrahedron_73
+    101054: Tetrahedron_74
+    101056: Tetrahedron_75
+    101058: Tetrahedron_76
+    101060: Tetrahedron_77
+    101062: Tetrahedron_78
+    101064: Tetrahedron_79
+    101066: Tetrahedron_8
+    101068: Tetrahedron_80
+    101070: Tetrahedron_81
+    101072: Tetrahedron_82
+    101074: Tetrahedron_83
+    101076: Tetrahedron_84
+    101078: Tetrahedron_85
+    101080: Tetrahedron_86
+    101082: Tetrahedron_87
+    101084: Tetrahedron_88
+    101086: Tetrahedron_89
+    101088: Tetrahedron_9
+    101090: Tetrahedron_90
+    101092: Tetrahedron_91
+    101094: Tetrahedron_92
+    101096: Tetrahedron_93
+    101098: Tetrahedron_94
+    101100: Tetrahedron_95
+    101102: Tetrahedron_96
+    101104: Tetrahedron_97
+    101106: Tetrahedron_98
+    101108: Tetrahedron_99
+    101110: Top
+    400000: 1- Ala 24, Glu 27
+    400002: 1- Arg 121
+    400004: 1- Arg 176 Glu 408
+    400006: 1- Arg 299 Trp 306
+    400008: 1- Arg 419
+    400010: 1- His 7
+    400012: 1- Leu 254
+    400014: 1- Leu 32
+    400016: 1- Phe 12
+    400018: 1- Tyr 145 Phe 385
+    400020: 1- Val 33
+    400022: 2- Glu 412 Lys 415 Arg 419 His 171
+    400024: 2- Glu 9
+    400026: 2- His 180
+    400028: 2- Leu 123
+    400030: 2- Leu 20
+    400032: 2- Leu 201 Met 204
+    400034: 2- Phe 28, Trp 31
+    400036: 2- Trp 31
+    400038: 2- Trp 39
+    400040: 2- Tyr 145 Arg 190 Leu 388 Ser 392
+    400042: 2- Val 331
+    400044: 3- Asn 406
+    400046: 3- Asp 67 Arg 121
+    400048: 3- Glu 127
+    400050: 3- Glu 27
+    400052: 3- Leu 32
+    400054: 3- Leu 359 Leu 356 Leu 251
+    400056: 3- Thr 11
+    400058: 3- Trp 31
+    400060: 4- Glu 128
+    400062: 4- Lys 197
+    400064: 4- Lys 26, Gln 23
+    400066: 4- Ser 352
+    400068: 4- Thr 13
+    400070: 5- Ser 14, Ser 17, Ser 18
+    400072: 5VAI Extracellular Domain
+    400074: 5VAI Helix 1 Tetrahedra
+    400076: 5VAI Helix 2 Tetrahedra
+    400078: 5VAI Helix 3 Tetrahedra
+    400080: 5VAI Helix 4 Tetrahedra
+    400082: 5VAI Helix 5 Tetrahedra
+    400084: 5VAI Helix 6 Tetrahedra
+    400086: 5VAI Helix 7 Tetrahedra
+    400088: 5VAI NECK Loop Tetrahedron Backbone
+    400090: Backbone
+    400092: //RootNode
+    400094: GLP1 Interacting AAs w GLP1R
+    400096: GLP1-Point Helix
+    400098: GLP1R Interacting AAs w GLP1
+    400100: "GLP1R Interacting AAs w G\u03B1"
+    400102: "GLP1R Interacting AAs w G\u03B2"
+    400104: Hydrophilic Interactions
+    400106: Hydrophilic Interactions 1
+    400108: Hydrophilic Interactions 1_2
+    400110: Hydrophilic Interactions 2
+    400112: Hydrophilic Interactions 2_2
+    400114: Hydrophilic Interactions_2
+    400116: Hydrophobic Interactions
+    400118: Hydrophobic Interactions 1
+    400120: Hydrophobic Interactions 1_2
+    400122: Hydrophobic Interactions 2
+    400124: Hydrophobic Interactions 2_2
+    400126: Hydrophobic Interactions_2
+    400128: Parallel View 1
+    400130: Perspective
+    400132: Perspective 1
+    400134: Perspective 1.1
+    400136: Perspective 10
+    400138: Perspective 11
+    400140: Perspective 12
+    400142: Perspective 12_2
+    400144: Perspective 12_3
+    400146: Perspective 2
+    400148: Perspective 2.1
+    400150: Perspective 3
+    400152: Perspective 4
+    400154: Perspective 4.1
+    400156: Perspective 4.2
+    400158: Perspective 4.3
+    400160: Perspective 5
+    400162: Perspective 6
+    400164: Perspective 7
+    400166: Perspective 8
+    400168: Perspective 9
+    400170: Tetrahedra
+    400172: Tetrahedra Volumes
+    400174: Tetrahedra Volumes_10
+    400176: Tetrahedra Volumes_11
+    400178: Tetrahedra Volumes_12
+    400180: Tetrahedra Volumes_13
+    400182: Tetrahedra Volumes_14
+    400184: Tetrahedra Volumes_15
+    400186: Tetrahedra Volumes_16
+    400188: Tetrahedra Volumes_17
+    400190: Tetrahedra Volumes_18
+    400192: Tetrahedra Volumes_19
+    400194: Tetrahedra Volumes_2
+    400196: Tetrahedra Volumes_20
+    400198: Tetrahedra Volumes_21
+    400200: Tetrahedra Volumes_22
+    400202: Tetrahedra Volumes_23
+    400204: Tetrahedra Volumes_24
+    400206: Tetrahedra Volumes_25
+    400208: Tetrahedra Volumes_26
+    400210: Tetrahedra Volumes_27
+    400212: Tetrahedra Volumes_3
+    400214: Tetrahedra Volumes_4
+    400216: Tetrahedra Volumes_5
+    400218: Tetrahedra Volumes_6
+    400220: Tetrahedra Volumes_7
+    400222: Tetrahedra Volumes_8
+    400224: Tetrahedra Volumes_9
+    400226: Tetrahedra_10
+    400228: Tetrahedra_11
+    400230: Tetrahedra_12
+    400232: Tetrahedra_13
+    400234: Tetrahedra_14
+    400236: Tetrahedra_15
+    400238: Tetrahedra_16
+    400240: Tetrahedra_17
+    400242: Tetrahedra_18
+    400244: Tetrahedra_19
+    400246: Tetrahedra_2
+    400248: Tetrahedra_20
+    400250: Tetrahedra_21
+    400252: Tetrahedra_22
+    400254: Tetrahedra_23
+    400256: Tetrahedra_24
+    400258: Tetrahedra_25
+    400260: Tetrahedra_26
+    400262: Tetrahedra_27
+    400264: Tetrahedra_3
+    400266: Tetrahedra_4
+    400268: Tetrahedra_5
+    400270: Tetrahedra_6
+    400272: Tetrahedra_7
+    400274: Tetrahedra_8
+    400276: Tetrahedra_9
+    400278: Tetrahedron
+    400280: Tetrahedron Volumes
+    400282: Tetrahedron Volumes_2
+    400284: Tetrahedron_10
+    400286: Tetrahedron_100
+    400288: Tetrahedron_101
+    400290: Tetrahedron_102
+    400292: Tetrahedron_103
+    400294: Tetrahedron_104
+    400296: Tetrahedron_105
+    400298: Tetrahedron_106
+    400300: Tetrahedron_107
+    400302: Tetrahedron_108
+    400304: Tetrahedron_109
+    400306: Tetrahedron_11
+    400308: Tetrahedron_110
+    400310: Tetrahedron_111
+    400312: Tetrahedron_112
+    400314: Tetrahedron_113
+    400316: Tetrahedron_114
+    400318: Tetrahedron_115
+    400320: Tetrahedron_116
+    400322: Tetrahedron_117
+    400324: Tetrahedron_118
+    400326: Tetrahedron_119
+    400328: Tetrahedron_12
+    400330: Tetrahedron_120
+    400332: Tetrahedron_121
+    400334: Tetrahedron_122
+    400336: Tetrahedron_123
+    400338: Tetrahedron_124
+    400340: Tetrahedron_125
+    400342: Tetrahedron_126
+    400344: Tetrahedron_127
+    400346: Tetrahedron_128
+    400348: Tetrahedron_129
+    400350: Tetrahedron_13
+    400352: Tetrahedron_130
+    400354: Tetrahedron_131
+    400356: Tetrahedron_132
+    400358: Tetrahedron_133
+    400360: Tetrahedron_134
+    400362: Tetrahedron_135
+    400364: Tetrahedron_136
+    400366: Tetrahedron_137
+    400368: Tetrahedron_138
+    400370: Tetrahedron_139
+    400372: Tetrahedron_14
+    400374: Tetrahedron_140
+    400376: Tetrahedron_141
+    400378: Tetrahedron_142
+    400380: Tetrahedron_143
+    400382: Tetrahedron_144
+    400384: Tetrahedron_145
+    400386: Tetrahedron_146
+    400388: Tetrahedron_147
+    400390: Tetrahedron_148
+    400392: Tetrahedron_149
+    400394: Tetrahedron_15
+    400396: Tetrahedron_150
+    400398: Tetrahedron_151
+    400400: Tetrahedron_152
+    400402: Tetrahedron_153
+    400404: Tetrahedron_154
+    400406: Tetrahedron_155
+    400408: Tetrahedron_156
+    400410: Tetrahedron_157
+    400412: Tetrahedron_158
+    400414: Tetrahedron_159
+    400416: Tetrahedron_16
+    400418: Tetrahedron_160
+    400420: Tetrahedron_161
+    400422: Tetrahedron_162
+    400424: Tetrahedron_163
+    400426: Tetrahedron_164
+    400428: Tetrahedron_165
+    400430: Tetrahedron_166
+    400432: Tetrahedron_167
+    400434: Tetrahedron_168
+    400436: Tetrahedron_169
+    400438: Tetrahedron_17
+    400440: Tetrahedron_170
+    400442: Tetrahedron_171
+    400444: Tetrahedron_172
+    400446: Tetrahedron_173
+    400448: Tetrahedron_174
+    400450: Tetrahedron_175
+    400452: Tetrahedron_176
+    400454: Tetrahedron_177
+    400456: Tetrahedron_178
+    400458: Tetrahedron_179
+    400460: Tetrahedron_18
+    400462: Tetrahedron_180
+    400464: Tetrahedron_181
+    400466: Tetrahedron_182
+    400468: Tetrahedron_183
+    400470: Tetrahedron_184
+    400472: Tetrahedron_185
+    400474: Tetrahedron_186
+    400476: Tetrahedron_187
+    400478: Tetrahedron_188
+    400480: Tetrahedron_189
+    400482: Tetrahedron_19
+    400484: Tetrahedron_190
+    400486: Tetrahedron_191
+    400488: Tetrahedron_192
+    400490: Tetrahedron_193
+    400492: Tetrahedron_194
+    400494: Tetrahedron_195
+    400496: Tetrahedron_196
+    400498: Tetrahedron_197
+    400500: Tetrahedron_198
+    400502: Tetrahedron_199
+    400504: Tetrahedron_2
+    400506: Tetrahedron_20
+    400508: Tetrahedron_200
+    400510: Tetrahedron_201
+    400512: Tetrahedron_202
+    400514: Tetrahedron_203
+    400516: Tetrahedron_204
+    400518: Tetrahedron_205
+    400520: Tetrahedron_206
+    400522: Tetrahedron_207
+    400524: Tetrahedron_208
+    400526: Tetrahedron_209
+    400528: Tetrahedron_21
+    400530: Tetrahedron_210
+    400532: Tetrahedron_211
+    400534: Tetrahedron_212
+    400536: Tetrahedron_213
+    400538: Tetrahedron_214
+    400540: Tetrahedron_215
+    400542: Tetrahedron_216
+    400544: Tetrahedron_217
+    400546: Tetrahedron_218
+    400548: Tetrahedron_219
+    400550: Tetrahedron_22
+    400552: Tetrahedron_220
+    400554: Tetrahedron_221
+    400556: Tetrahedron_222
+    400558: Tetrahedron_223
+    400560: Tetrahedron_224
+    400562: Tetrahedron_225
+    400564: Tetrahedron_226
+    400566: Tetrahedron_227
+    400568: Tetrahedron_228
+    400570: Tetrahedron_229
+    400572: Tetrahedron_23
+    400574: Tetrahedron_230
+    400576: Tetrahedron_231
+    400578: Tetrahedron_232
+    400580: Tetrahedron_233
+    400582: Tetrahedron_234
+    400584: Tetrahedron_235
+    400586: Tetrahedron_236
+    400588: Tetrahedron_237
+    400590: Tetrahedron_238
+    400592: Tetrahedron_239
+    400594: Tetrahedron_24
+    400596: Tetrahedron_240
+    400598: Tetrahedron_241
+    400600: Tetrahedron_242
+    400602: Tetrahedron_243
+    400604: Tetrahedron_244
+    400606: Tetrahedron_245
+    400608: Tetrahedron_246
+    400610: Tetrahedron_247
+    400612: Tetrahedron_248
+    400614: Tetrahedron_249
+    400616: Tetrahedron_25
+    400618: Tetrahedron_250
+    400620: Tetrahedron_251
+    400622: Tetrahedron_252
+    400624: Tetrahedron_253
+    400626: Tetrahedron_254
+    400628: Tetrahedron_255
+    400630: Tetrahedron_256
+    400632: Tetrahedron_257
+    400634: Tetrahedron_258
+    400636: Tetrahedron_259
+    400638: Tetrahedron_26
+    400640: Tetrahedron_260
+    400642: Tetrahedron_261
+    400644: Tetrahedron_262
+    400646: Tetrahedron_263
+    400648: Tetrahedron_264
+    400650: Tetrahedron_265
+    400652: Tetrahedron_266
+    400654: Tetrahedron_267
+    400656: Tetrahedron_268
+    400658: Tetrahedron_269
+    400660: Tetrahedron_27
+    400662: Tetrahedron_270
+    400664: Tetrahedron_271
+    400666: Tetrahedron_272
+    400668: Tetrahedron_273
+    400670: Tetrahedron_274
+    400672: Tetrahedron_275
+    400674: Tetrahedron_276
+    400676: Tetrahedron_277
+    400678: Tetrahedron_278
+    400680: Tetrahedron_279
+    400682: Tetrahedron_28
+    400684: Tetrahedron_280
+    400686: Tetrahedron_281
+    400688: Tetrahedron_282
+    400690: Tetrahedron_283
+    400692: Tetrahedron_284
+    400694: Tetrahedron_285
+    400696: Tetrahedron_286
+    400698: Tetrahedron_287
+    400700: Tetrahedron_288
+    400702: Tetrahedron_289
+    400704: Tetrahedron_29
+    400706: Tetrahedron_290
+    400708: Tetrahedron_291
+    400710: Tetrahedron_292
+    400712: Tetrahedron_293
+    400714: Tetrahedron_294
+    400716: Tetrahedron_295
+    400718: Tetrahedron_296
+    400720: Tetrahedron_297
+    400722: Tetrahedron_298
+    400724: Tetrahedron_299
+    400726: Tetrahedron_3
+    400728: Tetrahedron_30
+    400730: Tetrahedron_300
+    400732: Tetrahedron_301
+    400734: Tetrahedron_302
+    400736: Tetrahedron_303
+    400738: Tetrahedron_304
+    400740: Tetrahedron_305
+    400742: Tetrahedron_306
+    400744: Tetrahedron_307
+    400746: Tetrahedron_308
+    400748: Tetrahedron_309
+    400750: Tetrahedron_31
+    400752: Tetrahedron_310
+    400754: Tetrahedron_311
+    400756: Tetrahedron_312
+    400758: Tetrahedron_313
+    400760: Tetrahedron_314
+    400762: Tetrahedron_315
+    400764: Tetrahedron_316
+    400766: Tetrahedron_317
+    400768: Tetrahedron_318
+    400770: Tetrahedron_319
+    400772: Tetrahedron_32
+    400774: Tetrahedron_320
+    400776: Tetrahedron_321
+    400778: Tetrahedron_322
+    400780: Tetrahedron_323
+    400782: Tetrahedron_324
+    400784: Tetrahedron_325
+    400786: Tetrahedron_326
+    400788: Tetrahedron_327
+    400790: Tetrahedron_328
+    400792: Tetrahedron_329
+    400794: Tetrahedron_33
+    400796: Tetrahedron_330
+    400798: Tetrahedron_331
+    400800: Tetrahedron_332
+    400802: Tetrahedron_333
+    400804: Tetrahedron_334
+    400806: Tetrahedron_335
+    400808: Tetrahedron_336
+    400810: Tetrahedron_337
+    400812: Tetrahedron_338
+    400814: Tetrahedron_339
+    400816: Tetrahedron_34
+    400818: Tetrahedron_340
+    400820: Tetrahedron_341
+    400822: Tetrahedron_342
+    400824: Tetrahedron_343
+    400826: Tetrahedron_344
+    400828: Tetrahedron_345
+    400830: Tetrahedron_346
+    400832: Tetrahedron_347
+    400834: Tetrahedron_348
+    400836: Tetrahedron_349
+    400838: Tetrahedron_35
+    400840: Tetrahedron_350
+    400842: Tetrahedron_351
+    400844: Tetrahedron_352
+    400846: Tetrahedron_353
+    400848: Tetrahedron_354
+    400850: Tetrahedron_355
+    400852: Tetrahedron_356
+    400854: Tetrahedron_357
+    400856: Tetrahedron_358
+    400858: Tetrahedron_359
+    400860: Tetrahedron_36
+    400862: Tetrahedron_360
+    400864: Tetrahedron_361
+    400866: Tetrahedron_362
+    400868: Tetrahedron_363
+    400870: Tetrahedron_364
+    400872: Tetrahedron_365
+    400874: Tetrahedron_366
+    400876: Tetrahedron_367
+    400878: Tetrahedron_368
+    400880: Tetrahedron_369
+    400882: Tetrahedron_37
+    400884: Tetrahedron_370
+    400886: Tetrahedron_371
+    400888: Tetrahedron_372
+    400890: Tetrahedron_373
+    400892: Tetrahedron_374
+    400894: Tetrahedron_375
+    400896: Tetrahedron_376
+    400898: Tetrahedron_377
+    400900: Tetrahedron_378
+    400902: Tetrahedron_379
+    400904: Tetrahedron_38
+    400906: Tetrahedron_380
+    400908: Tetrahedron_381
+    400910: Tetrahedron_382
+    400912: Tetrahedron_383
+    400914: Tetrahedron_384
+    400916: Tetrahedron_385
+    400918: Tetrahedron_386
+    400920: Tetrahedron_387
+    400922: Tetrahedron_388
+    400924: Tetrahedron_389
+    400926: Tetrahedron_39
+    400928: Tetrahedron_390
+    400930: Tetrahedron_391
+    400932: Tetrahedron_392
+    400934: Tetrahedron_393
+    400936: Tetrahedron_394
+    400938: Tetrahedron_395
+    400940: Tetrahedron_396
+    400942: Tetrahedron_397
+    400944: Tetrahedron_398
+    400946: Tetrahedron_399
+    400948: Tetrahedron_4
+    400950: Tetrahedron_40
+    400952: Tetrahedron_400
+    400954: Tetrahedron_401
+    400956: Tetrahedron_402
+    400958: Tetrahedron_403
+    400960: Tetrahedron_404
+    400962: Tetrahedron_405
+    400964: Tetrahedron_406
+    400966: Tetrahedron_407
+    400968: Tetrahedron_408
+    400970: Tetrahedron_409
+    400972: Tetrahedron_41
+    400974: Tetrahedron_410
+    400976: Tetrahedron_411
+    400978: Tetrahedron_412
+    400980: Tetrahedron_413
+    400982: Tetrahedron_414
+    400984: Tetrahedron_42
+    400986: Tetrahedron_43
+    400988: Tetrahedron_44
+    400990: Tetrahedron_45
+    400992: Tetrahedron_46
+    400994: Tetrahedron_47
+    400996: Tetrahedron_48
+    400998: Tetrahedron_49
+    401000: Tetrahedron_5
+    401002: Tetrahedron_50
+    401004: Tetrahedron_51
+    401006: Tetrahedron_52
+    401008: Tetrahedron_53
+    401010: Tetrahedron_54
+    401012: Tetrahedron_55
+    401014: Tetrahedron_56
+    401016: Tetrahedron_57
+    401018: Tetrahedron_58
+    401020: Tetrahedron_59
+    401022: Tetrahedron_6
+    401024: Tetrahedron_60
+    401026: Tetrahedron_61
+    401028: Tetrahedron_62
+    401030: Tetrahedron_63
+    401032: Tetrahedron_64
+    401034: Tetrahedron_65
+    401036: Tetrahedron_66
+    401038: Tetrahedron_67
+    401040: Tetrahedron_68
+    401042: Tetrahedron_69
+    401044: Tetrahedron_7
+    401046: Tetrahedron_70
+    401048: Tetrahedron_71
+    401050: Tetrahedron_72
+    401052: Tetrahedron_73
+    401054: Tetrahedron_74
+    401056: Tetrahedron_75
+    401058: Tetrahedron_76
+    401060: Tetrahedron_77
+    401062: Tetrahedron_78
+    401064: Tetrahedron_79
+    401066: Tetrahedron_8
+    401068: Tetrahedron_80
+    401070: Tetrahedron_81
+    401072: Tetrahedron_82
+    401074: Tetrahedron_83
+    401076: Tetrahedron_84
+    401078: Tetrahedron_85
+    401080: Tetrahedron_86
+    401082: Tetrahedron_87
+    401084: Tetrahedron_88
+    401086: Tetrahedron_89
+    401088: Tetrahedron_9
+    401090: Tetrahedron_90
+    401092: Tetrahedron_91
+    401094: Tetrahedron_92
+    401096: Tetrahedron_93
+    401098: Tetrahedron_94
+    401100: Tetrahedron_95
+    401102: Tetrahedron_96
+    401104: Tetrahedron_97
+    401106: Tetrahedron_98
+    401108: Tetrahedron_99
+    401110: Top
+    2000000: Parallel View 1
+    2000002: Perspective
+    2000004: Perspective 1
+    2000006: Perspective 1.1
+    2000008: Perspective 10
+    2000010: Perspective 11
+    2000012: Perspective 12
+    2000014: Perspective 12_2
+    2000016: Perspective 12_3
+    2000018: Perspective 2
+    2000020: Perspective 2.1
+    2000022: Perspective 3
+    2000024: Perspective 4
+    2000026: Perspective 4.1
+    2000028: Perspective 4.2
+    2000030: Perspective 4.3
+    2000032: Perspective 5
+    2000034: Perspective 6
+    2000036: Perspective 7
+    2000038: Perspective 8
+    2000040: Perspective 9
+    2000042: Top
+    2100000: Plaster (21)
+    2100002: Plaster (29)
+    2100004: Plaster (9)
+    2100006: Plaster (31)
+    2100008: Plaster (30)
+    2100010: Plaster (3)
+    2100012: Plaster (18)
+    2100014: Plaster (11)
+    2100016: Plaster (2)
+    2100018: Plaster (13)
+    2100020: Plaster
+    2100022: Plaster [imported] (1)
+    2100024: Plaster [imported]
+    2100026: Tetra Membrane [imported]
+    2100028: Paint [imported]
+    2100030: Plaster (32)
+    2100032: Plaster (16)
+    2300000: Tetrahedron
+    2300002: Tetrahedron_10
+    2300004: Tetrahedron_100
+    2300006: Tetrahedron_101
+    2300008: Tetrahedron_102
+    2300010: Tetrahedron_103
+    2300012: Tetrahedron_104
+    2300014: Tetrahedron_105
+    2300016: Tetrahedron_106
+    2300018: Tetrahedron_107
+    2300020: Tetrahedron_108
+    2300022: Tetrahedron_109
+    2300024: Tetrahedron_11
+    2300026: Tetrahedron_110
+    2300028: Tetrahedron_111
+    2300030: Tetrahedron_112
+    2300032: Tetrahedron_113
+    2300034: Tetrahedron_114
+    2300036: Tetrahedron_115
+    2300038: Tetrahedron_116
+    2300040: Tetrahedron_117
+    2300042: Tetrahedron_118
+    2300044: Tetrahedron_119
+    2300046: Tetrahedron_12
+    2300048: Tetrahedron_120
+    2300050: Tetrahedron_121
+    2300052: Tetrahedron_122
+    2300054: Tetrahedron_123
+    2300056: Tetrahedron_124
+    2300058: Tetrahedron_125
+    2300060: Tetrahedron_126
+    2300062: Tetrahedron_127
+    2300064: Tetrahedron_128
+    2300066: Tetrahedron_129
+    2300068: Tetrahedron_13
+    2300070: Tetrahedron_130
+    2300072: Tetrahedron_131
+    2300074: Tetrahedron_132
+    2300076: Tetrahedron_133
+    2300078: Tetrahedron_134
+    2300080: Tetrahedron_135
+    2300082: Tetrahedron_136
+    2300084: Tetrahedron_137
+    2300086: Tetrahedron_138
+    2300088: Tetrahedron_139
+    2300090: Tetrahedron_14
+    2300092: Tetrahedron_140
+    2300094: Tetrahedron_141
+    2300096: Tetrahedron_142
+    2300098: Tetrahedron_143
+    2300100: Tetrahedron_144
+    2300102: Tetrahedron_145
+    2300104: Tetrahedron_146
+    2300106: Tetrahedron_147
+    2300108: Tetrahedron_148
+    2300110: Tetrahedron_149
+    2300112: Tetrahedron_15
+    2300114: Tetrahedron_150
+    2300116: Tetrahedron_151
+    2300118: Tetrahedron_152
+    2300120: Tetrahedron_153
+    2300122: Tetrahedron_154
+    2300124: Tetrahedron_155
+    2300126: Tetrahedron_156
+    2300128: Tetrahedron_157
+    2300130: Tetrahedron_158
+    2300132: Tetrahedron_159
+    2300134: Tetrahedron_16
+    2300136: Tetrahedron_160
+    2300138: Tetrahedron_161
+    2300140: Tetrahedron_162
+    2300142: Tetrahedron_163
+    2300144: Tetrahedron_164
+    2300146: Tetrahedron_165
+    2300148: Tetrahedron_166
+    2300150: Tetrahedron_167
+    2300152: Tetrahedron_168
+    2300154: Tetrahedron_169
+    2300156: Tetrahedron_17
+    2300158: Tetrahedron_170
+    2300160: Tetrahedron_171
+    2300162: Tetrahedron_172
+    2300164: Tetrahedron_173
+    2300166: Tetrahedron_174
+    2300168: Tetrahedron_175
+    2300170: Tetrahedron_176
+    2300172: Tetrahedron_177
+    2300174: Tetrahedron_178
+    2300176: Tetrahedron_179
+    2300178: Tetrahedron_18
+    2300180: Tetrahedron_180
+    2300182: Tetrahedron_181
+    2300184: Tetrahedron_182
+    2300186: Tetrahedron_183
+    2300188: Tetrahedron_184
+    2300190: Tetrahedron_185
+    2300192: Tetrahedron_186
+    2300194: Tetrahedron_187
+    2300196: Tetrahedron_188
+    2300198: Tetrahedron_189
+    2300200: Tetrahedron_19
+    2300202: Tetrahedron_190
+    2300204: Tetrahedron_191
+    2300206: Tetrahedron_192
+    2300208: Tetrahedron_193
+    2300210: Tetrahedron_194
+    2300212: Tetrahedron_195
+    2300214: Tetrahedron_196
+    2300216: Tetrahedron_197
+    2300218: Tetrahedron_198
+    2300220: Tetrahedron_199
+    2300222: Tetrahedron_2
+    2300224: Tetrahedron_20
+    2300226: Tetrahedron_200
+    2300228: Tetrahedron_201
+    2300230: Tetrahedron_202
+    2300232: Tetrahedron_203
+    2300234: Tetrahedron_204
+    2300236: Tetrahedron_205
+    2300238: Tetrahedron_206
+    2300240: Tetrahedron_207
+    2300242: Tetrahedron_208
+    2300244: Tetrahedron_209
+    2300246: Tetrahedron_21
+    2300248: Tetrahedron_210
+    2300250: Tetrahedron_211
+    2300252: Tetrahedron_212
+    2300254: Tetrahedron_213
+    2300256: Tetrahedron_214
+    2300258: Tetrahedron_215
+    2300260: Tetrahedron_216
+    2300262: Tetrahedron_217
+    2300264: Tetrahedron_218
+    2300266: Tetrahedron_219
+    2300268: Tetrahedron_22
+    2300270: Tetrahedron_220
+    2300272: Tetrahedron_221
+    2300274: Tetrahedron_222
+    2300276: Tetrahedron_223
+    2300278: Tetrahedron_224
+    2300280: Tetrahedron_225
+    2300282: Tetrahedron_226
+    2300284: Tetrahedron_227
+    2300286: Tetrahedron_228
+    2300288: Tetrahedron_229
+    2300290: Tetrahedron_23
+    2300292: Tetrahedron_230
+    2300294: Tetrahedron_231
+    2300296: Tetrahedron_232
+    2300298: Tetrahedron_233
+    2300300: Tetrahedron_234
+    2300302: Tetrahedron_235
+    2300304: Tetrahedron_236
+    2300306: Tetrahedron_237
+    2300308: Tetrahedron_238
+    2300310: Tetrahedron_239
+    2300312: Tetrahedron_24
+    2300314: Tetrahedron_240
+    2300316: Tetrahedron_241
+    2300318: Tetrahedron_242
+    2300320: Tetrahedron_243
+    2300322: Tetrahedron_244
+    2300324: Tetrahedron_245
+    2300326: Tetrahedron_246
+    2300328: Tetrahedron_247
+    2300330: Tetrahedron_248
+    2300332: Tetrahedron_249
+    2300334: Tetrahedron_25
+    2300336: Tetrahedron_250
+    2300338: Tetrahedron_251
+    2300340: Tetrahedron_252
+    2300342: Tetrahedron_253
+    2300344: Tetrahedron_254
+    2300346: Tetrahedron_255
+    2300348: Tetrahedron_256
+    2300350: Tetrahedron_257
+    2300352: Tetrahedron_258
+    2300354: Tetrahedron_259
+    2300356: Tetrahedron_26
+    2300358: Tetrahedron_260
+    2300360: Tetrahedron_261
+    2300362: Tetrahedron_262
+    2300364: Tetrahedron_263
+    2300366: Tetrahedron_264
+    2300368: Tetrahedron_265
+    2300370: Tetrahedron_266
+    2300372: Tetrahedron_267
+    2300374: Tetrahedron_268
+    2300376: Tetrahedron_269
+    2300378: Tetrahedron_27
+    2300380: Tetrahedron_270
+    2300382: Tetrahedron_271
+    2300384: Tetrahedron_272
+    2300386: Tetrahedron_273
+    2300388: Tetrahedron_274
+    2300390: Tetrahedron_275
+    2300392: Tetrahedron_276
+    2300394: Tetrahedron_277
+    2300396: Tetrahedron_278
+    2300398: Tetrahedron_279
+    2300400: Tetrahedron_28
+    2300402: Tetrahedron_280
+    2300404: Tetrahedron_281
+    2300406: Tetrahedron_282
+    2300408: Tetrahedron_283
+    2300410: Tetrahedron_284
+    2300412: Tetrahedron_285
+    2300414: Tetrahedron_286
+    2300416: Tetrahedron_287
+    2300418: Tetrahedron_288
+    2300420: Tetrahedron_289
+    2300422: Tetrahedron_29
+    2300424: Tetrahedron_290
+    2300426: Tetrahedron_291
+    2300428: Tetrahedron_292
+    2300430: Tetrahedron_293
+    2300432: Tetrahedron_294
+    2300434: Tetrahedron_295
+    2300436: Tetrahedron_296
+    2300438: Tetrahedron_297
+    2300440: Tetrahedron_298
+    2300442: Tetrahedron_299
+    2300444: Tetrahedron_3
+    2300446: Tetrahedron_30
+    2300448: Tetrahedron_300
+    2300450: Tetrahedron_301
+    2300452: Tetrahedron_302
+    2300454: Tetrahedron_303
+    2300456: Tetrahedron_304
+    2300458: Tetrahedron_305
+    2300460: Tetrahedron_306
+    2300462: Tetrahedron_307
+    2300464: Tetrahedron_308
+    2300466: Tetrahedron_309
+    2300468: Tetrahedron_31
+    2300470: Tetrahedron_310
+    2300472: Tetrahedron_311
+    2300474: Tetrahedron_312
+    2300476: Tetrahedron_313
+    2300478: Tetrahedron_314
+    2300480: Tetrahedron_315
+    2300482: Tetrahedron_316
+    2300484: Tetrahedron_317
+    2300486: Tetrahedron_318
+    2300488: Tetrahedron_319
+    2300490: Tetrahedron_32
+    2300492: Tetrahedron_320
+    2300494: Tetrahedron_321
+    2300496: Tetrahedron_322
+    2300498: Tetrahedron_323
+    2300500: Tetrahedron_324
+    2300502: Tetrahedron_325
+    2300504: Tetrahedron_326
+    2300506: Tetrahedron_327
+    2300508: Tetrahedron_328
+    2300510: Tetrahedron_329
+    2300512: Tetrahedron_33
+    2300514: Tetrahedron_330
+    2300516: Tetrahedron_331
+    2300518: Tetrahedron_332
+    2300520: Tetrahedron_333
+    2300522: Tetrahedron_334
+    2300524: Tetrahedron_335
+    2300526: Tetrahedron_336
+    2300528: Tetrahedron_337
+    2300530: Tetrahedron_338
+    2300532: Tetrahedron_339
+    2300534: Tetrahedron_34
+    2300536: Tetrahedron_340
+    2300538: Tetrahedron_341
+    2300540: Tetrahedron_342
+    2300542: Tetrahedron_343
+    2300544: Tetrahedron_344
+    2300546: Tetrahedron_345
+    2300548: Tetrahedron_346
+    2300550: Tetrahedron_347
+    2300552: Tetrahedron_348
+    2300554: Tetrahedron_349
+    2300556: Tetrahedron_35
+    2300558: Tetrahedron_350
+    2300560: Tetrahedron_351
+    2300562: Tetrahedron_352
+    2300564: Tetrahedron_353
+    2300566: Tetrahedron_354
+    2300568: Tetrahedron_355
+    2300570: Tetrahedron_356
+    2300572: Tetrahedron_357
+    2300574: Tetrahedron_358
+    2300576: Tetrahedron_359
+    2300578: Tetrahedron_36
+    2300580: Tetrahedron_360
+    2300582: Tetrahedron_361
+    2300584: Tetrahedron_362
+    2300586: Tetrahedron_363
+    2300588: Tetrahedron_364
+    2300590: Tetrahedron_365
+    2300592: Tetrahedron_366
+    2300594: Tetrahedron_367
+    2300596: Tetrahedron_368
+    2300598: Tetrahedron_369
+    2300600: Tetrahedron_37
+    2300602: Tetrahedron_370
+    2300604: Tetrahedron_371
+    2300606: Tetrahedron_372
+    2300608: Tetrahedron_373
+    2300610: Tetrahedron_374
+    2300612: Tetrahedron_375
+    2300614: Tetrahedron_376
+    2300616: Tetrahedron_377
+    2300618: Tetrahedron_378
+    2300620: Tetrahedron_379
+    2300622: Tetrahedron_38
+    2300624: Tetrahedron_380
+    2300626: Tetrahedron_381
+    2300628: Tetrahedron_382
+    2300630: Tetrahedron_383
+    2300632: Tetrahedron_384
+    2300634: Tetrahedron_385
+    2300636: Tetrahedron_386
+    2300638: Tetrahedron_387
+    2300640: Tetrahedron_388
+    2300642: Tetrahedron_389
+    2300644: Tetrahedron_39
+    2300646: Tetrahedron_390
+    2300648: Tetrahedron_391
+    2300650: Tetrahedron_392
+    2300652: Tetrahedron_393
+    2300654: Tetrahedron_394
+    2300656: Tetrahedron_395
+    2300658: Tetrahedron_396
+    2300660: Tetrahedron_397
+    2300662: Tetrahedron_398
+    2300664: Tetrahedron_399
+    2300666: Tetrahedron_4
+    2300668: Tetrahedron_40
+    2300670: Tetrahedron_400
+    2300672: Tetrahedron_401
+    2300674: Tetrahedron_402
+    2300676: Tetrahedron_403
+    2300678: Tetrahedron_404
+    2300680: Tetrahedron_405
+    2300682: Tetrahedron_407
+    2300684: Tetrahedron_408
+    2300686: Tetrahedron_41
+    2300688: Tetrahedron_410
+    2300690: Tetrahedron_411
+    2300692: Tetrahedron_412
+    2300694: Tetrahedron_413
+    2300696: Tetrahedron_414
+    2300698: Tetrahedron_42
+    2300700: Tetrahedron_43
+    2300702: Tetrahedron_44
+    2300704: Tetrahedron_45
+    2300706: Tetrahedron_46
+    2300708: Tetrahedron_47
+    2300710: Tetrahedron_48
+    2300712: Tetrahedron_49
+    2300714: Tetrahedron_5
+    2300716: Tetrahedron_50
+    2300718: Tetrahedron_51
+    2300720: Tetrahedron_52
+    2300722: Tetrahedron_53
+    2300724: Tetrahedron_54
+    2300726: Tetrahedron_55
+    2300728: Tetrahedron_56
+    2300730: Tetrahedron_57
+    2300732: Tetrahedron_58
+    2300734: Tetrahedron_59
+    2300736: Tetrahedron_6
+    2300738: Tetrahedron_60
+    2300740: Tetrahedron_61
+    2300742: Tetrahedron_62
+    2300744: Tetrahedron_63
+    2300746: Tetrahedron_64
+    2300748: Tetrahedron_65
+    2300750: Tetrahedron_66
+    2300752: Tetrahedron_67
+    2300754: Tetrahedron_68
+    2300756: Tetrahedron_69
+    2300758: Tetrahedron_7
+    2300760: Tetrahedron_70
+    2300762: Tetrahedron_71
+    2300764: Tetrahedron_72
+    2300766: Tetrahedron_73
+    2300768: Tetrahedron_74
+    2300770: Tetrahedron_75
+    2300772: Tetrahedron_76
+    2300774: Tetrahedron_77
+    2300776: Tetrahedron_78
+    2300778: Tetrahedron_79
+    2300780: Tetrahedron_8
+    2300782: Tetrahedron_80
+    2300784: Tetrahedron_81
+    2300786: Tetrahedron_82
+    2300788: Tetrahedron_83
+    2300790: Tetrahedron_84
+    2300792: Tetrahedron_85
+    2300794: Tetrahedron_86
+    2300796: Tetrahedron_87
+    2300798: Tetrahedron_88
+    2300800: Tetrahedron_89
+    2300802: Tetrahedron_9
+    2300804: Tetrahedron_90
+    2300806: Tetrahedron_91
+    2300808: Tetrahedron_92
+    2300810: Tetrahedron_93
+    2300812: Tetrahedron_94
+    2300814: Tetrahedron_95
+    2300816: Tetrahedron_96
+    2300818: Tetrahedron_97
+    2300820: Tetrahedron_98
+    2300822: Tetrahedron_99
+    3300000: Tetrahedron
+    3300002: Tetrahedron_10
+    3300004: Tetrahedron_100
+    3300006: Tetrahedron_101
+    3300008: Tetrahedron_102
+    3300010: Tetrahedron_103
+    3300012: Tetrahedron_104
+    3300014: Tetrahedron_105
+    3300016: Tetrahedron_106
+    3300018: Tetrahedron_107
+    3300020: Tetrahedron_108
+    3300022: Tetrahedron_109
+    3300024: Tetrahedron_11
+    3300026: Tetrahedron_110
+    3300028: Tetrahedron_111
+    3300030: Tetrahedron_112
+    3300032: Tetrahedron_113
+    3300034: Tetrahedron_114
+    3300036: Tetrahedron_115
+    3300038: Tetrahedron_116
+    3300040: Tetrahedron_117
+    3300042: Tetrahedron_118
+    3300044: Tetrahedron_119
+    3300046: Tetrahedron_12
+    3300048: Tetrahedron_120
+    3300050: Tetrahedron_121
+    3300052: Tetrahedron_122
+    3300054: Tetrahedron_123
+    3300056: Tetrahedron_124
+    3300058: Tetrahedron_125
+    3300060: Tetrahedron_126
+    3300062: Tetrahedron_127
+    3300064: Tetrahedron_128
+    3300066: Tetrahedron_129
+    3300068: Tetrahedron_13
+    3300070: Tetrahedron_130
+    3300072: Tetrahedron_131
+    3300074: Tetrahedron_132
+    3300076: Tetrahedron_133
+    3300078: Tetrahedron_134
+    3300080: Tetrahedron_135
+    3300082: Tetrahedron_136
+    3300084: Tetrahedron_137
+    3300086: Tetrahedron_138
+    3300088: Tetrahedron_139
+    3300090: Tetrahedron_14
+    3300092: Tetrahedron_140
+    3300094: Tetrahedron_141
+    3300096: Tetrahedron_142
+    3300098: Tetrahedron_143
+    3300100: Tetrahedron_144
+    3300102: Tetrahedron_145
+    3300104: Tetrahedron_146
+    3300106: Tetrahedron_147
+    3300108: Tetrahedron_148
+    3300110: Tetrahedron_149
+    3300112: Tetrahedron_15
+    3300114: Tetrahedron_150
+    3300116: Tetrahedron_151
+    3300118: Tetrahedron_152
+    3300120: Tetrahedron_153
+    3300122: Tetrahedron_154
+    3300124: Tetrahedron_155
+    3300126: Tetrahedron_156
+    3300128: Tetrahedron_157
+    3300130: Tetrahedron_158
+    3300132: Tetrahedron_159
+    3300134: Tetrahedron_16
+    3300136: Tetrahedron_160
+    3300138: Tetrahedron_161
+    3300140: Tetrahedron_162
+    3300142: Tetrahedron_163
+    3300144: Tetrahedron_164
+    3300146: Tetrahedron_165
+    3300148: Tetrahedron_166
+    3300150: Tetrahedron_167
+    3300152: Tetrahedron_168
+    3300154: Tetrahedron_169
+    3300156: Tetrahedron_17
+    3300158: Tetrahedron_170
+    3300160: Tetrahedron_171
+    3300162: Tetrahedron_172
+    3300164: Tetrahedron_173
+    3300166: Tetrahedron_174
+    3300168: Tetrahedron_175
+    3300170: Tetrahedron_176
+    3300172: Tetrahedron_177
+    3300174: Tetrahedron_178
+    3300176: Tetrahedron_179
+    3300178: Tetrahedron_18
+    3300180: Tetrahedron_180
+    3300182: Tetrahedron_181
+    3300184: Tetrahedron_182
+    3300186: Tetrahedron_183
+    3300188: Tetrahedron_184
+    3300190: Tetrahedron_185
+    3300192: Tetrahedron_186
+    3300194: Tetrahedron_187
+    3300196: Tetrahedron_188
+    3300198: Tetrahedron_189
+    3300200: Tetrahedron_19
+    3300202: Tetrahedron_190
+    3300204: Tetrahedron_191
+    3300206: Tetrahedron_192
+    3300208: Tetrahedron_193
+    3300210: Tetrahedron_194
+    3300212: Tetrahedron_195
+    3300214: Tetrahedron_196
+    3300216: Tetrahedron_197
+    3300218: Tetrahedron_198
+    3300220: Tetrahedron_199
+    3300222: Tetrahedron_2
+    3300224: Tetrahedron_20
+    3300226: Tetrahedron_200
+    3300228: Tetrahedron_201
+    3300230: Tetrahedron_202
+    3300232: Tetrahedron_203
+    3300234: Tetrahedron_204
+    3300236: Tetrahedron_205
+    3300238: Tetrahedron_206
+    3300240: Tetrahedron_207
+    3300242: Tetrahedron_208
+    3300244: Tetrahedron_209
+    3300246: Tetrahedron_21
+    3300248: Tetrahedron_210
+    3300250: Tetrahedron_211
+    3300252: Tetrahedron_212
+    3300254: Tetrahedron_213
+    3300256: Tetrahedron_214
+    3300258: Tetrahedron_215
+    3300260: Tetrahedron_216
+    3300262: Tetrahedron_217
+    3300264: Tetrahedron_218
+    3300266: Tetrahedron_219
+    3300268: Tetrahedron_22
+    3300270: Tetrahedron_220
+    3300272: Tetrahedron_221
+    3300274: Tetrahedron_222
+    3300276: Tetrahedron_223
+    3300278: Tetrahedron_224
+    3300280: Tetrahedron_225
+    3300282: Tetrahedron_226
+    3300284: Tetrahedron_227
+    3300286: Tetrahedron_228
+    3300288: Tetrahedron_229
+    3300290: Tetrahedron_23
+    3300292: Tetrahedron_230
+    3300294: Tetrahedron_231
+    3300296: Tetrahedron_232
+    3300298: Tetrahedron_233
+    3300300: Tetrahedron_234
+    3300302: Tetrahedron_235
+    3300304: Tetrahedron_236
+    3300306: Tetrahedron_237
+    3300308: Tetrahedron_238
+    3300310: Tetrahedron_239
+    3300312: Tetrahedron_24
+    3300314: Tetrahedron_240
+    3300316: Tetrahedron_241
+    3300318: Tetrahedron_242
+    3300320: Tetrahedron_243
+    3300322: Tetrahedron_244
+    3300324: Tetrahedron_245
+    3300326: Tetrahedron_246
+    3300328: Tetrahedron_247
+    3300330: Tetrahedron_248
+    3300332: Tetrahedron_249
+    3300334: Tetrahedron_25
+    3300336: Tetrahedron_250
+    3300338: Tetrahedron_251
+    3300340: Tetrahedron_252
+    3300342: Tetrahedron_253
+    3300344: Tetrahedron_254
+    3300346: Tetrahedron_255
+    3300348: Tetrahedron_256
+    3300350: Tetrahedron_257
+    3300352: Tetrahedron_258
+    3300354: Tetrahedron_259
+    3300356: Tetrahedron_26
+    3300358: Tetrahedron_260
+    3300360: Tetrahedron_261
+    3300362: Tetrahedron_262
+    3300364: Tetrahedron_263
+    3300366: Tetrahedron_264
+    3300368: Tetrahedron_265
+    3300370: Tetrahedron_266
+    3300372: Tetrahedron_267
+    3300374: Tetrahedron_268
+    3300376: Tetrahedron_269
+    3300378: Tetrahedron_27
+    3300380: Tetrahedron_270
+    3300382: Tetrahedron_271
+    3300384: Tetrahedron_272
+    3300386: Tetrahedron_273
+    3300388: Tetrahedron_274
+    3300390: Tetrahedron_275
+    3300392: Tetrahedron_276
+    3300394: Tetrahedron_277
+    3300396: Tetrahedron_278
+    3300398: Tetrahedron_279
+    3300400: Tetrahedron_28
+    3300402: Tetrahedron_280
+    3300404: Tetrahedron_281
+    3300406: Tetrahedron_282
+    3300408: Tetrahedron_283
+    3300410: Tetrahedron_284
+    3300412: Tetrahedron_285
+    3300414: Tetrahedron_286
+    3300416: Tetrahedron_287
+    3300418: Tetrahedron_288
+    3300420: Tetrahedron_289
+    3300422: Tetrahedron_29
+    3300424: Tetrahedron_290
+    3300426: Tetrahedron_291
+    3300428: Tetrahedron_292
+    3300430: Tetrahedron_293
+    3300432: Tetrahedron_294
+    3300434: Tetrahedron_295
+    3300436: Tetrahedron_296
+    3300438: Tetrahedron_297
+    3300440: Tetrahedron_298
+    3300442: Tetrahedron_299
+    3300444: Tetrahedron_3
+    3300446: Tetrahedron_30
+    3300448: Tetrahedron_300
+    3300450: Tetrahedron_301
+    3300452: Tetrahedron_302
+    3300454: Tetrahedron_303
+    3300456: Tetrahedron_304
+    3300458: Tetrahedron_305
+    3300460: Tetrahedron_306
+    3300462: Tetrahedron_307
+    3300464: Tetrahedron_308
+    3300466: Tetrahedron_309
+    3300468: Tetrahedron_31
+    3300470: Tetrahedron_310
+    3300472: Tetrahedron_311
+    3300474: Tetrahedron_312
+    3300476: Tetrahedron_313
+    3300478: Tetrahedron_314
+    3300480: Tetrahedron_315
+    3300482: Tetrahedron_316
+    3300484: Tetrahedron_317
+    3300486: Tetrahedron_318
+    3300488: Tetrahedron_319
+    3300490: Tetrahedron_32
+    3300492: Tetrahedron_320
+    3300494: Tetrahedron_321
+    3300496: Tetrahedron_322
+    3300498: Tetrahedron_323
+    3300500: Tetrahedron_324
+    3300502: Tetrahedron_325
+    3300504: Tetrahedron_326
+    3300506: Tetrahedron_327
+    3300508: Tetrahedron_328
+    3300510: Tetrahedron_329
+    3300512: Tetrahedron_33
+    3300514: Tetrahedron_330
+    3300516: Tetrahedron_331
+    3300518: Tetrahedron_332
+    3300520: Tetrahedron_333
+    3300522: Tetrahedron_334
+    3300524: Tetrahedron_335
+    3300526: Tetrahedron_336
+    3300528: Tetrahedron_337
+    3300530: Tetrahedron_338
+    3300532: Tetrahedron_339
+    3300534: Tetrahedron_34
+    3300536: Tetrahedron_340
+    3300538: Tetrahedron_341
+    3300540: Tetrahedron_342
+    3300542: Tetrahedron_343
+    3300544: Tetrahedron_344
+    3300546: Tetrahedron_345
+    3300548: Tetrahedron_346
+    3300550: Tetrahedron_347
+    3300552: Tetrahedron_348
+    3300554: Tetrahedron_349
+    3300556: Tetrahedron_35
+    3300558: Tetrahedron_350
+    3300560: Tetrahedron_351
+    3300562: Tetrahedron_352
+    3300564: Tetrahedron_353
+    3300566: Tetrahedron_354
+    3300568: Tetrahedron_355
+    3300570: Tetrahedron_356
+    3300572: Tetrahedron_357
+    3300574: Tetrahedron_358
+    3300576: Tetrahedron_359
+    3300578: Tetrahedron_36
+    3300580: Tetrahedron_360
+    3300582: Tetrahedron_361
+    3300584: Tetrahedron_362
+    3300586: Tetrahedron_363
+    3300588: Tetrahedron_364
+    3300590: Tetrahedron_365
+    3300592: Tetrahedron_366
+    3300594: Tetrahedron_367
+    3300596: Tetrahedron_368
+    3300598: Tetrahedron_369
+    3300600: Tetrahedron_37
+    3300602: Tetrahedron_370
+    3300604: Tetrahedron_371
+    3300606: Tetrahedron_372
+    3300608: Tetrahedron_373
+    3300610: Tetrahedron_374
+    3300612: Tetrahedron_375
+    3300614: Tetrahedron_376
+    3300616: Tetrahedron_377
+    3300618: Tetrahedron_378
+    3300620: Tetrahedron_379
+    3300622: Tetrahedron_38
+    3300624: Tetrahedron_380
+    3300626: Tetrahedron_381
+    3300628: Tetrahedron_382
+    3300630: Tetrahedron_383
+    3300632: Tetrahedron_384
+    3300634: Tetrahedron_385
+    3300636: Tetrahedron_386
+    3300638: Tetrahedron_387
+    3300640: Tetrahedron_388
+    3300642: Tetrahedron_389
+    3300644: Tetrahedron_39
+    3300646: Tetrahedron_390
+    3300648: Tetrahedron_391
+    3300650: Tetrahedron_392
+    3300652: Tetrahedron_393
+    3300654: Tetrahedron_394
+    3300656: Tetrahedron_395
+    3300658: Tetrahedron_396
+    3300660: Tetrahedron_397
+    3300662: Tetrahedron_398
+    3300664: Tetrahedron_399
+    3300666: Tetrahedron_4
+    3300668: Tetrahedron_40
+    3300670: Tetrahedron_400
+    3300672: Tetrahedron_401
+    3300674: Tetrahedron_402
+    3300676: Tetrahedron_403
+    3300678: Tetrahedron_404
+    3300680: Tetrahedron_405
+    3300682: Tetrahedron_407
+    3300684: Tetrahedron_408
+    3300686: Tetrahedron_41
+    3300688: Tetrahedron_410
+    3300690: Tetrahedron_411
+    3300692: Tetrahedron_412
+    3300694: Tetrahedron_413
+    3300696: Tetrahedron_414
+    3300698: Tetrahedron_42
+    3300700: Tetrahedron_43
+    3300702: Tetrahedron_44
+    3300704: Tetrahedron_45
+    3300706: Tetrahedron_46
+    3300708: Tetrahedron_47
+    3300710: Tetrahedron_48
+    3300712: Tetrahedron_49
+    3300714: Tetrahedron_5
+    3300716: Tetrahedron_50
+    3300718: Tetrahedron_51
+    3300720: Tetrahedron_52
+    3300722: Tetrahedron_53
+    3300724: Tetrahedron_54
+    3300726: Tetrahedron_55
+    3300728: Tetrahedron_56
+    3300730: Tetrahedron_57
+    3300732: Tetrahedron_58
+    3300734: Tetrahedron_59
+    3300736: Tetrahedron_6
+    3300738: Tetrahedron_60
+    3300740: Tetrahedron_61
+    3300742: Tetrahedron_62
+    3300744: Tetrahedron_63
+    3300746: Tetrahedron_64
+    3300748: Tetrahedron_65
+    3300750: Tetrahedron_66
+    3300752: Tetrahedron_67
+    3300754: Tetrahedron_68
+    3300756: Tetrahedron_69
+    3300758: Tetrahedron_7
+    3300760: Tetrahedron_70
+    3300762: Tetrahedron_71
+    3300764: Tetrahedron_72
+    3300766: Tetrahedron_73
+    3300768: Tetrahedron_74
+    3300770: Tetrahedron_75
+    3300772: Tetrahedron_76
+    3300774: Tetrahedron_77
+    3300776: Tetrahedron_78
+    3300778: Tetrahedron_79
+    3300780: Tetrahedron_8
+    3300782: Tetrahedron_80
+    3300784: Tetrahedron_81
+    3300786: Tetrahedron_82
+    3300788: Tetrahedron_83
+    3300790: Tetrahedron_84
+    3300792: Tetrahedron_85
+    3300794: Tetrahedron_86
+    3300796: Tetrahedron_87
+    3300798: Tetrahedron_88
+    3300800: Tetrahedron_89
+    3300802: Tetrahedron_9
+    3300804: Tetrahedron_90
+    3300806: Tetrahedron_91
+    3300808: Tetrahedron_92
+    3300810: Tetrahedron_93
+    3300812: Tetrahedron_94
+    3300814: Tetrahedron_95
+    3300816: Tetrahedron_96
+    3300818: Tetrahedron_97
+    3300820: Tetrahedron_98
+    3300822: Tetrahedron_99
+    4300000: Tetrahedron
+    4300002: Tetrahedron_7
+    4300004: Tetrahedron_5
+    4300006: Tetrahedron_6
+    4300008: Tetrahedron_2
+    4300010: Tetrahedron_3
+    4300012: Tetrahedron_4
+    4300014: Tetrahedron_8
+    4300016: Tetrahedron_118
+    4300018: Tetrahedron_190
+    4300020: Tetrahedron_383
+    4300022: Tetrahedron_385
+    4300024: Tetrahedron_119
+    4300026: Tetrahedron_191
+    4300028: Tetrahedron_384
+    4300030: Tetrahedron_386
+    4300032: Tetrahedron_120
+    4300034: Tetrahedron_121
+    4300036: Tetrahedron_381
+    4300038: Tetrahedron_382
+    4300040: Tetrahedron_122
+    4300042: Tetrahedron_125
+    4300044: Tetrahedron_123
+    4300046: Tetrahedron_124
+    4300048: Tetrahedron_192
+    4300050: Tetrahedron_387
+    4300052: Tetrahedron_193
+    4300054: Tetrahedron_388
+    4300056: Tetrahedron_9
+    4300058: Tetrahedron_194
+    4300060: Tetrahedron_195
+    4300062: Tetrahedron_196
+    4300064: Tetrahedron_197
+    4300066: Tetrahedron_198
+    4300068: Tetrahedron_199
+    4300070: Tetrahedron_200
+    4300072: Tetrahedron_201
+    4300074: Tetrahedron_202
+    4300076: Tetrahedron_203
+    4300078: Tetrahedron_204
+    4300080: Tetrahedron_205
+    4300082: Tetrahedron_206
+    4300084: Tetrahedron_207
+    4300086: Tetrahedron_208
+    4300088: Tetrahedron_209
+    4300090: Tetrahedron_210
+    4300092: Tetrahedron_211
+    4300094: Tetrahedron_212
+    4300096: Tetrahedron_213
+    4300098: Tetrahedron_214
+    4300100: Tetrahedron_215
+    4300102: Tetrahedron_216
+    4300104: Tetrahedron_217
+    4300106: Tetrahedron_218
+    4300108: Tetrahedron_219
+    4300110: Tetrahedron_220
+    4300112: Tetrahedron_221
+    4300114: Tetrahedron_222
+    4300116: Tetrahedron_223
+    4300118: Tetrahedron_224
+    4300120: Tetrahedron_225
+    4300122: Tetrahedron_226
+    4300124: Tetrahedron_227
+    4300126: Tetrahedron_228
+    4300128: Tetrahedron_229
+    4300130: Tetrahedron_230
+    4300132: Tetrahedron_231
+    4300134: Tetrahedron_232
+    4300136: Tetrahedron_233
+    4300138: Tetrahedron_234
+    4300140: Tetrahedron_235
+    4300142: Tetrahedron_10
+    4300144: Tetrahedron_12
+    4300146: Tetrahedron_16
+    4300148: Tetrahedron_17
+    4300150: Tetrahedron_18
+    4300152: Tetrahedron_19
+    4300154: Tetrahedron_20
+    4300156: Tetrahedron_21
+    4300158: Tetrahedron_22
+    4300160: Tetrahedron_23
+    4300162: Tetrahedron_24
+    4300164: Tetrahedron_25
+    4300166: Tetrahedron_26
+    4300168: Tetrahedron_27
+    4300170: Tetrahedron_28
+    4300172: Tetrahedron_29
+    4300174: Tetrahedron_30
+    4300176: Tetrahedron_31
+    4300178: Tetrahedron_32
+    4300180: Tetrahedron_33
+    4300182: Tetrahedron_34
+    4300184: Tetrahedron_35
+    4300186: Tetrahedron_36
+    4300188: Tetrahedron_37
+    4300190: Tetrahedron_38
+    4300192: Tetrahedron_39
+    4300194: Tetrahedron_40
+    4300196: Tetrahedron_56
+    4300198: Tetrahedron_66
+    4300200: Tetrahedron_69
+    4300202: Tetrahedron_11
+    4300204: Tetrahedron_46
+    4300206: Tetrahedron_13
+    4300208: Tetrahedron_45
+    4300210: Tetrahedron_14
+    4300212: Tetrahedron_71
+    4300214: Tetrahedron_42
+    4300216: Tetrahedron_70
+    4300218: Tetrahedron_47
+    4300220: Tetrahedron_48
+    4300222: Tetrahedron_15
+    4300224: Tetrahedron_41
+    4300226: Tetrahedron_43
+    4300228: Tetrahedron_44
+    4300230: Tetrahedron_50
+    4300232: Tetrahedron_72
+    4300234: Tetrahedron_51
+    4300236: Tetrahedron_73
+    4300238: Tetrahedron_74
+    4300240: Tetrahedron_75
+    4300242: Tetrahedron_49
+    4300244: Tetrahedron_65
+    4300246: Tetrahedron_67
+    4300248: Tetrahedron_68
+    4300250: Tetrahedron_76
+    4300252: Tetrahedron_77
+    4300254: Tetrahedron_52
+    4300256: Tetrahedron_57
+    4300258: Tetrahedron_53
+    4300260: Tetrahedron_58
+    4300262: Tetrahedron_54
+    4300264: Tetrahedron_55
+    4300266: Tetrahedron_59
+    4300268: Tetrahedron_60
+    4300270: Tetrahedron_61
+    4300272: Tetrahedron_62
+    4300274: Tetrahedron_63
+    4300276: Tetrahedron_64
+    4300278: Tetrahedron_78
+    4300280: Tetrahedron_79
+    4300282: Tetrahedron_80
+    4300284: Tetrahedron_390
+    4300286: Tetrahedron_81
+    4300288: Tetrahedron_389
+    4300290: Tetrahedron_391
+    4300292: Tetrahedron_392
+    4300294: Tetrahedron_393
+    4300296: Tetrahedron_394
+    4300298: Tetrahedron_395
+    4300300: Tetrahedron_396
+    4300302: Tetrahedron_397
+    4300304: Tetrahedron_398
+    4300306: Tetrahedron_399
+    4300308: Tetrahedron_401
+    4300310: Tetrahedron_403
+    4300312: Tetrahedron_400
+    4300314: Tetrahedron_402
+    4300316: Tetrahedron_404
+    4300318: Tetrahedron_82
+    4300320: Tetrahedron_83
+    4300322: Tetrahedron_84
+    4300324: Tetrahedron_85
+    4300326: Tetrahedron_86
+    4300328: Tetrahedron_87
+    4300330: Tetrahedron_88
+    4300332: Tetrahedron_89
+    4300334: Tetrahedron_90
+    4300336: Tetrahedron_91
+    4300338: Tetrahedron_92
+    4300340: Tetrahedron_93
+    4300342: Tetrahedron_94
+    4300344: Tetrahedron_95
+    4300346: Tetrahedron_96
+    4300348: Tetrahedron_97
+    4300350: Tetrahedron_98
+    4300352: Tetrahedron_99
+    4300354: Tetrahedron_100
+    4300356: Tetrahedron_101
+    4300358: Tetrahedron_102
+    4300360: Tetrahedron_103
+    4300362: Tetrahedron_104
+    4300364: Tetrahedron_105
+    4300366: Tetrahedron_106
+    4300368: Tetrahedron_107
+    4300370: Tetrahedron_108
+    4300372: Tetrahedron_109
+    4300374: Tetrahedron_110
+    4300376: Tetrahedron_111
+    4300378: Tetrahedron_112
+    4300380: Tetrahedron_113
+    4300382: Tetrahedron_114
+    4300384: Tetrahedron_115
+    4300386: Tetrahedron_116
+    4300388: Tetrahedron_117
+    4300390: Tetrahedron_126
+    4300392: Tetrahedron_127
+    4300394: Tetrahedron_153
+    4300396: Tetrahedron_154
+    4300398: Tetrahedron_155
+    4300400: Tetrahedron_156
+    4300402: Tetrahedron_157
+    4300404: Tetrahedron_128
+    4300406: Tetrahedron_129
+    4300408: Tetrahedron_130
+    4300410: Tetrahedron_131
+    4300412: Tetrahedron_132
+    4300414: Tetrahedron_133
+    4300416: Tetrahedron_134
+    4300418: Tetrahedron_135
+    4300420: Tetrahedron_136
+    4300422: Tetrahedron_137
+    4300424: Tetrahedron_138
+    4300426: Tetrahedron_139
+    4300428: Tetrahedron_140
+    4300430: Tetrahedron_141
+    4300432: Tetrahedron_142
+    4300434: Tetrahedron_143
+    4300436: Tetrahedron_144
+    4300438: Tetrahedron_145
+    4300440: Tetrahedron_146
+    4300442: Tetrahedron_147
+    4300444: Tetrahedron_148
+    4300446: Tetrahedron_149
+    4300448: Tetrahedron_150
+    4300450: Tetrahedron_151
+    4300452: Tetrahedron_152
+    4300454: Tetrahedron_158
+    4300456: Tetrahedron_159
+    4300458: Tetrahedron_160
+    4300460: Tetrahedron_161
+    4300462: Tetrahedron_162
+    4300464: Tetrahedron_163
+    4300466: Tetrahedron_164
+    4300468: Tetrahedron_165
+    4300470: Tetrahedron_166
+    4300472: Tetrahedron_167
+    4300474: Tetrahedron_168
+    4300476: Tetrahedron_169
+    4300478: Tetrahedron_170
+    4300480: Tetrahedron_171
+    4300482: Tetrahedron_172
+    4300484: Tetrahedron_173
+    4300486: Tetrahedron_174
+    4300488: Tetrahedron_175
+    4300490: Tetrahedron_176
+    4300492: Tetrahedron_177
+    4300494: Tetrahedron_178
+    4300496: Tetrahedron_179
+    4300498: Tetrahedron_180
+    4300500: Tetrahedron_181
+    4300502: Tetrahedron_182
+    4300504: Tetrahedron_183
+    4300506: Tetrahedron_184
+    4300508: Tetrahedron_185
+    4300510: Tetrahedron_186
+    4300512: Tetrahedron_187
+    4300514: Tetrahedron_188
+    4300516: Tetrahedron_189
+    4300518: Tetrahedron_236
+    4300520: Tetrahedron_237
+    4300522: Tetrahedron_238
+    4300524: Tetrahedron_239
+    4300526: Tetrahedron_240
+    4300528: Tetrahedron_241
+    4300530: Tetrahedron_242
+    4300532: Tetrahedron_243
+    4300534: Tetrahedron_244
+    4300536: Tetrahedron_245
+    4300538: Tetrahedron_246
+    4300540: Tetrahedron_247
+    4300542: Tetrahedron_248
+    4300544: Tetrahedron_249
+    4300546: Tetrahedron_250
+    4300548: Tetrahedron_251
+    4300550: Tetrahedron_252
+    4300552: Tetrahedron_253
+    4300554: Tetrahedron_254
+    4300556: Tetrahedron_255
+    4300558: Tetrahedron_256
+    4300560: Tetrahedron_257
+    4300562: Tetrahedron_258
+    4300564: Tetrahedron_259
+    4300566: Tetrahedron_260
+    4300568: Tetrahedron_261
+    4300570: Tetrahedron_262
+    4300572: Tetrahedron_263
+    4300574: Tetrahedron_264
+    4300576: Tetrahedron_265
+    4300578: Tetrahedron_266
+    4300580: Tetrahedron_267
+    4300582: Tetrahedron_268
+    4300584: Tetrahedron_269
+    4300586: Tetrahedron_270
+    4300588: Tetrahedron_271
+    4300590: Tetrahedron_272
+    4300592: Tetrahedron_273
+    4300594: Tetrahedron_274
+    4300596: Tetrahedron_275
+    4300598: Tetrahedron_276
+    4300600: Tetrahedron_277
+    4300602: Tetrahedron_278
+    4300604: Tetrahedron_279
+    4300606: Tetrahedron_280
+    4300608: Tetrahedron_281
+    4300610: Tetrahedron_282
+    4300612: Tetrahedron_283
+    4300614: Tetrahedron_284
+    4300616: Tetrahedron_285
+    4300618: Tetrahedron_286
+    4300620: Tetrahedron_287
+    4300622: Tetrahedron_288
+    4300624: Tetrahedron_289
+    4300626: Tetrahedron_290
+    4300628: Tetrahedron_291
+    4300630: Tetrahedron_292
+    4300632: Tetrahedron_293
+    4300634: Tetrahedron_294
+    4300636: Tetrahedron_295
+    4300638: Tetrahedron_296
+    4300640: Tetrahedron_297
+    4300642: Tetrahedron_298
+    4300644: Tetrahedron_299
+    4300646: Tetrahedron_300
+    4300648: Tetrahedron_301
+    4300650: Tetrahedron_302
+    4300652: Tetrahedron_303
+    4300654: Tetrahedron_304
+    4300656: Tetrahedron_305
+    4300658: Tetrahedron_306
+    4300660: Tetrahedron_307
+    4300662: Tetrahedron_308
+    4300664: Tetrahedron_309
+    4300666: Tetrahedron_310
+    4300668: Tetrahedron_311
+    4300670: Tetrahedron_312
+    4300672: Tetrahedron_313
+    4300674: Tetrahedron_314
+    4300676: Tetrahedron_315
+    4300678: Tetrahedron_316
+    4300680: Tetrahedron_317
+    4300682: Tetrahedron_318
+    4300684: Tetrahedron_319
+    4300686: Tetrahedron_320
+    4300688: Tetrahedron_321
+    4300690: Tetrahedron_322
+    4300692: Tetrahedron_323
+    4300694: Tetrahedron_324
+    4300696: Tetrahedron_325
+    4300698: Tetrahedron_326
+    4300700: Tetrahedron_327
+    4300702: Tetrahedron_328
+    4300704: Tetrahedron_329
+    4300706: Tetrahedron_330
+    4300708: Tetrahedron_331
+    4300710: Tetrahedron_332
+    4300712: Tetrahedron_333
+    4300714: Tetrahedron_334
+    4300716: Tetrahedron_335
+    4300718: Tetrahedron_336
+    4300720: Tetrahedron_337
+    4300722: Tetrahedron_338
+    4300724: Tetrahedron_339
+    4300726: Tetrahedron_340
+    4300728: Tetrahedron_341
+    4300730: Tetrahedron_342
+    4300732: Tetrahedron_343
+    4300734: Tetrahedron_344
+    4300736: Tetrahedron_345
+    4300738: Tetrahedron_346
+    4300740: Tetrahedron_347
+    4300742: Tetrahedron_348
+    4300744: Tetrahedron_349
+    4300746: Tetrahedron_350
+    4300748: Tetrahedron_351
+    4300750: Tetrahedron_352
+    4300752: Tetrahedron_353
+    4300754: Tetrahedron_354
+    4300756: Tetrahedron_355
+    4300758: Tetrahedron_356
+    4300760: Tetrahedron_357
+    4300762: Tetrahedron_358
+    4300764: Tetrahedron_359
+    4300766: Tetrahedron_360
+    4300768: Tetrahedron_361
+    4300770: Tetrahedron_362
+    4300772: Tetrahedron_363
+    4300774: Tetrahedron_364
+    4300776: Tetrahedron_365
+    4300778: Tetrahedron_366
+    4300780: Tetrahedron_367
+    4300782: Tetrahedron_368
+    4300784: Tetrahedron_369
+    4300786: Tetrahedron_370
+    4300788: Tetrahedron_371
+    4300790: Tetrahedron_372
+    4300792: Tetrahedron_373
+    4300794: Tetrahedron_374
+    4300796: Tetrahedron_375
+    4300798: Tetrahedron_376
+    4300800: Tetrahedron_377
+    4300802: Tetrahedron_378
+    4300804: Tetrahedron_379
+    4300806: Tetrahedron_380
+    4300808: Tetrahedron_405
+    4300810: Tetrahedron_407
+    4300812: Tetrahedron_408
+    4300814: Tetrahedron_412
+    4300816: Tetrahedron_413
+    4300818: Tetrahedron_410
+    4300820: Tetrahedron_411
+    4300822: Tetrahedron_414
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

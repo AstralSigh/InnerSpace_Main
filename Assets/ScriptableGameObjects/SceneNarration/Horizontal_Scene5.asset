@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94e8900bdbef942ad19f626cdac685, type: 3}
+  m_Name: Horizontal_Scene5
+  m_EditorClassIdentifier: 
+  sceneHeader: Scene 5
+  sceneSubHeader: Maturation and Assembly
+  NarrationBeats:
+  - narrationText: "While insulin vesicles travel from the Golgi to the beta cell
+      membrane, an intricate microcosm of maturation and packing processes happens
+      inside. \r"
+    narrationTrack:
+      Guid:
+        Data1: 24761914
+        Data2: 1108328348
+        Data3: -420045137
+        Data4: -426824488
+      Path: event:/VO/scene_05_01
+  - narrationText: "This transforms the proinsulin into packaged insulin.\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1881810023
+        Data2: 1132243177
+        Data3: 2099012515
+        Data4: -636025563
+      Path: event:/VO/scene_05_02
+  - narrationText: "First, the fluid environment inside the vesicle gradually acidifies
+      as protons are steadily pumped into it. \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 213242083
+        Data2: 1322087771
+        Data3: -2134541171
+        Data4: 1564477009
+      Path: event:/VO/scene_05_03
+  - narrationText: "This acidity rouses enzymes inside the vesicle.\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1445216959
+        Data2: 1087677373
+        Data3: 541487283
+        Data4: -234677388
+      Path: event:/VO/scene_05_04
+  - narrationText: "These enzymes snip away parts of the proinsulin, leaving behind
+      insulin peptides that shape themselves into basic units called monomers.\r\r
+      \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -545778682
+        Data2: 1207877359
+        Data3: 1420155301
+        Data4: 902983365
+      Path: event:/VO/scene_05_05
+  - narrationText: "As more and more enzymes trim proinsulin into insulin monomers,
+      the concentration of insulin within the vesicle steadily rises.\r\r\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 206490409
+        Data2: 1271586084
+        Data3: 47226004
+        Data4: -1781532204
+      Path: event:/VO/scene_05_06
+  - narrationText: "When the concentration becomes high enough, the monomers start
+      binding together: first forming pairs called dimers, then into assemblies called
+      hexamers. \r\r\r\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: 1521590709
+        Data2: 1296449530
+        Data3: -2070623100
+        Data4: -270215465
+      Path: event:/VO/scene_05_07
+  - narrationText: "Clusters of insulin hexamers then begin to tile together in structured
+      and ordered patterns, manifesting throughout the interior of the vesicle as
+      tiny crystals.\r. \r\r\r\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -66170223
+        Data2: 1278185604
+        Data3: -1408779372
+        Data4: -206266257
+      Path: event:/VO/scene_05_08
+  - narrationText: "Finally, these smaller insulin crystals coalesce together into
+      one grand rhomboid monolith: a full insulin crystal, just as the insulin vesicle
+      nears maturation.\r\r. \r\r\r\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -602741108
+        Data2: 1189023334
+        Data3: -2038006373
+        Data4: -794880334
+      Path: event:/VO/scene_05_09
+  - narrationText: "When insulin vesicles have fully matured, they at last reach
+      the end of their migration and dock themselves underneath the cell\u2019s membrane.\r\r\r.
+      \r\r\r\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -577032999
+        Data2: 1119431088
+        Data3: -1455462746
+        Data4: 1479701598
+      Path: event:/VO/scene_05_10
+  - narrationText: "Here, the new batch of insulin waits patiently, until the next
+      round of signaling releases them to their destiny.\r\n\r\r\r. \r\r\r\r \r\r\r"
+    narrationTrack:
+      Guid:
+        Data1: -416979384
+        Data2: 1280442955
+        Data3: 431268782
+        Data4: -1694771435
+      Path: event:/VO/scene_05_11

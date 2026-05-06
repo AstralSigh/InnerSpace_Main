@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{eb645eb0-8139-4f5f-8770-023816ae286d}">
+		<property name="name">
+			<value>GLP1R</value>
+		</property>
+		<relationship name="folder">
+			<destination>{94ca635c-f0d2-4da8-aa74-68ac4030af26}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{eb42d9e5-b4de-48ee-aa20-ccb6dfe06b04}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{eb42d9e5-b4de-48ee-aa20-ccb6dfe06b04}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98a8cc874a0ba546a0f446bce49bcba, type: 3}
+  m_Name: ConData_GAlpha
+  m_EditorClassIdentifier: 
+  eConType: 8
+  conPortrait: {fileID: 21300000, guid: 82f534104e8810d43ace22a0ca48f7b6, type: 3}
+  conMetroCardBG: {fileID: 0}
+  conName: G Alpha
+  pathwayNarrative: 
+  npcDialogs: []
+  conHeader: G Alpha
+  conSubHeader: Guanine Nucleotide-Binding Protein Alpha Subunit
+  conInfoPoints: []
+  conInfoSources: 'Zhang et al, Nature, 546, 248 2017
+
+    Sprang SR. G protein mechanisms:
+    insights from structural analysis. Annu Rev Biochem. 1997;66:639-78'
+  conPathway: 'Pathway: Insulin Secretion'
+  conPDBNums: 1GIA
+  conFunction: "Messaging & Signaling. \nThe alpha protein will bind to another protein
+    in the pathway"
+  conDescription: G proteins have three subunits. This is the alpha subunit. Once
+    a G protein is activated by the GTP switch, the alpha subunit separates from
+    the rest of the complex.
+  conOrigin: Generated from Ribosomes
+  conDimensions: 'Volume: 40160 cubic Angstroms
+
+    Radius: 35 Angstroms
+
+    Height:
+    89.7 Angstroms'
+  conOpaqueMaterial: {fileID: 2100000, guid: 17f93de8be17b7841ac578feaeb6eabc, type: 2}
+  conClearMaterial: {fileID: 2100000, guid: 4a8992ccf5781a84291d84482b48507c, type: 2}

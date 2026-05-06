@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61bb34263c53a1488eee8a82db0057b, type: 3}
+  m_Name: Node_ImmCrystal_InsDimer_V2 1
+  m_EditorClassIdentifier: 
+  nodeName: 
+  nodePreview: {fileID: 21300000, guid: 2ddffa93302055f4586869d867c2a3e1, type: 3}
+  nodeNumber: 0
+  nodeNexus: 8
+  nodeConstituents: 17000000
+  nodePositions: []
+  nodeAbstract: 
+  nodeTextLayers:
+  - title: 
+    basic: Two insulin monomers join together by an intermolecular beta sheet to
+      form a dimer.
+    intermediate: 
+    advanced: 
+  - title: 
+    basic: An Insulin dimer is inactive for binding insulin receptors because its
+      binding site is locked up in dimer interface.
+    intermediate: 
+    advanced: 
+  - title: 
+    basic: Zinc is coordinated to 3 hisB10 (histine) residues in a dimer.
+    intermediate: 
+    advanced: 
+  - title: 
+    basic: Two dimers with Zincs will attach first before attracting a third dimer
+      to form a hexamer.
+    intermediate: 
+    advanced: 
+  nodeSpriteLayer: []

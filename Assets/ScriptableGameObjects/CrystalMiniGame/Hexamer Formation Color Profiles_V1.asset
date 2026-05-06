@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b69fb23697ee5c4abc5d793b737dc51, type: 3}
+  m_Name: Hexamer Formation Color Profiles_V1
+  m_EditorClassIdentifier: 
+  monomer:
+  - {fileID: 2100000, guid: 22f4cf9c85c910849af54b5c2b76ef21, type: 2}
+  - {fileID: 2100000, guid: 22f4cf9c85c910849af54b5c2b76ef21, type: 2}
+  - {fileID: 2100000, guid: 22f4cf9c85c910849af54b5c2b76ef21, type: 2}
+  - {fileID: 2100000, guid: 24f605c94a180914e93cd15a161a5afc, type: 2}
+  dimer:
+  - {fileID: 2100000, guid: beff538bbb993d649a3e9ee444d3dcd4, type: 2}
+  - {fileID: 2100000, guid: beff538bbb993d649a3e9ee444d3dcd4, type: 2}
+  - {fileID: 2100000, guid: beff538bbb993d649a3e9ee444d3dcd4, type: 2}
+  - {fileID: 2100000, guid: 24f605c94a180914e93cd15a161a5afc, type: 2}
+  hexamer3:
+  - {fileID: 2100000, guid: 829e14bbbe0fe08428dcc79f122fb3a0, type: 2}
+  - {fileID: 2100000, guid: af5c055e42169664fb92819107c34115, type: 2}
+  - {fileID: 2100000, guid: 829e14bbbe0fe08428dcc79f122fb3a0, type: 2}
+  - {fileID: 2100000, guid: 61d11cd5396cc854e8b003179283ebb5, type: 2}
+  hexamer2:
+  - {fileID: 2100000, guid: d69eeb577d91e0348934ffb206b0cbff, type: 2}
+  - {fileID: 2100000, guid: c6e31612c6846574bbdf8577828ce859, type: 2}
+  - {fileID: 2100000, guid: d69eeb577d91e0348934ffb206b0cbff, type: 2}
+  - {fileID: 2100000, guid: 24f605c94a180914e93cd15a161a5afc, type: 2}
+  hexamer1:
+  - {fileID: 2100000, guid: df2eb2b19a26f6242ae6c6104db30c8b, type: 2}
+  - {fileID: 2100000, guid: fe4af79425f637649bbffbe8e5c5673c, type: 2}
+  - {fileID: 2100000, guid: df2eb2b19a26f6242ae6c6104db30c8b, type: 2}
+  - {fileID: 2100000, guid: dc06d8bf90ff9454abaa7d21f1868dc7, type: 2}
+  monomerHighlighted:
+  - {fileID: 2100000, guid: 22f4cf9c85c910849af54b5c2b76ef21, type: 2}
+  - {fileID: 2100000, guid: 22f4cf9c85c910849af54b5c2b76ef21, type: 2}
+  - {fileID: 2100000, guid: 22f4cf9c85c910849af54b5c2b76ef21, type: 2}
+  - {fileID: 2100000, guid: 5a3a5882510268447b2d6ac4261dea45, type: 2}
+  dimerHighlighted:
+  - {fileID: 2100000, guid: beff538bbb993d649a3e9ee444d3dcd4, type: 2}
+  - {fileID: 2100000, guid: beff538bbb993d649a3e9ee444d3dcd4, type: 2}
+  - {fileID: 2100000, guid: 07241a81622d89e4da15237f64f7f23b, type: 2}
+  - {fileID: 2100000, guid: 24f605c94a180914e93cd15a161a5afc, type: 2}
+  zinc:
+  - {fileID: 2100000, guid: 57b3fbf0449b47a4eafe3adb6192053a, type: 2}
+  - {fileID: 2100000, guid: e025f6de9035c37418d5f8d7e9a665c1, type: 2}

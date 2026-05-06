@@ -1,0 +1,499 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 884e232af1c06fb46b86a4953ca164d3, type: 3}
+  m_Name: InsulinSavedEventTimes_InsulinDisolve
+  m_EditorClassIdentifier: 
+  bindingEventTimes:
+  - _time: 0.02
+    _bindingType: 2
+    _locationName: 0_03_Dimer(Clone)
+  - _time: 1.0587969
+    _bindingType: 2
+    _locationName: 1_03_Dimer(Clone)
+  - _time: 2.0773757
+    _bindingType: 2
+    _locationName: 2_03_Dimer(Clone)
+  - _time: 3.0996382
+    _bindingType: 2
+    _locationName: 3_03_Dimer(Clone)
+  - _time: 4.1210175
+    _bindingType: 2
+    _locationName: 4_03_Dimer(Clone)
+  - _time: 5.135448
+    _bindingType: 2
+    _locationName: 5_03_Dimer(Clone)
+  - _time: 6.1506863
+    _bindingType: 2
+    _locationName: 6_03_Dimer(Clone)
+  - _time: 7.158278
+    _bindingType: 2
+    _locationName: 7_03_Dimer(Clone)
+  - _time: 8.174614
+    _bindingType: 2
+    _locationName: 8_03_Dimer(Clone)
+  - _time: 9.196301
+    _bindingType: 2
+    _locationName: 9_03_Dimer(Clone)
+  - _time: 10.195192
+    _bindingType: 2
+    _locationName: 10_03_Dimer(Clone)
+  - _time: 11.204321
+    _bindingType: 2
+    _locationName: 11_03_Dimer(Clone)
+  - _time: 12.209783
+    _bindingType: 2
+    _locationName: 12_03_Dimer(Clone)
+  - _time: 13.239597
+    _bindingType: 2
+    _locationName: 13_03_Dimer(Clone)
+  - _time: 14.246172
+    _bindingType: 2
+    _locationName: 14_03_Dimer(Clone)
+  - _time: 15.255604
+    _bindingType: 2
+    _locationName: 15_03_Dimer(Clone)
+  - _time: 16.287594
+    _bindingType: 2
+    _locationName: 16_03_Dimer(Clone)
+  - _time: 17.290594
+    _bindingType: 2
+    _locationName: 17_03_Dimer(Clone)
+  - _time: 18.30904
+    _bindingType: 2
+    _locationName: 18_03_Dimer(Clone)
+  - _time: 19.317152
+    _bindingType: 2
+    _locationName: 19_03_Dimer(Clone)
+  - _time: 20.347279
+    _bindingType: 2
+    _locationName: 20_03_Dimer(Clone)
+  - _time: 21.353594
+    _bindingType: 2
+    _locationName: 21_03_Dimer(Clone)
+  - _time: 22.357162
+    _bindingType: 2
+    _locationName: 22_03_Dimer(Clone)
+  - _time: 23.122633
+    _bindingType: 1
+    _locationName: 5_03_Dimer(Clone)
+  - _time: 23.36488
+    _bindingType: 2
+    _locationName: 23_03_Dimer(Clone)
+  - _time: 24.383087
+    _bindingType: 2
+    _locationName: 24_03_Dimer(Clone)
+  - _time: 25.397419
+    _bindingType: 2
+    _locationName: 25_03_Dimer(Clone)
+  - _time: 26.406797
+    _bindingType: 2
+    _locationName: 26_03_Dimer(Clone)
+  - _time: 27.383677
+    _bindingType: 1
+    _locationName: 8_03_Dimer(Clone)
+  - _time: 27.417812
+    _bindingType: 2
+    _locationName: 27_03_Dimer(Clone)
+  - _time: 28.434984
+    _bindingType: 2
+    _locationName: 28_03_Dimer(Clone)
+  - _time: 29.448837
+    _bindingType: 2
+    _locationName: 29_03_Dimer(Clone)
+  - _time: 29.590612
+    _bindingType: 1
+    _locationName: 1_03_Dimer(Clone)
+  - _time: 29.93777
+    _bindingType: 1
+    _locationName: 0_03_Dimer(Clone)
+  - _time: 30.461737
+    _bindingType: 2
+    _locationName: 30_03_Dimer(Clone)
+  - _time: 31.476175
+    _bindingType: 2
+    _locationName: 31_03_Dimer(Clone)
+  - _time: 31.51292
+    _bindingType: 1
+    _locationName: 7_03_Dimer(Clone)
+  - _time: 32.486202
+    _bindingType: 2
+    _locationName: 32_03_Dimer(Clone)
+  - _time: 33.501785
+    _bindingType: 2
+    _locationName: 33_03_Dimer(Clone)
+  - _time: 34.516663
+    _bindingType: 2
+    _locationName: 34_03_Dimer(Clone)
+  - _time: 35.532116
+    _bindingType: 2
+    _locationName: 35_03_Dimer(Clone)
+  - _time: 35.915585
+    _bindingType: 1
+    _locationName: 6_03_Dimer(Clone)
+  - _time: 36.55678
+    _bindingType: 2
+    _locationName: 36_03_Dimer(Clone)
+  - _time: 36.591454
+    _bindingType: 1
+    _locationName: 18_03_Dimer(Clone)
+  - _time: 37.582092
+    _bindingType: 2
+    _locationName: 37_03_Dimer(Clone)
+  - _time: 37.897224
+    _bindingType: 1
+    _locationName: 4_03_Dimer(Clone)
+  - _time: 38.606056
+    _bindingType: 2
+    _locationName: 38_03_Dimer(Clone)
+  - _time: 39.346504
+    _bindingType: 1
+    _locationName: 21_03_Dimer(Clone)
+  - _time: 39.628826
+    _bindingType: 2
+    _locationName: 39_03_Dimer(Clone)
+  - _time: 40.64639
+    _bindingType: 2
+    _locationName: 40_03_Dimer(Clone)
+  - _time: 41.65038
+    _bindingType: 2
+    _locationName: 41_03_Dimer(Clone)
+  - _time: 42.675266
+    _bindingType: 2
+    _locationName: 42_03_Dimer(Clone)
+  - _time: 43.70754
+    _bindingType: 2
+    _locationName: 43_03_Dimer(Clone)
+  - _time: 44.71497
+    _bindingType: 2
+    _locationName: 44_03_Dimer(Clone)
+  - _time: 45.184708
+    _bindingType: 1
+    _locationName: 25_03_Dimer(Clone)
+  - _time: 45.721455
+    _bindingType: 2
+    _locationName: 45_03_Dimer(Clone)
+  - _time: 46.320213
+    _bindingType: 1
+    _locationName: 17_03_Dimer(Clone)
+  - _time: 46.7393
+    _bindingType: 2
+    _locationName: 46_03_Dimer(Clone)
+  - _time: 47.369602
+    _bindingType: 1
+    _locationName: 24_03_Dimer(Clone)
+  - _time: 47.754444
+    _bindingType: 2
+    _locationName: 47_03_Dimer(Clone)
+  - _time: 48.78495
+    _bindingType: 2
+    _locationName: 48_03_Dimer(Clone)
+  - _time: 49.81178
+    _bindingType: 2
+    _locationName: 49_03_Dimer(Clone)
+  - _time: 50.82704
+    _bindingType: 2
+    _locationName: 50_03_Dimer(Clone)
+  - _time: 51.833115
+    _bindingType: 2
+    _locationName: 51_03_Dimer(Clone)
+  - _time: 52.852757
+    _bindingType: 2
+    _locationName: 52_03_Dimer(Clone)
+  - _time: 53.853397
+    _bindingType: 2
+    _locationName: 53_03_Dimer(Clone)
+  - _time: 54.588535
+    _bindingType: 1
+    _locationName: 14_03_Dimer(Clone)
+  - _time: 54.871292
+    _bindingType: 2
+    _locationName: 54_03_Dimer(Clone)
+  - _time: 55.878033
+    _bindingType: 2
+    _locationName: 55_03_Dimer(Clone)
+  - _time: 56.90932
+    _bindingType: 2
+    _locationName: 56_03_Dimer(Clone)
+  - _time: 57.50891
+    _bindingType: 1
+    _locationName: 20_03_Dimer(Clone)
+  - _time: 57.82749
+    _bindingType: 1
+    _locationName: 32_03_Dimer(Clone)
+  - _time: 57.930325
+    _bindingType: 2
+    _locationName: 57_03_Dimer(Clone)
+  - _time: 58.9575
+    _bindingType: 2
+    _locationName: 58_03_Dimer(Clone)
+  - _time: 59.96643
+    _bindingType: 2
+    _locationName: 59_03_Dimer(Clone)
+  - _time: 60.563324
+    _bindingType: 1
+    _locationName: 15_03_Dimer(Clone)
+  - _time: 60.985203
+    _bindingType: 2
+    _locationName: 60_03_Dimer(Clone)
+  - _time: 61.053886
+    _bindingType: 1
+    _locationName: 23_03_Dimer(Clone)
+  - _time: 62.004074
+    _bindingType: 2
+    _locationName: 61_03_Dimer(Clone)
+  - _time: 62.70928
+    _bindingType: 1
+    _locationName: 42_03_Dimer(Clone)
+  - _time: 63.026474
+    _bindingType: 2
+    _locationName: 62_03_Dimer(Clone)
+  - _time: 63.978367
+    _bindingType: 1
+    _locationName: 35_03_Dimer(Clone)
+  - _time: 64.04819
+    _bindingType: 2
+    _locationName: 63_03_Dimer(Clone)
+  - _time: 64.11937
+    _bindingType: 1
+    _locationName: 39_03_Dimer(Clone)
+  - _time: 64.54592
+    _bindingType: 1
+    _locationName: 22_03_Dimer(Clone)
+  - _time: 65.0735
+    _bindingType: 2
+    _locationName: 64_03_Dimer(Clone)
+  - _time: 66.080315
+    _bindingType: 2
+    _locationName: 65_03_Dimer(Clone)
+  - _time: 67.11281
+    _bindingType: 2
+    _locationName: 66_03_Dimer(Clone)
+  - _time: 67.53444
+    _bindingType: 1
+    _locationName: 13_03_Dimer(Clone)
+  - _time: 68.13431
+    _bindingType: 2
+    _locationName: 67_03_Dimer(Clone)
+  - _time: 69.15646
+    _bindingType: 2
+    _locationName: 68_03_Dimer(Clone)
+  - _time: 70.18737
+    _bindingType: 2
+    _locationName: 69_03_Dimer(Clone)
+  - _time: 71.21024
+    _bindingType: 2
+    _locationName: 70_03_Dimer(Clone)
+  - _time: 72.22617
+    _bindingType: 2
+    _locationName: 71_03_Dimer(Clone)
+  - _time: 73.23546
+    _bindingType: 2
+    _locationName: 72_03_Dimer(Clone)
+  - _time: 74.26451
+    _bindingType: 2
+    _locationName: 73_03_Dimer(Clone)
+  - _time: 75.28373
+    _bindingType: 2
+    _locationName: 74_03_Dimer(Clone)
+  - _time: 75.57432
+    _bindingType: 1
+    _locationName: 26_03_Dimer(Clone)
+  - _time: 76.28769
+    _bindingType: 2
+    _locationName: 75_03_Dimer(Clone)
+  - _time: 77.2901
+    _bindingType: 2
+    _locationName: 76_03_Dimer(Clone)
+  - _time: 78.0285
+    _bindingType: 1
+    _locationName: 30_03_Dimer(Clone)
+  - _time: 78.253006
+    _bindingType: 1
+    _locationName: 2_03_Dimer(Clone)
+  - _time: 78.32476
+    _bindingType: 2
+    _locationName: 77_03_Dimer(Clone)
+  - _time: 78.97551
+    _bindingType: 1
+    _locationName: 12_03_Dimer(Clone)
+  - _time: 79.08711
+    _bindingType: 1
+    _locationName: 54_03_Dimer(Clone)
+  - _time: 79.33654
+    _bindingType: 2
+    _locationName: 78_03_Dimer(Clone)
+  - _time: 80.343025
+    _bindingType: 2
+    _locationName: 79_03_Dimer(Clone)
+  - _time: 80.95013
+    _bindingType: 1
+    _locationName: 55_03_Dimer(Clone)
+  - _time: 82.22287
+    _bindingType: 1
+    _locationName: 59_03_Dimer(Clone)
+  - _time: 82.36687
+    _bindingType: 2
+    _locationName: 81_03_Dimer(Clone)
+  - _time: 82.543816
+    _bindingType: 1
+    _locationName: 19_03_Dimer(Clone)
+  - _time: 83.401306
+    _bindingType: 2
+    _locationName: 82_03_Dimer(Clone)
+  - _time: 84.41756
+    _bindingType: 2
+    _locationName: 83_03_Dimer(Clone)
+  - _time: 85.42426
+    _bindingType: 2
+    _locationName: 84_03_Dimer(Clone)
+  - _time: 86.434
+    _bindingType: 2
+    _locationName: 85_03_Dimer(Clone)
+  - _time: 86.434
+    _bindingType: 1
+    _locationName: 50_03_Dimer(Clone)
+  - _time: 87.466896
+    _bindingType: 2
+    _locationName: 86_03_Dimer(Clone)
+  - _time: 88.01227
+    _bindingType: 1
+    _locationName: 11_03_Dimer(Clone)
+  - _time: 88.48682
+    _bindingType: 2
+    _locationName: 87_03_Dimer(Clone)
+  - _time: 88.70373
+    _bindingType: 1
+    _locationName: 38_03_Dimer(Clone)
+  - _time: 89.50344
+    _bindingType: 2
+    _locationName: 88_03_Dimer(Clone)
+  - _time: 89.50344
+    _bindingType: 1
+    _locationName: 72_03_Dimer(Clone)
+  - _time: 90.12639
+    _bindingType: 1
+    _locationName: 3_03_Dimer(Clone)
+  - _time: 90.32413
+    _bindingType: 1
+    _locationName: 52_03_Dimer(Clone)
+  - _time: 90.53675
+    _bindingType: 2
+    _locationName: 89_03_Dimer(Clone)
+  - _time: 91.08532
+    _bindingType: 1
+    _locationName: 73_03_Dimer(Clone)
+  - _time: 91.12113
+    _bindingType: 1
+    _locationName: 31_03_Dimer(Clone)
+  - _time: 91.344246
+    _bindingType: 1
+    _locationName: 29_03_Dimer(Clone)
+  - _time: 91.56348
+    _bindingType: 2
+    _locationName: 90_03_Dimer(Clone)
+  - _time: 91.63739
+    _bindingType: 1
+    _locationName: 10_03_Dimer(Clone)
+  - _time: 91.7145
+    _bindingType: 1
+    _locationName: 44_03_Dimer(Clone)
+  - _time: 92.55568
+    _bindingType: 1
+    _locationName: 64_03_Dimer(Clone)
+  - _time: 92.59229
+    _bindingType: 2
+    _locationName: 91_03_Dimer(Clone)
+  - _time: 92.62772
+    _bindingType: 1
+    _locationName: 53_03_Dimer(Clone)
+  - _time: 93.0597
+    _bindingType: 1
+    _locationName: 16_03_Dimer(Clone)
+  - _time: 93.594124
+    _bindingType: 2
+    _locationName: 92_03_Dimer(Clone)
+  - _time: 93.81752
+    _bindingType: 1
+    _locationName: 36_03_Dimer(Clone)
+  - _time: 94.60892
+    _bindingType: 2
+    _locationName: 93_03_Dimer(Clone)
+  - _time: 95.28664
+    _bindingType: 1
+    _locationName: 51_03_Dimer(Clone)
+  - _time: 95.39184
+    _bindingType: 1
+    _locationName: 68_03_Dimer(Clone)
+  - _time: 95.610504
+    _bindingType: 2
+    _locationName: 94_03_Dimer(Clone)
+  - _time: 95.99535
+    _bindingType: 1
+    _locationName: 41_03_Dimer(Clone)
+  - _time: 96.3816
+    _bindingType: 1
+    _locationName: 28_03_Dimer(Clone)
+  - _time: 96.61694
+    _bindingType: 2
+    _locationName: 95_03_Dimer(Clone)
+  - _time: 96.65234
+    _bindingType: 1
+    _locationName: 46_03_Dimer(Clone)
+  - _time: 97.02102
+    _bindingType: 1
+    _locationName: 57_03_Dimer(Clone)
+  - _time: 97.6472
+    _bindingType: 2
+    _locationName: 96_03_Dimer(Clone)
+  - _time: 98.260475
+    _bindingType: 1
+    _locationName: 9_03_Dimer(Clone)
+  - _time: 98.65654
+    _bindingType: 2
+    _locationName: 97_03_Dimer(Clone)
+  - _time: 99.47585
+    _bindingType: 1
+    _locationName: 65_03_Dimer(Clone)
+  - _time: 99.66698
+    _bindingType: 2
+    _locationName: 98_03_Dimer(Clone)
+  - _time: 100.19533
+    _bindingType: 1
+    _locationName: 78_03_Dimer(Clone)
+  - _time: 100.658775
+    _bindingType: 2
+    _locationName: 99_03_Dimer(Clone)
+  - _time: 103.858696
+    _bindingType: 1
+    _locationName: 49_03_Dimer(Clone)
+  - _time: 104.996895
+    _bindingType: 1
+    _locationName: 77_03_Dimer(Clone)
+  - _time: 105.21664
+    _bindingType: 1
+    _locationName: 81_03_Dimer(Clone)
+  - _time: 105.63532
+    _bindingType: 1
+    _locationName: 75_03_Dimer(Clone)
+  - _time: 106.107864
+    _bindingType: 1
+    _locationName: 88_03_Dimer(Clone)
+  - _time: 106.53709
+    _bindingType: 1
+    _locationName: 60_03_Dimer(Clone)
+  - _time: 107.43971
+    _bindingType: 1
+    _locationName: 27_03_Dimer(Clone)
+  - _time: 107.842445
+    _bindingType: 1
+    _locationName: 67_03_Dimer(Clone)
+  _animationDuration: 104.12499

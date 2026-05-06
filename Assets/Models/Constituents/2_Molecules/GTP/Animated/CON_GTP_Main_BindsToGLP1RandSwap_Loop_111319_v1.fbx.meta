@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 3d78e8826118fd84693fbb51a1339944
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_Ctrl01
+    100002: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_geo
+    100004: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_joint01
+    100006: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_MasterCTRL
+    100008: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_MoveCTRL
+    100010: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:joint2
+    100012: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:joint3
+    100014: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:joint4
+    100016: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:nurbsCircle2
+    100018: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:nurbsCircle3
+    100020: //RootNode
+    400000: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_Ctrl01
+    400002: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_geo
+    400004: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_joint01
+    400006: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_MasterCTRL
+    400008: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_MoveCTRL
+    400010: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:joint2
+    400012: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:joint3
+    400014: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:joint4
+    400016: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:nurbsCircle2
+    400018: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:nurbsCircle3
+    400020: //RootNode
+    2100000: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1_ONLY_GProtein_GDP_GTP_Anim03_SEPARATE_GProtein_GDP_GTP_Anim_GProtein_GDP_GTP_Anim_04_GTP_rig1_Material_1
+    4300000: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_geo
+    7400000: GTP_GLP1RBindAndSwap_111319
+    9500000: //RootNode
+    13700000: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1:ONLY_GProtein_GDP_GTP_Anim03:SEPARATE_GProtein_GDP_GTP_Anim:GProtein_GDP_GTP_Anim_04:GTP_rig1:GTP_geo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CON_GProtein_GDP_GTP_Main_BindsToGLP1RandSwap_Loop_101019_v1_ONLY_GProtein_GDP_GTP_Anim03_SEPARATE_GProtein_GDP_GTP_Anim_GProtein_GDP_GTP_Anim_04_GTP_rig1_Material_1
+    second: {fileID: 2100000, guid: 07ddfcc9f13bf6e42bf7569c3ca62341, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GTP_GLP1RBindAndSwap_111319
+      takeName: 111319_v1
+      firstFrame: 1
+      lastFrame: 1300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
